@@ -1,0 +1,563 @@
+index.html
+
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>IPO Radar — Live GMP & Subscribe/Avoid Verdicts</title>
+<meta name="description" content="Live Indian IPO grey-market premium (GMP) tracker with a transparent, rule-based subscribe/avoid verdict for every open and upcoming IPO." />
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📈</text></svg>" />
+<script>
+  /* Set the theme before first paint (stored choice, else OS preference) to avoid a flash. */
+  (function () {
+    try {
+      var t = localStorage.getItem('ipo-theme');
+      if (t !== 'light' && t !== 'dark') t = matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark';
+      document.documentElement.setAttribute('data-theme', t);
+    } catch (e) { document.documentElement.setAttribute('data-theme', 'dark'); }
+  })();
+</script>
+<style>
+  :root{
+    --radius:14px;
+    --font: system-ui,-apple-system,"Segoe UI",sans-serif;
+    /* status colours are fixed (not themed) */
+    --good:#0ca30c; --warning:#fab219; --serious:#ec835a; --critical:#d03b3b;
+  }
+  :root[data-theme="dark"]{
+    color-scheme: dark;
+    --plane:#0d0d0d; --surface:#1a1a19; --surface-2:#222221;
+    --ink:#ffffff; --ink-2:#c3c2b7; --muted:#898781;
+    --grid:#2c2c2a; --border:rgba(255,255,255,.10);
+    --series:#3987e5; --series-2:#199e70;
+    --v-sub:#43d143; --v-con:#fab219; --v-neu:#c3c2b7; --v-avo:#f36b6b;
+    --logo-shadow:rgba(57,135,229,.35);
+  }
+  :root[data-theme="light"]{
+    color-scheme: light;
+    --plane:#eceef1; --surface:#ffffff; --surface-2:#f3f5f7;
+    --ink:#0b0b0b; --ink-2:#4a4a48; --muted:#77756f;
+    --grid:#e3e3dd; --border:rgba(11,11,11,.12);
+    --series:#2a78d6; --series-2:#1baf7a;
+    --v-sub:#0a8a0a; --v-con:#9a6600; --v-neu:#52514e; --v-avo:#c0392b;
+    --logo-shadow:rgba(42,120,214,.20);
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0}
+  body{background:var(--plane);color:var(--ink);font-family:var(--font);line-height:1.5;-webkit-font-smoothing:antialiased}
+  a{color:var(--series)}
+  .wrap{max-width:1140px;margin:0 auto;padding:24px 18px 64px}
+
+  /* Header */
+  header.top{display:flex;flex-wrap:wrap;align-items:flex-end;gap:12px 20px;margin-bottom:8px}
+  .brand{display:flex;align-items:center;gap:12px}
+  .logo{width:40px;height:40px;border-radius:11px;background:linear-gradient(135deg,var(--series),var(--series-2));display:grid;place-items:center;font-weight:800;font-size:20px;color:#fff;box-shadow:0 4px 18px var(--logo-shadow)}
+  h1{font-size:1.5rem;margin:0;letter-spacing:-.02em}
+  .tag{color:var(--muted);font-size:.9rem;margin:2px 0 0}
+  .meta{margin-left:auto;text-align:right;color:var(--muted);font-size:.78rem}
+  .meta b{color:var(--ink-2);font-weight:600}
+  .theme-btn{background:var(--surface);border:1px solid var(--border);color:var(--ink-2);border-radius:10px;width:38px;height:38px;flex:none;cursor:pointer;font-size:1.05rem;line-height:1}
+  .theme-btn:hover{border-color:var(--series)}
+
+  /* Hero stats */
+  .stats{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin:18px 0 8px}
+  .stat{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:14px 16px}
+  .stat .v{font-size:1.7rem;font-weight:700;letter-spacing:-.02em}
+  .stat .l{color:var(--muted);font-size:.76rem;text-transform:uppercase;letter-spacing:.06em;margin-top:2px}
+  .stat.accent .v{color:var(--good)}
+  @media(max-width:720px){.stats{grid-template-columns:repeat(2,1fr)}}
+
+  /* Controls */
+  .controls{display:flex;flex-wrap:wrap;gap:10px;align-items:center;margin:22px 0 14px;position:sticky;top:0;background:linear-gradient(var(--plane),var(--plane) 70%,transparent);padding:10px 0;z-index:5}
+  .tabs{display:flex;background:var(--surface);border:1px solid var(--border);border-radius:10px;padding:3px}
+  .tabs button{background:none;border:0;color:var(--ink-2);font:inherit;font-size:.85rem;padding:7px 14px;border-radius:7px;cursor:pointer}
+  .tabs button[aria-selected=true]{background:var(--series);color:#fff}
+  input[type=search],select{background:var(--surface);border:1px solid var(--border);color:var(--ink);font:inherit;font-size:.88rem;border-radius:10px;padding:8px 12px}
+  input[type=search]{flex:1;min-width:180px}
+  select{cursor:pointer}
+  .controls .spacer{flex:1}
+
+  /* Grid */
+  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:14px}
+  .card{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:16px;cursor:pointer;transition:border-color .15s,transform .15s;display:flex;flex-direction:column;gap:12px}
+  .card:hover{border-color:rgba(255,255,255,.22);transform:translateY(-2px)}
+  .card:focus-visible{outline:2px solid var(--series);outline-offset:2px}
+  .card .name{font-weight:700;font-size:1.05rem;letter-spacing:-.01em;line-height:1.25}
+  .pills{display:flex;gap:6px;flex-wrap:wrap;margin-top:4px}
+  .pill{font-size:.68rem;text-transform:uppercase;letter-spacing:.05em;padding:3px 8px;border-radius:999px;border:1px solid var(--border);color:var(--ink-2)}
+  .pill.seg{background:rgba(57,135,229,.14);border-color:transparent;color:#9cc4f5}
+  .pill.st-open{color:#7fe0b0} .pill.st-upcoming{color:var(--ink-2)} .pill.st-closed,.pill.st-listing{color:var(--muted)}
+
+  .metrics{display:flex;gap:16px;align-items:flex-end}
+  .metric .k{color:var(--muted);font-size:.7rem;text-transform:uppercase;letter-spacing:.05em}
+  .metric .val{font-size:1.35rem;font-weight:700;letter-spacing:-.02em;display:flex;align-items:center;gap:5px}
+  .trend{font-size:.8rem}
+  .trend.up{color:var(--good)} .trend.down{color:var(--critical)} .trend.flat{color:var(--muted)}
+
+  .bar{height:7px;border-radius:5px;background:var(--surface-2);overflow:hidden;margin-top:7px}
+  .bar > span{display:block;height:100%;border-radius:5px;background:var(--series)}
+
+  .verdict{display:flex;align-items:center;gap:10px;margin-top:2px;padding-top:12px;border-top:1px solid var(--grid)}
+  .badge{font-weight:700;font-size:.82rem;padding:5px 11px;border-radius:9px;display:inline-flex;align-items:center;gap:6px;white-space:nowrap}
+  .badge .ic{font-size:.7rem}
+  .b-SUBSCRIBE{background:rgba(12,163,12,.16);color:var(--v-sub)} .b-CONSIDER{background:rgba(250,178,25,.18);color:var(--v-con)}
+  .b-NEUTRAL{background:rgba(137,135,129,.18);color:var(--v-neu)} .b-AVOID{background:rgba(208,59,59,.16);color:var(--v-avo)}
+  .why{color:var(--ink-2);font-size:.82rem;margin:0}
+  .score-chip{margin-left:auto;font-variant-numeric:tabular-nums;font-weight:700;font-size:.95rem;color:var(--ink)}
+  .score-chip small{color:var(--muted);font-weight:500;font-size:.68rem;display:block;text-align:right;letter-spacing:.04em}
+
+  /* Modal */
+  .overlay{position:fixed;inset:0;background:rgba(0,0,0,.6);backdrop-filter:blur(3px);display:none;align-items:flex-start;justify-content:center;padding:30px 16px;overflow:auto;z-index:20}
+  .overlay.open{display:flex}
+  .modal{background:var(--surface);border:1px solid var(--border);border-radius:18px;max-width:760px;width:100%;padding:24px}
+  .modal h2{margin:0;font-size:1.4rem;letter-spacing:-.02em}
+  .close{position:sticky;float:right;top:0;background:var(--surface-2);border:1px solid var(--border);color:var(--ink);width:32px;height:32px;border-radius:8px;cursor:pointer;font-size:1rem}
+  .kv{display:grid;grid-template-columns:repeat(auto-fit,minmax(110px,1fr));gap:10px;margin:16px 0}
+  .kv .cell{background:var(--surface-2);border-radius:10px;padding:10px 12px}
+  .kv .cell .k{color:var(--muted);font-size:.68rem;text-transform:uppercase;letter-spacing:.05em}
+  .kv .cell .v{font-weight:700;margin-top:2px;font-variant-numeric:tabular-nums}
+  .section-title{font-size:.74rem;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);margin:22px 0 8px}
+  .about{color:var(--ink-2);font-size:.92rem}
+  .legend{display:flex;gap:16px;font-size:.76rem;color:var(--ink-2);margin:4px 0 8px}
+  .legend i{display:inline-block;width:10px;height:10px;border-radius:3px;margin-right:5px;vertical-align:-1px}
+
+  .score-row{display:grid;grid-template-columns:120px 1fr 42px;align-items:center;gap:10px;margin:8px 0}
+  .score-row .lab{font-size:.82rem;color:var(--ink-2)}
+  .score-row .num{text-align:right;font-variant-numeric:tabular-nums;font-weight:700;font-size:.85rem}
+  .score-row.na{opacity:.5}
+  .notes{list-style:none;padding:0;margin:10px 0 0}
+  .notes li{font-size:.85rem;color:var(--ink-2);padding:3px 0 3px 20px;position:relative}
+  .notes li.plus:before{content:"▲";color:var(--good);position:absolute;left:0;font-size:.6rem;top:5px}
+  .notes li.minus:before{content:"▼";color:var(--critical);position:absolute;left:0;font-size:.6rem;top:5px}
+  .notes li.info:before{content:"•";color:var(--muted);position:absolute;left:0;top:2px}
+
+  .overall{display:flex;align-items:center;gap:14px;background:var(--surface-2);border-radius:12px;padding:14px 16px;margin:14px 0}
+  .gauge{--p:0;width:64px;height:64px;border-radius:50%;background:conic-gradient(var(--gc) calc(var(--p)*1%),var(--grid) 0);display:grid;place-items:center;flex:none}
+  .gauge span{width:48px;height:48px;border-radius:50%;background:var(--surface-2);display:grid;place-items:center;font-weight:800;font-variant-numeric:tabular-nums}
+  .disclaimer{color:var(--muted);font-size:.76rem;border-top:1px solid var(--grid);margin-top:22px;padding-top:14px}
+  footer{color:var(--muted);font-size:.78rem;text-align:center;margin-top:34px}
+  .empty{color:var(--muted);text-align:center;padding:60px 0}
+  svg .axis{stroke:var(--grid)} svg text{fill:var(--muted);font-size:10px}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="top">
+    <div class="brand">
+      <div class="logo">📈</div>
+      <div>
+        <h1>IPO Radar</h1>
+        <p class="tag">Live grey-market premium &amp; a transparent subscribe/avoid scorecard</p>
+      </div>
+    </div>
+    <div class="meta" id="meta"></div>
+    <button class="theme-btn" id="theme" aria-label="Toggle light or dark theme" title="Toggle theme"></button>
+  </header>
+
+  <section class="stats" id="stats"></section>
+
+  <div class="controls">
+    <div class="tabs" id="tabs" role="tablist">
+      <button role="tab" aria-selected="true" data-seg="all">All</button>
+      <button role="tab" aria-selected="false" data-seg="mainboard">Mainboard</button>
+      <button role="tab" aria-selected="false" data-seg="sme">SME</button>
+    </div>
+    <input type="search" id="q" placeholder="Search IPO…" aria-label="Search IPOs" />
+    <select id="sort" aria-label="Sort by">
+      <option value="score">Sort: Verdict score</option>
+      <option value="gain">Sort: Expected gain %</option>
+      <option value="gmp">Sort: GMP (₹)</option>
+      <option value="fundamentals">Sort: Fundamentals</option>
+      <option value="status">Sort: Status</option>
+    </select>
+  </div>
+
+  <div class="grid" id="grid"></div>
+  <div class="empty" id="empty" hidden>No IPOs match your search.</div>
+
+  <p class="disclaimer" id="foot-disc"></p>
+  <footer>Built as a portfolio project • Data scraped from <a id="src" href="#" rel="noopener">ipowatch.in</a> • Verdict is an automated heuristic, not advice.</footer>
+</div>
+
+<div class="overlay" id="overlay" role="dialog" aria-modal="true">
+  <div class="modal" id="modal"></div>
+</div>
+
+<script>
+/* ============================================================================
+ *  SCORECARD — this is YOUR conclusion engine. Edit freely.
+ *  Each signal returns a 0–100 sub-score; the overall is a weighted average
+ *  over whichever signals have data for that IPO (weights auto-renormalise).
+ * ==========================================================================*/
+const CONFIG = {
+  // Relative importance of each signal (any scale — they are renormalised).
+  weights: { gmp: 40, subscription: 20, fundamentals: 25, promoter: 15 },
+  // Overall score → verdict, checked top-down.
+  bands: [
+    { min: 75, key: 'SUBSCRIBE' },
+    { min: 60, key: 'CONSIDER' },
+    { min: 45, key: 'NEUTRAL' },
+    { min: 0,  key: 'AVOID' },
+  ],
+};
+
+const clamp = (n) => Math.max(0, Math.min(100, n));
+
+// 1) GMP / expected listing gain — the grey-market demand signal.
+function scoreGmp(ipo) {
+  let g = ipo.estGainPct;
+  const notes = [];
+  if (ipo.gmp == null || ipo.gmp === 0) {
+    // No premium yet ≠ a negative signal — score it neutral, not "avoid".
+    notes.push({ t: 'info', text: 'No grey-market premium yet — listing demand not discovered; treated as neutral.' });
+    return { available: true, score: 45, notes };
+  }
+  // GMP exists but the listing-gain % wasn't published: derive it from the price band,
+  // else stay neutral — never let a real premium score as ~0% via a null comparison.
+  if (g == null) {
+    if (ipo.priceBandUpper) g = +((ipo.gmp / ipo.priceBandUpper) * 100).toFixed(2);
+    else { notes.push({ t: 'info', text: `GMP is ₹${ipo.gmp}, but the listing gain % isn't published yet.` }); return { available: true, score: 45, notes }; }
+  }
+  let s;
+  if (g >= 50) s = 100; else if (g >= 30) s = 90; else if (g >= 20) s = 80;
+  else if (g >= 12) s = 68; else if (g >= 6) s = 55; else if (g >= 2) s = 42;
+  else if (g >= 0) s = 30; else s = 10;
+  notes.push({ t: g >= 12 ? 'plus' : (g < 2 ? 'minus' : 'info'),
+    text: `Grey market implies ~${(g ?? 0).toFixed(1)}% listing gain.` });
+  if (ipo.trend === 'up') { s = clamp(s + 5); notes.push({ t: 'plus', text: 'GMP trend is rising.' }); }
+  else if (ipo.trend === 'down') { s = clamp(s - 8); notes.push({ t: 'minus', text: 'GMP trend is falling — premium may erode by listing.' }); }
+  return { available: true, score: s, notes };
+}
+
+// 2) Subscription — institutional/retail demand (only once the IPO is open).
+function scoreSubscription(ipo) {
+  const sub = ipo.subscription;
+  if (!sub || (sub.overall == null && sub.qib == null && sub.nii == null && sub.retail == null)) {
+    return { available: false, notes: [{ t: 'info', text: 'Subscription data appears once the IPO opens.' }] };
+  }
+  // Prefer overall; otherwise report whichever category we actually have (labelled honestly).
+  const hasOverall = sub.overall != null;
+  const o = hasOverall ? sub.overall : (sub.qib != null ? sub.qib : (sub.nii != null ? sub.nii : sub.retail));
+  const label = hasOverall ? 'Overall' : (sub.qib != null ? 'QIB' : (sub.nii != null ? 'NII' : 'Retail'));
+  const notes = [];
+  let s;
+  if (o >= 10) s = 95; else if (o >= 5) s = 85; else if (o >= 2) s = 70; else if (o >= 1) s = 52; else s = 25;
+  notes.push({ t: o >= 2 ? 'plus' : (o < 1 ? 'minus' : 'info'), text: `${label} subscription ~${o}×.` });
+  if (sub.qib != null) {
+    if (sub.qib >= 3) { s = clamp(s + 6); notes.push({ t: 'plus', text: `Strong institutional (QIB) demand ~${sub.qib}×.` }); }
+    else if (sub.qib < 1) { s = clamp(s - 6); notes.push({ t: 'minus', text: 'Weak institutional (QIB) demand.' }); }
+  }
+  return { available: true, score: s, notes };
+}
+
+// 3) Valuation & fundamentals — is it a sound, fairly-priced business?
+function scoreFundamentals(ipo) {
+  const f = ipo.fundamentals;
+  if (!f) return { available: false, notes: [{ t: 'info', text: 'Financials not available.' }] };
+  let s = 50; const notes = []; let hadData = false;
+  if (f.patMargin != null) {
+    hadData = true;
+    if (f.patMargin <= 0) { s -= 22; notes.push({ t: 'minus', text: `Loss-making (PAT margin ${f.patMargin}%).` }); }
+    else if (f.patMargin >= 20) { s += 15; notes.push({ t: 'plus', text: `Strong profitability (PAT margin ${f.patMargin}%).` }); }
+    else if (f.patMargin >= 10) s += 8; else s += 2;
+  }
+  const r = f.roe != null ? f.roe : f.ronw;
+  if (r != null) {
+    hadData = true;
+    if (r < 0) { s -= 15; notes.push({ t: 'minus', text: 'Negative return on equity.' }); }
+    else if (r >= 20) { s += 10; notes.push({ t: 'plus', text: `High return on equity (${r}%).` }); }
+    else if (r >= 12) s += 5; else if (r < 5) s -= 2;
+  }
+  if (ipo.revenueTrend != null || ipo.patTrend != null) hadData = true;
+  if (ipo.revenueTrend === 'up' && ipo.patTrend === 'up') { s += 8; notes.push({ t: 'plus', text: 'Revenue and profit both trending up.' }); }
+  else if (ipo.revenueTrend === 'down' || ipo.patTrend === 'down') { s -= 8; notes.push({ t: 'minus', text: 'Revenue or profit has declined recently.' }); }
+  if (f.debtEquity != null) {
+    hadData = true;
+    if (f.debtEquity > 1.5) { s -= 8; notes.push({ t: 'minus', text: `High leverage (debt/equity ${f.debtEquity}).` }); }
+    else if (f.debtEquity <= 0.5) s += 4;
+  }
+  if (ipo.issuePE != null && ipo.peerMedianPE != null && ipo.issuePE > 0) {
+    hadData = true;
+    if (ipo.issuePE < ipo.peerMedianPE * 0.8) { s += 10; notes.push({ t: 'plus', text: `Priced below peers (P/E ${ipo.issuePE} vs ~${ipo.peerMedianPE}).` }); }
+    else if (ipo.issuePE > ipo.peerMedianPE * 1.3) { s -= 8; notes.push({ t: 'minus', text: `Pricier than peers (P/E ${ipo.issuePE} vs ~${ipo.peerMedianPE}).` }); }
+    else notes.push({ t: 'info', text: `Valuation roughly in line with peers (P/E ~${ipo.peerMedianPE}).` });
+  }
+  if (!hadData) return { available: false, notes: [{ t: 'info', text: 'Financials not available.' }] };
+  return { available: true, score: clamp(s), notes };
+}
+
+// 4) Promoter skin-in-the-game — retained stake + fresh issue vs OFS.
+function scorePromoter(ipo) {
+  if (ipo.promoterPostPct == null && ipo.freshCr == null && ipo.ofsCr == null)
+    return { available: false, notes: [{ t: 'info', text: 'Holding / issue structure not available.' }] };
+  let s = 55; const notes = [];
+  if (ipo.promoterPostPct != null) {
+    const p = ipo.promoterPostPct;
+    if (p >= 60) { s += 18; notes.push({ t: 'plus', text: `Promoters keep a high ${p}% post-issue.` }); }
+    else if (p >= 50) { s += 12; notes.push({ t: 'plus', text: `Promoters hold ${p}% post-issue.` }); }
+    else if (p >= 35) s += 4;
+    else { s -= 10; notes.push({ t: 'minus', text: `Low promoter holding (${p}%) after the issue.` }); }
+  }
+  // Only judge the fresh-vs-OFS split when BOTH sides are known — a missing OFS
+  // figure means "not parsed", not "zero OFS", so don't award a fresh-issue bonus.
+  if (ipo.freshCr != null && ipo.ofsCr != null && (ipo.freshCr + ipo.ofsCr) > 0) {
+    const share = ipo.freshCr / (ipo.freshCr + ipo.ofsCr);
+    if (share >= 0.75) { s += 12; notes.push({ t: 'plus', text: 'Mostly a fresh issue — money goes into the company.' }); }
+    else if (share >= 0.5) s += 4;
+    else { s -= 12; notes.push({ t: 'minus', text: 'Largely an Offer for Sale — proceeds cash out existing holders.' }); }
+  } else if (ipo.freshCr != null && ipo.ofsCr == null) {
+    notes.push({ t: 'info', text: `Fresh issue of ₹${ipo.freshCr} Cr; offer-for-sale split not available.` });
+  }
+  return { available: true, score: clamp(s), notes };
+}
+
+const SIGNALS = [
+  { key: 'gmp',          label: 'GMP / listing gain',   fn: scoreGmp },
+  { key: 'subscription', label: 'Subscription',          fn: scoreSubscription },
+  { key: 'fundamentals', label: 'Valuation & financials',fn: scoreFundamentals },
+  { key: 'promoter',     label: 'Promoter skin-in-game', fn: scorePromoter },
+];
+
+function computeVerdict(ipo) {
+  const parts = {};
+  let wsum = 0, acc = 0;
+  for (const sig of SIGNALS) {
+    const res = sig.fn(ipo);
+    parts[sig.key] = res;
+    if (res.available) { const w = CONFIG.weights[sig.key]; wsum += w; acc += w * res.score; }
+  }
+  const score = wsum ? Math.round(acc / wsum) : 40;
+  const band = CONFIG.bands.find((b) => score >= b.min) || CONFIG.bands[CONFIG.bands.length - 1];
+  return { score, key: band.key, parts, coverage: wsum };
+}
+
+const VERDICTS = {
+  SUBSCRIBE: { label: 'Subscribe', ic: '▲', gc: 'var(--good)' },
+  CONSIDER:  { label: 'Consider',  ic: '◆', gc: 'var(--warning)' },
+  NEUTRAL:   { label: 'Neutral',   ic: '■', gc: 'var(--muted)' },
+  AVOID:     { label: 'Avoid',     ic: '▼', gc: 'var(--critical)' },
+};
+
+/* ============================================================================
+ *  Rendering
+ * ==========================================================================*/
+const $ = (s, el = document) => el.querySelector(s);
+const esc = (s) => String(s == null ? '' : s).replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+const inr = (n) => (n == null ? '—' : '₹' + Number(n).toLocaleString('en-IN'));
+
+let DB = null;
+const state = { seg: 'all', q: '', sort: 'score' };
+
+async function boot() {
+  initTheme();
+  try {
+    const res = await fetch('data.json', { cache: 'no-store' });
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    DB = await res.json();
+    if (!DB || !Array.isArray(DB.ipos)) throw new Error('data.json is missing an "ipos" array');
+  } catch (e) {
+    $('#grid').innerHTML = `<div class="empty">Couldn't load data.json (${esc(e.message)}).<br>Run it through the dev server or deploy so the file is served over http.</div>`;
+    return;
+  }
+  DB.ipos.forEach((ipo) => { ipo._v = computeVerdict(ipo); });
+  renderMeta(); renderStats(); render();
+  wire();
+}
+
+function renderMeta() {
+  const d = new Date(DB.generatedAt);
+  $('#meta').innerHTML = `Data updated<br><b>${esc(d.toLocaleString('en-IN', { dateStyle: 'medium', timeStyle: 'short' }))}</b>`;
+  $('#src').href = DB.source;
+  $('#foot-disc').textContent = DB.disclaimer || '';
+}
+
+function renderStats() {
+  const mb = DB.ipos.filter((x) => x.segment === 'mainboard').length;
+  const sme = DB.ipos.filter((x) => x.segment === 'sme').length;
+  const subs = DB.ipos.filter((x) => x._v.key === 'SUBSCRIBE' || x._v.key === 'CONSIDER').length;
+  const tr = DB.trackRecord;
+  const cards = [
+    { v: DB.ipos.length, l: 'Live IPOs tracked' },
+    { v: `${mb} / ${sme}`, l: 'Mainboard / SME' },
+    { v: subs, l: 'Subscribe or Consider' },
+  ];
+  let html = cards.map((c) => `<div class="stat"><div class="v">${esc(c.v)}</div><div class="l">${esc(c.l)}</div></div>`).join('');
+  if (tr && tr.positiveGmpAccuracyPct != null) {
+    html += `<div class="stat accent" title="Of the last ${tr.sampleSize} listed IPOs, ${tr.positiveGmpCount} had a positive GMP; ${tr.positiveGmpAccuracyPct}% of those listed above their issue price. Past performance is not indicative.">
+      <div class="v">${tr.positiveGmpAccuracyPct}%</div><div class="l">Positive-GMP IPOs listed green*</div></div>`;
+  }
+  $('#stats').innerHTML = html;
+}
+
+function gainBar(ipo) {
+  const g = ipo.estGainPct;
+  if (g == null) return '';
+  const w = clamp((g / 60) * 100); // 60%+ fills the bar
+  return `<div class="bar" title="Estimated listing gain"><span style="width:${w}%"></span></div>`;
+}
+
+function card(ipo) {
+  const v = ipo._v, meta = VERDICTS[v.key];
+  const tr = ipo.trend === 'up' ? '▲' : ipo.trend === 'down' ? '▼' : '■';
+  const firstNote = [].concat(...SIGNALS.map((s) => (v.parts[s.key].available ? v.parts[s.key].notes : [])))
+    .find((n) => n.t !== 'info');
+  const st = (ipo.status || '').toLowerCase().replace(/[^a-z]/g, '');
+  return `<article class="card" tabindex="0" data-slug="${esc(ipo.slug || ipo.name)}">
+    <div>
+      <div class="name">${esc(ipo.name)}</div>
+      <div class="pills">
+        <span class="pill seg">${ipo.segment === 'sme' ? 'SME' : 'Mainboard'}</span>
+        <span class="pill st-${esc(st)}">${esc(ipo.status || '—')}</span>
+      </div>
+    </div>
+    <div class="metrics">
+      <div class="metric">
+        <div class="k">GMP</div>
+        <div class="val">${inr(ipo.gmp)} <span class="trend ${ipo.trend}">${tr}</span></div>
+      </div>
+      <div class="metric" style="flex:1">
+        <div class="k">Est. listing gain</div>
+        <div class="val">${ipo.estGainPct != null ? ipo.estGainPct.toFixed(1) + '%' : '—'}</div>
+        ${gainBar(ipo)}
+      </div>
+    </div>
+    <div class="verdict">
+      <span class="badge b-${v.key}"><span class="ic">${meta.ic}</span>${meta.label}</span>
+      ${firstNote ? `<p class="why">${esc(firstNote.text)}</p>` : ''}
+      <span class="score-chip">${v.score}<small>/100</small></span>
+    </div>
+  </article>`;
+}
+
+function render() {
+  let list = DB.ipos.slice();
+  if (state.seg !== 'all') list = list.filter((x) => x.segment === state.seg);
+  if (state.q) { const q = state.q.toLowerCase(); list = list.filter((x) => x.name.toLowerCase().includes(q)); }
+  const sorters = {
+    score: (a, b) => b._v.score - a._v.score,
+    gain: (a, b) => (b.estGainPct ?? -1e9) - (a.estGainPct ?? -1e9),
+    gmp: (a, b) => (b.gmp ?? -1e9) - (a.gmp ?? -1e9),
+    fundamentals: (a, b) => {
+      const fa = a._v.parts.fundamentals, fb = b._v.parts.fundamentals;
+      return (fb.available ? fb.score : -1) - (fa.available ? fa.score : -1);
+    },
+    status: (a, b) => (a.status || '').localeCompare(b.status || ''),
+  };
+  list.sort(sorters[state.sort]);
+  $('#grid').innerHTML = list.map(card).join('');
+  $('#empty').hidden = list.length > 0;
+}
+
+/* ---- financial mini chart (grouped bars: revenue vs PAT) ---- */
+function finChart(fin) {
+  const rows = (fin || []).filter((r) => r.revenue != null || r.pat != null);
+  if (rows.length < 2) return '';
+  const W = 320, H = 140, pad = 22, labelH = 18;
+  // Domain includes 0 and any negatives so loss bars stay on-canvas (drawn downward).
+  const vals = rows.flatMap((r) => [r.revenue, r.pat]).filter((v) => v != null).concat(0);
+  const max = Math.max(...vals), min = Math.min(...vals), span = (max - min) || 1;
+  const plotH = H - pad - labelH;
+  const yOf = (v) => pad + ((max - v) / span) * plotH;
+  const zeroY = yOf(0);
+  const gw = (W - pad * 2) / rows.length;
+  const bw = Math.min(16, (gw - 6) / 2 - 2);
+  let bars = '';
+  rows.forEach((r, i) => {
+    const x0 = pad + i * gw + (gw - (bw * 2 + 4)) / 2;
+    [['Revenue', 'var(--series)', r.revenue], ['PAT', r.pat != null && r.pat < 0 ? 'var(--critical)' : 'var(--series-2)', r.pat]]
+      .forEach(([k, color, v], j) => {
+        if (v == null) return;
+        const yv = yOf(v), top = Math.min(yv, zeroY), h = Math.max(1, Math.abs(yv - zeroY));
+        bars += `<rect x="${x0 + j * (bw + 4)}" y="${top}" width="${bw}" height="${h}" rx="3" fill="${color}"><title>${k} ${esc(r.period)}: ₹${v} Cr</title></rect>`;
+      });
+    bars += `<text x="${x0 + bw + 2}" y="${H - 5}" text-anchor="middle">${esc(String(r.period).replace(/\s*\(.*\)/, ''))}</text>`;
+  });
+  return `<div class="legend"><span><i style="background:var(--series)"></i>Revenue</span><span><i style="background:var(--series-2)"></i>Net profit (PAT)</span><span style="color:var(--muted)">₹ crore</span></div>
+    <svg viewBox="0 0 ${W} ${H}" width="100%" height="${H}" role="img" aria-label="Revenue and profit by year">
+      <line class="axis" x1="${pad}" y1="${zeroY}" x2="${W - 4}" y2="${zeroY}"/>${bars}
+    </svg>`;
+}
+
+function scoreRow(sig, res) {
+  if (!res.available) return `<div class="score-row na"><span class="lab">${esc(sig.label)}</span><div class="bar"></div><span class="num">n/a</span></div>`;
+  return `<div class="score-row"><span class="lab">${esc(sig.label)}</span>
+    <div class="bar"><span style="width:${res.score}%"></span></div>
+    <span class="num">${res.score}</span></div>`;
+}
+
+function openModal(ipo) {
+  const v = ipo._v, meta = VERDICTS[v.key], f = ipo.fundamentals || {};
+  const notes = [].concat(...SIGNALS.map((s) => (v.parts[s.key].available ? v.parts[s.key].notes : v.parts[s.key].notes || [])));
+  const kv = [
+    ['GMP', inr(ipo.gmp)], ['Price band', ipo.priceBandText || '—'],
+    ['Est. listing gain', ipo.estGainPct != null ? ipo.estGainPct.toFixed(1) + '%' : '—'],
+    ['Status', ipo.status || '—'], ['Dates', ipo.dateText || '—'],
+    ['ROE', f.roe != null ? f.roe + '%' : '—'], ['PAT margin', f.patMargin != null ? f.patMargin + '%' : '—'],
+    ['Debt / equity', f.debtEquity != null ? f.debtEquity : '—'],
+    ['Issue P/E', ipo.issuePE != null ? ipo.issuePE : '—'], ['Peer median P/E', ipo.peerMedianPE != null ? ipo.peerMedianPE : '—'],
+    ['Promoter (post)', ipo.promoterPostPct != null ? ipo.promoterPostPct + '%' : '—'],
+    ['Fresh issue', ipo.freshCr != null ? '₹' + ipo.freshCr + ' Cr' : '—'],
+  ];
+  $('#modal').innerHTML = `
+    <button class="close" aria-label="Close" onclick="closeModal()">✕</button>
+    <h2>${esc(ipo.name)}</h2>
+    <div class="pills"><span class="pill seg">${ipo.segment === 'sme' ? 'SME' : 'Mainboard'}</span><span class="pill">${esc(ipo.status || '')}</span></div>
+    <div class="overall">
+      <div class="gauge" style="--p:${v.score};--gc:${meta.gc}"><span>${v.score}</span></div>
+      <div>
+        <div class="badge b-${v.key}" style="font-size:.95rem"><span class="ic">${meta.ic}</span>${meta.label}</div>
+        <p class="why" style="margin:6px 0 0">Weighted across ${SIGNALS.filter((s) => v.parts[s.key].available).length} of ${SIGNALS.length} signals with data.</p>
+      </div>
+    </div>
+    ${ipo.about ? `<div class="section-title">What the company does</div><p class="about">${esc(ipo.about)}…</p>` : ''}
+    <div class="section-title">Key facts</div>
+    <div class="kv">${kv.map(([k, val]) => `<div class="cell"><div class="k">${esc(k)}</div><div class="v">${esc(val)}</div></div>`).join('')}</div>
+    ${finChart(ipo.financials) ? `<div class="section-title">Financials</div>${finChart(ipo.financials)}` : ''}
+    <div class="section-title">Scorecard</div>
+    ${SIGNALS.map((s) => scoreRow(s, v.parts[s.key])).join('')}
+    <ul class="notes">${notes.map((n) => `<li class="${n.t}">${esc(n.text)}</li>`).join('')}</ul>
+    ${ipo.peers && ipo.peers.length ? `<div class="section-title">Listed peers</div><p class="about">${ipo.peers.map((p) => esc(p.name) + ' (P/E ' + Number(p.pe) + ')').join(' · ')}</p>` : ''}
+    <p class="disclaimer">${esc(DB.disclaimer)} <a href="${esc(/^https?:\/\//.test(ipo.detailUrl || '') ? ipo.detailUrl : DB.source)}" rel="noopener" target="_blank">Source ↗</a></p>`;
+  $('#overlay').classList.add('open');
+  document.body.style.overflow = 'hidden';
+}
+function closeModal() { $('#overlay').classList.remove('open'); document.body.style.overflow = ''; }
+
+function wire() {
+  $('#grid').addEventListener('click', (e) => {
+    const c = e.target.closest('.card'); if (!c) return;
+    const ipo = DB.ipos.find((x) => (x.slug || x.name) === c.dataset.slug); if (ipo) openModal(ipo);
+  });
+  $('#grid').addEventListener('keydown', (e) => {
+    if (e.key !== 'Enter' && e.key !== ' ') return;
+    const c = e.target.closest('.card'); if (!c) return; e.preventDefault();
+    const ipo = DB.ipos.find((x) => (x.slug || x.name) === c.dataset.slug); if (ipo) openModal(ipo);
+  });
+  $('#overlay').addEventListener('click', (e) => { if (e.target.id === 'overlay') closeModal(); });
+  document.addEventListener('keydown', (e) => { if (e.key === 'Escape') closeModal(); });
+  $('#tabs').addEventListener('click', (e) => {
+    const b = e.target.closest('button'); if (!b) return;
+    [...$('#tabs').children].forEach((x) => x.setAttribute('aria-selected', x === b));
+    state.seg = b.dataset.seg; render();
+  });
+  $('#q').addEventListener('input', (e) => { state.q = e.target.value.trim(); render(); });
+  $('#sort').addEventListener('change', (e) => { state.sort = e.target.value; render(); });
+}
+
+function initTheme() {
+  const btn = $('#theme');
+  const icon = () => { btn.textContent = document.documentElement.getAttribute('data-theme') === 'light' ? '🌙' : '☀️'; };
+  icon();
+  btn.addEventListener('click', () => {
+    const next = document.documentElement.getAttribute('data-theme') === 'light' ? 'dark' : 'light';
+    document.documentElement.setAttribute('data-theme', next);
+    try { localStorage.setItem('ipo-theme', next); } catch (e) {}
+    icon();
+  });
+}
+
+boot();
+</script>
+</body>
+</html>
