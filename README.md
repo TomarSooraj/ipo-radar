@@ -1,6 +1,7 @@
 # 📈 IPO Radar
 
 Check it out: https://ipo-radar.netlify.app
+
 Live tracker for Indian IPOs — grey-market premium (GMP), expected listing gain,
 company fundamentals, and a **transparent, rule-based Subscribe / Avoid verdict**
 for every open and upcoming IPO.
