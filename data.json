@@ -1,0 +1,1430 @@
+{
+  "generatedAt": "2026-08-28T06:04:40.784Z",
+  "source": "https://ipowatch.in/ipo-grey-market-premium-latest-ipo-gmp/",
+  "disclaimer": "GMP (Grey Market Premium) is an unofficial, speculative indicator from the unregulated grey market and can change daily. Nothing here is investment advice.",
+  "trackRecord": {
+    "sampleSize": 298,
+    "positiveGmpCount": 247,
+    "positiveGmpAccuracyPct": 83.4
+  },
+  "ipos": [
+    {
+      "name": "Deepa Jewellers",
+      "segment": "mainboard",
+      "detailUrl": "https://ipowatch.in/deepa-jewellers-ipo/",
+      "slug": "deepa-jewellers-ipo",
+      "gmp": 47,
+      "gmpText": "₹47",
+      "trend": "up",
+      "priceBandUpper": 177,
+      "priceBandText": "₹177",
+      "estListing": 224,
+      "estGainPct": 26.55,
+      "dateText": "1-3 September",
+      "status": "Upcoming",
+      "lastUpdated": "28 Aug, 08:20",
+      "about": null,
+      "financials": [
+        {
+          "period": "2024",
+          "revenue": 1025.73,
+          "expense": 993.05,
+          "pat": 24.35,
+          "assets": 174.64
+        },
+        {
+          "period": "2025",
+          "revenue": 1400.1,
+          "expense": 1345.63,
+          "pat": 40.58,
+          "assets": 217.67
+        },
+        {
+          "period": "2026",
+          "revenue": 1927.73,
+          "expense": 1787.39,
+          "pat": 104.79,
+          "assets": 357.18
+        }
+      ],
+      "revenueTrend": "up",
+      "patTrend": "up",
+      "fundamentals": {
+        "roe": 56.45,
+        "ronw": 56.45,
+        "ebitdaMargin": 7.6,
+        "patMargin": 5.44,
+        "debtEquity": 0.47,
+        "eps": 12.78,
+        "pe": null,
+        "nav": 29.03
+      },
+      "issuePE": null,
+      "peers": [
+        {
+          "name": "Sky Gold and Diamonds Limited",
+          "pe": 57.56
+        },
+        {
+          "name": "Shanti Gold International Limited",
+          "pe": 12.72
+        },
+        {
+          "name": "Shringar House of Mangalsutra Limited",
+          "pe": 17.02
+        },
+        {
+          "name": "RBZ Jewellers Ltd",
+          "pe": 10.08
+        },
+        {
+          "name": "Khazanchi Jewellers Limited",
+          "pe": 22.22
+        }
+      ],
+      "peerMedianPE": 17.02,
+      "promoterPostPct": null,
+      "freshCr": 250
+    },
+    {
+      "name": "Rays of Belief",
+      "segment": "mainboard",
+      "detailUrl": "https://ipowatch.in/rays-of-belief-ipo-details/",
+      "slug": "rays-of-belief-ipo-details",
+      "gmp": 10,
+      "gmpText": "₹10",
+      "trend": "down",
+      "priceBandUpper": 239,
+      "priceBandText": "₹239",
+      "estListing": 249,
+      "estGainPct": 4.18,
+      "dateText": "1-3 September",
+      "status": "Upcoming",
+      "lastUpdated": "28 Aug, 08:20",
+      "about": null,
+      "financials": [
+        {
+          "period": "2024",
+          "revenue": 30.76,
+          "expense": 30.66,
+          "pat": 0.85,
+          "assets": 12.89
+        },
+        {
+          "period": "2025",
+          "revenue": 36.54,
+          "expense": 36.19,
+          "pat": 5.88,
+          "assets": 26.12
+        },
+        {
+          "period": "2026",
+          "revenue": 82.06,
+          "expense": 75.16,
+          "pat": 4.96,
+          "assets": 50.89
+        }
+      ],
+      "revenueTrend": "up",
+      "patTrend": "up",
+      "fundamentals": {
+        "roe": 21.64,
+        "ronw": 21.64,
+        "ebitdaMargin": 14.59,
+        "patMargin": 6.07,
+        "debtEquity": null,
+        "eps": 3.21,
+        "pe": null,
+        "nav": 15.67
+      },
+      "issuePE": null,
+      "promoterPostPct": 68.77,
+      "freshCr": 125
+    },
+    {
+      "name": "Purple Style Labs",
+      "segment": "mainboard",
+      "detailUrl": "https://ipowatch.in/purple-style-labs-ipo/",
+      "slug": "purple-style-labs-ipo",
+      "gmp": 0,
+      "gmpText": "₹0",
+      "trend": "flat",
+      "priceBandUpper": 575,
+      "priceBandText": "₹575",
+      "estListing": 0,
+      "estGainPct": 0,
+      "dateText": "31-2 September",
+      "status": "Upcoming",
+      "lastUpdated": "28 Aug, 08:20",
+      "about": null,
+      "financials": [
+        {
+          "period": "2024",
+          "revenue": 510.03,
+          "expense": 557.74,
+          "pat": 47.71,
+          "assets": 458.39
+        },
+        {
+          "period": "2025",
+          "revenue": 494,
+          "expense": 559.78,
+          "pat": 188.55,
+          "assets": 497.05
+        },
+        {
+          "period": "2026",
+          "revenue": 567.07,
+          "expense": 734.54,
+          "pat": 285.4,
+          "assets": 829.6
+        }
+      ],
+      "revenueTrend": "up",
+      "patTrend": "up",
+      "fundamentals": {
+        "roe": null,
+        "ronw": null,
+        "ebitdaMargin": 5.44,
+        "patMargin": -51.16,
+        "debtEquity": null,
+        "eps": -41.98,
+        "pe": null,
+        "nav": -7.69
+      },
+      "issuePE": null,
+      "promoterPostPct": null,
+      "freshCr": 680
+    },
+    {
+      "name": "ESDS Software",
+      "segment": "mainboard",
+      "detailUrl": "https://ipowatch.in/esds-software-solution-ipo/",
+      "slug": "esds-software-solution-ipo",
+      "gmp": 325,
+      "gmpText": "₹325",
+      "trend": "down",
+      "priceBandUpper": 429,
+      "priceBandText": "₹429",
+      "estListing": 754,
+      "estGainPct": 75.76,
+      "dateText": "28-1 September",
+      "status": "Open",
+      "lastUpdated": "28 Aug, 08:20",
+      "about": "ESDS Software Solution, founded in August 2005, is an AI-enabled End-to-End IT Service Provider with over 20 years of experience in building and managing IT infrastructure. The company provides data center, cloud, colocation, managed services, and AI infrastructure solutions for government, BFSI institutions, and Enterprises. ESDS offers Infrastructure capable of handling workloads across banking, public services, manufacturing, healthcare, retai",
+      "financials": [
+        {
+          "period": "2024",
+          "revenue": 292.14,
+          "expense": 268.76,
+          "pat": 13.61,
+          "assets": 547.71
+        },
+        {
+          "period": "2025",
+          "revenue": 376.64,
+          "expense": 293.91,
+          "pat": 55.61,
+          "assets": 655.95
+        },
+        {
+          "period": "2026",
+          "revenue": 480.65,
+          "expense": 313.23,
+          "pat": 120.82,
+          "assets": 1937.9
+        }
+      ],
+      "revenueTrend": "up",
+      "patTrend": "up",
+      "fundamentals": {
+        "roe": 25.12,
+        "ronw": 22.85,
+        "ebitdaMargin": 49.6,
+        "patMargin": 25.59,
+        "debtEquity": 0.08,
+        "eps": 12.03,
+        "pe": null,
+        "nav": 52.66
+      },
+      "issuePE": null,
+      "peers": [],
+      "promoterPostPct": 39.47,
+      "freshCr": 720
+    },
+    {
+      "name": "Priority Jewels",
+      "segment": "mainboard",
+      "detailUrl": "https://ipowatch.in/priority-jewels-ipo/",
+      "slug": "priority-jewels-ipo",
+      "gmp": 37,
+      "gmpText": "₹37",
+      "trend": "up",
+      "priceBandUpper": 200,
+      "priceBandText": "₹200",
+      "estListing": 237,
+      "estGainPct": 18.5,
+      "dateText": "28-1 September",
+      "status": "Open",
+      "lastUpdated": "28 Aug, 08:20",
+      "about": "Priority Jewels was incorporated in 2007 and is one of the leading companies engaged in the manufacturing of fine jewellery. The company follows the process from designing and manufacturing to selling a comprehensive range of lightweight, affordable, and diamond-studded gold and platinum fine jewellery. The company is engaged in supplying gold and platinum jewellery directly to independent jewellers and jewellery chains in India, such as CaratLan",
+      "financials": [
+        {
+          "period": "2024",
+          "revenue": 410.61,
+          "expense": 400.97,
+          "pat": 7.15,
+          "assets": 268.99
+        },
+        {
+          "period": "2025",
+          "revenue": 435.87,
+          "expense": 420.88,
+          "pat": 10.51,
+          "assets": 309.14
+        },
+        {
+          "period": "2026",
+          "revenue": 539.03,
+          "expense": 515.55,
+          "pat": 17.65,
+          "assets": 291.95
+        },
+        {
+          "period": "June 2026",
+          "revenue": 147.4,
+          "expense": 138.86,
+          "pat": 6.48,
+          "assets": 310.61
+        }
+      ],
+      "revenueTrend": "down",
+      "patTrend": "down",
+      "fundamentals": {
+        "roe": 4.55,
+        "ronw": 12.73,
+        "ebitdaMargin": 7.01,
+        "patMargin": 4.39,
+        "debtEquity": 0.76,
+        "eps": 14.03,
+        "pe": null,
+        "nav": 103.3
+      },
+      "issuePE": null,
+      "peers": [
+        {
+          "name": "Khazanchi Jewellers Ltd",
+          "pe": 22.24
+        },
+        {
+          "name": "RBZ Jewellers Ltd.",
+          "pe": 10.08
+        },
+        {
+          "name": "Ashapuri Gold Ornament Ltd.",
+          "pe": 7.02
+        }
+      ],
+      "peerMedianPE": 10.08,
+      "promoterPostPct": null,
+      "freshCr": 91.5
+    },
+    {
+      "name": "Lumino Industries",
+      "segment": "mainboard",
+      "detailUrl": "https://ipowatch.in/lumino-industries-ipo/",
+      "slug": "lumino-industries-ipo",
+      "gmp": 56,
+      "gmpText": "₹56",
+      "trend": "up",
+      "priceBandUpper": 82,
+      "priceBandText": "₹82",
+      "estListing": 138,
+      "estGainPct": 68.29,
+      "dateText": "27-31 August",
+      "status": "Open",
+      "lastUpdated": "28 Aug, 08:20",
+      "about": null,
+      "financials": [
+        {
+          "period": "2024",
+          "revenue": 1424.63,
+          "expense": 1308.67,
+          "pat": 86.61,
+          "assets": 1175.44
+        },
+        {
+          "period": "2025",
+          "revenue": 1946.68,
+          "expense": 1777.37,
+          "pat": 124.59,
+          "assets": 1718.66
+        },
+        {
+          "period": "2026",
+          "revenue": 2089.31,
+          "expense": 1884.54,
+          "pat": 160,
+          "assets": 2174.88
+        }
+      ],
+      "revenueTrend": "up",
+      "patTrend": "up",
+      "fundamentals": {
+        "roe": 24.62,
+        "ronw": 24.62,
+        "ebitdaMargin": 11.71,
+        "patMargin": 7.66,
+        "debtEquity": 0.53,
+        "eps": 6.57,
+        "pe": null,
+        "nav": 29.95
+      },
+      "issuePE": null,
+      "peers": [
+        {
+          "name": "Apar Industries Limited",
+          "pe": 68.98
+        },
+        {
+          "name": "Bajel Projects Limited",
+          "pe": 108.66
+        },
+        {
+          "name": "Kalpataru Projects International Limited",
+          "pe": 22.13
+        },
+        {
+          "name": "KEC International Limited",
+          "pe": 19.81
+        },
+        {
+          "name": "KEI Industries Limited",
+          "pe": 58.79
+        },
+        {
+          "name": "Universal Cables Limited",
+          "pe": 35.51
+        },
+        {
+          "name": "Techno Electric & Engineering Company Limited",
+          "pe": 25.97
+        }
+      ],
+      "peerMedianPE": 35.51,
+      "promoterPostPct": null,
+      "freshCr": 500
+    },
+    {
+      "name": "Annu Projects",
+      "segment": "mainboard",
+      "detailUrl": "https://ipowatch.in/annu-projects-ipo/",
+      "slug": "annu-projects-ipo",
+      "gmp": 7,
+      "gmpText": "₹7",
+      "trend": "up",
+      "priceBandUpper": 99,
+      "priceBandText": "₹99",
+      "estListing": 96,
+      "estGainPct": 7.07,
+      "dateText": "25-28 August",
+      "status": "Open",
+      "lastUpdated": "28 Aug, 08:20",
+      "about": "Annu Projects Limited, formerly known as Annu Infra Construct (India) Private Limited, was established in 2003. The company is involved in the design, development, implementation, operations, and maintenance of essential overhead and underground utilities infrastructure across telecom infrastructure, sewerage infrastructure, and gas pipeline verticals. With over 20 years of experience, the company has built strong expertise in executing infrastru",
+      "financials": [
+        {
+          "period": "2024 (Consolidated)",
+          "revenue": 155.42,
+          "expense": 131,
+          "pat": 17.39,
+          "assets": 161.34
+        },
+        {
+          "period": "2025 (Consolidated)",
+          "revenue": 182.35,
+          "expense": 154.14,
+          "pat": 21.1,
+          "assets": 233.37
+        },
+        {
+          "period": "2026 (Standalone)",
+          "revenue": 244.59,
+          "expense": 198.42,
+          "pat": 33.03,
+          "assets": 341.82
+        }
+      ],
+      "revenueTrend": "up",
+      "patTrend": "up",
+      "fundamentals": {
+        "roe": 21.27,
+        "ronw": 21.27,
+        "ebitdaMargin": 20.81,
+        "patMargin": 13.69,
+        "debtEquity": null,
+        "eps": 6.91,
+        "pe": null,
+        "nav": 32.48
+      },
+      "issuePE": null,
+      "peers": [
+        {
+          "name": "Likhitha Infrastructure Limited",
+          "pe": 23.17
+        },
+        {
+          "name": "Bondada Engineering Limited",
+          "pe": 16.6
+        },
+        {
+          "name": "EMS Limited",
+          "pe": 24.65
+        },
+        {
+          "name": "Suyog Telematics Limited",
+          "pe": 16.11
+        }
+      ],
+      "peerMedianPE": 19.89,
+      "promoterPostPct": null,
+      "freshCr": 175
+    },
+    {
+      "name": "Symbiotec Pharmalab",
+      "segment": "mainboard",
+      "detailUrl": "https://ipowatch.in/symbiotec-pharmalab-ipo/",
+      "slug": "symbiotec-pharmalab-ipo",
+      "gmp": 270,
+      "gmpText": "₹270",
+      "trend": "down",
+      "priceBandUpper": 988,
+      "priceBandText": "₹988",
+      "estListing": 1258,
+      "estGainPct": 27.33,
+      "dateText": "24-27 August",
+      "status": "Closed",
+      "lastUpdated": "28 Aug, 08:20",
+      "about": null,
+      "financials": [
+        {
+          "period": "2024",
+          "revenue": 723.33,
+          "expense": 590.99,
+          "pat": 100.06,
+          "assets": 1294.79
+        },
+        {
+          "period": "2025",
+          "revenue": 755.98,
+          "expense": 608.85,
+          "pat": 96.79,
+          "assets": 1579.65
+        },
+        {
+          "period": "2026",
+          "revenue": 872.26,
+          "expense": 709.9,
+          "pat": 109.9,
+          "assets": 1780.79
+        }
+      ],
+      "revenueTrend": "up",
+      "patTrend": "up",
+      "fundamentals": {
+        "roe": 11.19,
+        "ronw": 9.48,
+        "ebitdaMargin": 26.59,
+        "patMargin": 12.6,
+        "debtEquity": null,
+        "eps": 19.1,
+        "pe": null,
+        "nav": 184.69
+      },
+      "issuePE": null,
+      "peers": [
+        {
+          "name": "Concord Biotech Limited",
+          "pe": 61.07
+        },
+        {
+          "name": "Divi’s Laboratories Limited",
+          "pe": 87.8
+        },
+        {
+          "name": "Cohance Lifesciences Limited",
+          "pe": 95.02
+        },
+        {
+          "name": "Laurus Labs Limited",
+          "pe": 109.36
+        }
+      ],
+      "peerMedianPE": 91.41,
+      "promoterPostPct": null,
+      "freshCr": 150
+    },
+    {
+      "name": "Hy-Tech Engineers",
+      "segment": "mainboard",
+      "detailUrl": "https://ipowatch.in/hy-tech-engineers-ipo/",
+      "slug": "hy-tech-engineers-ipo",
+      "gmp": 44,
+      "gmpText": "₹44",
+      "trend": "up",
+      "priceBandUpper": 53,
+      "priceBandText": "₹53",
+      "estListing": 97,
+      "estGainPct": 83.02,
+      "dateText": "24-27 August",
+      "status": "Closed",
+      "lastUpdated": "28 Aug, 08:20",
+      "about": "Q-Line Biotech Ltd. (QBL) is engaged in the business of developing, manufacturing and marketing of diverse range of reagents (including kits and POC devices) & consumables and manufacturing, importing, distribution/supply of diagnostic equipment for different diagnostic healthcare needs. The company supplies diagnostic equipment and IVD products for different diagnostic healthcare needs since 2013 directly or through its distributor/s majorly to ",
+      "financials": [
+        {
+          "period": "2023",
+          "revenue": 184.81,
+          "expense": 154.97,
+          "pat": 32.1,
+          "assets": 251.58
+        },
+        {
+          "period": "2024",
+          "revenue": 206.45,
+          "expense": 175.85,
+          "pat": 34.44,
+          "assets": 339.25
+        },
+        {
+          "period": "2025",
+          "revenue": 322.58,
+          "expense": 261.43,
+          "pat": 28.13,
+          "assets": 455.49
+        },
+        {
+          "period": "Dec 2025",
+          "revenue": 236.5,
+          "expense": 186.96,
+          "pat": 38.69,
+          "assets": 561.34
+        }
+      ],
+      "revenueTrend": "up",
+      "patTrend": "up",
+      "fundamentals": {
+        "roe": 20.24,
+        "ronw": 20.24,
+        "ebitdaMargin": 22.01,
+        "patMargin": 11.68,
+        "debtEquity": null,
+        "eps": 2.7,
+        "pe": null,
+        "nav": 14.61
+      },
+      "issuePE": null,
+      "peers": [
+        {
+          "name": "Powerica Limited",
+          "pe": 24.45
+        },
+        {
+          "name": "Cummins India Limited",
+          "pe": 64.13
+        },
+        {
+          "name": "Kirloskar Oil Engines Limited",
+          "pe": 43.24
+        },
+        {
+          "name": "NTPC Green Energy Limited",
+          "pe": 129.4
+        },
+        {
+          "name": "Acme Solar Holdings Limited",
+          "pe": 50.74
+        },
+        {
+          "name": "Adani Green Energy Limited",
+          "pe": 101.53
+        }
+      ],
+      "peerMedianPE": 57.44,
+      "promoterPostPct": null,
+      "freshCr": 60
+    },
+    {
+      "name": "Skyways Air Services",
+      "segment": "mainboard",
+      "detailUrl": "https://ipowatch.in/skyways-air-ipo/",
+      "slug": "skyways-air-ipo",
+      "gmp": 46,
+      "gmpText": "₹46",
+      "trend": "up",
+      "priceBandUpper": 138,
+      "priceBandText": "₹138",
+      "estListing": 184,
+      "estGainPct": 33.33,
+      "dateText": "24-27 August",
+      "status": "Closed",
+      "lastUpdated": "28 Aug, 08:20",
+      "about": "Since its establishment in 1984, Skyways Air Services Limited (SASL) has been engaged in air freight forwarding and the logistics sector in India. It offers a wide range of logistics solutions, such as air freight forwarding, ocean freight forwarding, trucking, warehousing, customs broking, and technology-driven express cargo and parcel delivery services to serve the diverse needs of clients across domestic as well as international markets. Start",
+      "financials": [
+        {
+          "period": "2024",
+          "revenue": 1316.81,
+          "expense": 1268.43,
+          "pat": 34.49,
+          "assets": 790.35
+        },
+        {
+          "period": "2025",
+          "revenue": 2270.99,
+          "expense": 2204.16,
+          "pat": 48.14,
+          "assets": 1321.64
+        },
+        {
+          "period": "2026",
+          "revenue": 2839.67,
+          "expense": 2751.1,
+          "pat": 63.52,
+          "assets": 1508.24
+        }
+      ],
+      "revenueTrend": "up",
+      "patTrend": "up",
+      "fundamentals": {
+        "roe": 14.15,
+        "ronw": 12.33,
+        "ebitdaMargin": 4.47,
+        "patMargin": 2.26,
+        "debtEquity": 1.88,
+        "eps": 3.56,
+        "pe": null,
+        "nav": 28.91
+      },
+      "issuePE": null,
+      "peers": [
+        {
+          "name": "Delhivery Ltd",
+          "pe": 260
+        },
+        {
+          "name": "TVS Supply Chain Solutions Ltd",
+          "pe": 54
+        },
+        {
+          "name": "Mahindra Logistics Limited",
+          "pe": 1548
+        },
+        {
+          "name": "Shadowfax Technologies Limited",
+          "pe": 104
+        }
+      ],
+      "peerMedianPE": 182,
+      "promoterPostPct": null,
+      "freshCr": 398.8
+    },
+    {
+      "name": "Augmont Enterprises",
+      "segment": "mainboard",
+      "detailUrl": "https://ipowatch.in/augmont-enterprises-ipo/",
+      "slug": "augmont-enterprises-ipo",
+      "gmp": 300,
+      "gmpText": "₹300",
+      "trend": "down",
+      "priceBandUpper": 786,
+      "priceBandText": "₹786",
+      "estListing": 1086,
+      "estGainPct": 38.07,
+      "dateText": "21-25 August",
+      "status": "Closed",
+      "lastUpdated": "28 Aug, 08:20",
+      "about": "Since its incorporation in 2012, Augmont Enterprises has been engaged in the business of precious metals like Gold and Silver. The firm handles the entire gold and silver value chain by offering services like refining, making bullion, trading, and selling gold and silver in both physical and digital forms. From buying, selling, and managing gold and silver for both businesses and individuals, everything will be done with Augmont Enterprises, a on",
+      "financials": [
+        {
+          "period": "2024",
+          "revenue": 34948.9,
+          "expense": 34844.55,
+          "pat": 75.97,
+          "assets": 760.29
+        },
+        {
+          "period": "2025",
+          "revenue": 66252.05,
+          "expense": 65946.77,
+          "pat": 227.19,
+          "assets": 1859.48
+        },
+        {
+          "period": "2026",
+          "revenue": 94282.47,
+          "expense": 93809.37,
+          "pat": 348.3,
+          "assets": 1256.98
+        }
+      ],
+      "revenueTrend": "up",
+      "patTrend": "up",
+      "fundamentals": {
+        "roe": 51.04,
+        "ronw": 49.52,
+        "ebitdaMargin": 0.41,
+        "patMargin": 0.37,
+        "debtEquity": 0.01,
+        "eps": 40.45,
+        "pe": null,
+        "nav": 111
+      },
+      "issuePE": null,
+      "promoterPostPct": null,
+      "freshCr": 620
+    },
+    {
+      "name": "Tempsens Instruments",
+      "segment": "mainboard",
+      "detailUrl": "https://ipowatch.in/tempsens-instruments-india-ipo/",
+      "slug": "tempsens-instruments-india-ipo",
+      "gmp": 330,
+      "gmpText": "₹330",
+      "trend": "up",
+      "priceBandUpper": 300,
+      "priceBandText": "₹300",
+      "estListing": 630,
+      "estGainPct": 110,
+      "dateText": "20-24 August",
+      "status": "Closed",
+      "lastUpdated": "28 Aug, 08:20",
+      "about": null,
+      "financials": [
+        {
+          "period": "2024",
+          "revenue": 278.04,
+          "expense": 227.12,
+          "pat": 40.92,
+          "assets": 271.14
+        },
+        {
+          "period": "2025",
+          "revenue": 382.47,
+          "expense": 302.3,
+          "pat": 62.56,
+          "assets": 551.28
+        },
+        {
+          "period": "2026",
+          "revenue": 455.86,
+          "expense": 364.04,
+          "pat": 71.07,
+          "assets": 661.05
+        }
+      ],
+      "revenueTrend": "up",
+      "patTrend": "up",
+      "fundamentals": {
+        "roe": 13.54,
+        "ronw": 13.55,
+        "ebitdaMargin": 24.83,
+        "patMargin": 15.59,
+        "debtEquity": 0.15,
+        "eps": 8.35,
+        "pe": null,
+        "nav": 61.66
+      },
+      "issuePE": null,
+      "promoterPostPct": 65.67,
+      "freshCr": 95
+    },
+    {
+      "name": "Farm Peace",
+      "segment": "sme",
+      "detailUrl": "https://ipowatch.in/farm-peace-ipo/",
+      "slug": "farm-peace-ipo",
+      "gmp": 0,
+      "gmpText": "₹0",
+      "trend": "flat",
+      "priceBandUpper": 59,
+      "priceBandText": "₹59",
+      "estListing": 0,
+      "estGainPct": 0,
+      "dateText": "1-3 September",
+      "status": "Upcoming",
+      "lastUpdated": "28 Aug, 08:20",
+      "about": null,
+      "financials": [
+        {
+          "period": "2024",
+          "revenue": 62.75,
+          "expense": 53.54,
+          "pat": 6.16,
+          "assets": 31.76
+        },
+        {
+          "period": "2025",
+          "revenue": 79.98,
+          "expense": 70.32,
+          "pat": 6.66,
+          "assets": 69.32
+        },
+        {
+          "period": "2026",
+          "revenue": 90.84,
+          "expense": 80,
+          "pat": 7.53,
+          "assets": 99.84
+        }
+      ],
+      "revenueTrend": "up",
+      "patTrend": "up",
+      "fundamentals": {
+        "roe": 18.96,
+        "ronw": 17.32,
+        "ebitdaMargin": 13.74,
+        "patMargin": 8.29,
+        "debtEquity": 0.26,
+        "eps": 4.97,
+        "pe": 11.87,
+        "nav": 28.69
+      },
+      "issuePE": 11.87,
+      "promoterPostPct": null,
+      "freshCr": 32
+    },
+    {
+      "name": "Ashutosh Fibre",
+      "segment": "sme",
+      "detailUrl": "https://ipowatch.in/ashutosh-fibre-ipo/",
+      "slug": "ashutosh-fibre-ipo",
+      "gmp": 37,
+      "gmpText": "₹37",
+      "trend": "up",
+      "priceBandUpper": 92,
+      "priceBandText": "₹92",
+      "estListing": 129,
+      "estGainPct": 40.22,
+      "dateText": "31-2 September",
+      "status": "Upcoming",
+      "lastUpdated": "28 Aug, 08:20",
+      "about": "Since its founding in 1985, Ashutosh Fibre has manufactured and traded technical textile products, especially PP (polypropylene) spun yarn. Its product portfolio includes Para Aramid-Based Spun Yarn, High Tenacity Polyester Yarn, Meta Aramid and FR Viscose Yarn, 100% Polypropylene Yarn, Modacrylic-Based Yarn, and Poly Poly Corespun Yarn. Ashutosh Fibre makes technical textiles across 4 major categories: Indutech, Protech, Hometech, and Mobiltech.",
+      "financials": [
+        {
+          "period": "2024",
+          "revenue": 109.89,
+          "expense": 100.11,
+          "pat": 7.05,
+          "assets": 73.01
+        },
+        {
+          "period": "2025",
+          "revenue": 114.97,
+          "expense": 103.88,
+          "pat": 8.51,
+          "assets": 104.6
+        },
+        {
+          "period": "2026",
+          "revenue": 117.43,
+          "expense": 95.87,
+          "pat": 16.04,
+          "assets": 25.8
+        }
+      ],
+      "revenueTrend": "up",
+      "patTrend": "up",
+      "fundamentals": {
+        "roe": 30.91,
+        "ronw": 30.91,
+        "ebitdaMargin": 26.47,
+        "patMargin": 13.67,
+        "debtEquity": 0.92,
+        "eps": 10.19,
+        "pe": null,
+        "nav": 32.95
+      },
+      "issuePE": null,
+      "peers": [
+        {
+          "name": "RSWM Limited",
+          "pe": 18.55
+        },
+        {
+          "name": "Reliance Chemotex Industries Limited",
+          "pe": 16.09
+        },
+        {
+          "name": "Garware Technical Fibres Limited",
+          "pe": 37.72
+        }
+      ],
+      "peerMedianPE": 18.55,
+      "promoterPostPct": 43.05,
+      "freshCr": 56.35
+    },
+    {
+      "name": "Phychem Technologies",
+      "segment": "sme",
+      "detailUrl": "https://ipowatch.in/phychem-technologies-ipo/",
+      "slug": "phychem-technologies-ipo",
+      "gmp": 3,
+      "gmpText": "₹3",
+      "trend": "up",
+      "priceBandUpper": 54,
+      "priceBandText": "₹54",
+      "estListing": 57,
+      "estGainPct": 5.56,
+      "dateText": "31-2 September",
+      "status": "Upcoming",
+      "lastUpdated": "28 Aug, 08:20",
+      "about": "Phychem Technologies is one of the leading manufacturers of rotational molding (roto molding) compounds, a raw material used to make hollow plastic products. Phychem makes customized polyethylene-based compounds made from LLDPE, HDPE, and special additives supplied in powder or granule form, which are used to manufacture water, fuel, and chemical storage tanks, portable toilets, furniture, industrial containers, and other molded plastic parts. It",
+      "financials": [
+        {
+          "period": "2023",
+          "revenue": 43.19,
+          "expense": 41.36,
+          "pat": 1.32,
+          "assets": 14.73
+        },
+        {
+          "period": "2024",
+          "revenue": 47.59,
+          "expense": 45.22,
+          "pat": 1.69,
+          "assets": 17.83
+        },
+        {
+          "period": "2025",
+          "revenue": 51.11,
+          "expense": 47.33,
+          "pat": 2.84,
+          "assets": 20.75
+        },
+        {
+          "period": "2026",
+          "revenue": 57.48,
+          "expense": 51.94,
+          "pat": 4.09,
+          "assets": 25.32
+        }
+      ],
+      "revenueTrend": "up",
+      "patTrend": "up",
+      "fundamentals": {
+        "roe": 29.66,
+        "ronw": 29.66,
+        "ebitdaMargin": 10.78,
+        "patMargin": 7.24,
+        "debtEquity": 0.43,
+        "eps": 5.42,
+        "pe": null,
+        "nav": 18.29
+      },
+      "issuePE": null,
+      "promoterPostPct": null,
+      "freshCr": 14.58
+    },
+    {
+      "name": "Shanti Inorganics",
+      "segment": "sme",
+      "detailUrl": "https://ipowatch.in/shanti-inorganics-ipo/",
+      "slug": "shanti-inorganics-ipo",
+      "gmp": 31,
+      "gmpText": "₹31",
+      "trend": "up",
+      "priceBandUpper": 83,
+      "priceBandText": "₹83",
+      "estListing": 114,
+      "estGainPct": 37.35,
+      "dateText": "31-2 September",
+      "status": "Upcoming",
+      "lastUpdated": "28 Aug, 08:20",
+      "about": null,
+      "financials": [
+        {
+          "period": "2024",
+          "revenue": 45.06,
+          "expense": 38.2,
+          "pat": 5.12,
+          "assets": 52.69
+        },
+        {
+          "period": "2025",
+          "revenue": 58.46,
+          "expense": 47.69,
+          "pat": 7.99,
+          "assets": 66.04
+        },
+        {
+          "period": "2026",
+          "revenue": 72.93,
+          "expense": 59.11,
+          "pat": 10.22,
+          "assets": 97.04
+        },
+        {
+          "period": "May 2026",
+          "revenue": 16.1,
+          "expense": 12.73,
+          "pat": 2.5,
+          "assets": 110.73
+        }
+      ],
+      "revenueTrend": "down",
+      "patTrend": "down",
+      "fundamentals": {
+        "roe": 27.68,
+        "ronw": 27.68,
+        "ebitdaMargin": 21.62,
+        "patMargin": 14.01,
+        "debtEquity": 0.64,
+        "eps": 9.36,
+        "pe": null,
+        "nav": 41.74
+      },
+      "issuePE": null,
+      "promoterPostPct": null,
+      "freshCr": 41.5
+    },
+    {
+      "name": "Paluck Technologies",
+      "segment": "sme",
+      "detailUrl": "https://ipowatch.in/paluck-technologies-ipo/",
+      "slug": "paluck-technologies-ipo",
+      "gmp": 25,
+      "gmpText": "₹25",
+      "trend": "up",
+      "priceBandUpper": 48,
+      "priceBandText": "₹48",
+      "estListing": 73,
+      "estGainPct": 52.08,
+      "dateText": "28-1 September",
+      "status": "Open",
+      "lastUpdated": "28 Aug, 08:20",
+      "about": null,
+      "financials": [
+        {
+          "period": "2024",
+          "revenue": 101.74,
+          "expense": 96.81,
+          "pat": 3.43,
+          "assets": 53.53
+        },
+        {
+          "period": "2025",
+          "revenue": 102.9,
+          "expense": 90.05,
+          "pat": 9.63,
+          "assets": 66.98
+        },
+        {
+          "period": "Feb 2026",
+          "revenue": 105.09,
+          "expense": 86.61,
+          "pat": 13.84,
+          "assets": 105.09
+        }
+      ],
+      "revenueTrend": "up",
+      "patTrend": "up",
+      "fundamentals": {
+        "roe": 38.31,
+        "ronw": 30.28,
+        "ebitdaMargin": 18.48,
+        "patMargin": 9.37,
+        "debtEquity": 0.55,
+        "eps": 31.51,
+        "pe": null,
+        "nav": 104.07
+      },
+      "issuePE": null,
+      "promoterPostPct": null,
+      "freshCr": 33
+    },
+    {
+      "name": "Complete Sports & Management",
+      "segment": "sme",
+      "detailUrl": "https://ipowatch.in/complete-sports-and-management-ipo/",
+      "slug": "complete-sports-and-management-ipo",
+      "gmp": 0,
+      "gmpText": "₹0",
+      "trend": "flat",
+      "priceBandUpper": 135,
+      "priceBandText": "₹135",
+      "estListing": 0,
+      "estGainPct": 0,
+      "dateText": "28-1 September",
+      "status": "Open",
+      "lastUpdated": "28 Aug, 08:20",
+      "about": "Complete Sports and Management India, founded in 2002, has operated in the amusement and leisure equipment business. The firm sources, trades, distributes, installs, and maintains amusement and leisure equipment, along with related consulting services. Its product portfolio includes Bowling solutions, Arcade Games, Soft play systems and trampoline parks, Laser tag, and other amusement and entertainment equipment. From planning & consulting, equip",
+      "financials": [
+        {
+          "period": "2025 (Consolidated)",
+          "revenue": 111.42,
+          "expense": 95.79,
+          "pat": 11.41,
+          "assets": 69.78
+        },
+        {
+          "period": "2026 (Consolidated)",
+          "revenue": 118.76,
+          "expense": 94.32,
+          "pat": 18.18,
+          "assets": 83.26
+        }
+      ],
+      "revenueTrend": "up",
+      "patTrend": "up",
+      "fundamentals": {
+        "roe": 53.55,
+        "ronw": 42.56,
+        "ebitdaMargin": 20.51,
+        "patMargin": 15.81,
+        "debtEquity": 0.21,
+        "eps": 12.11,
+        "pe": null,
+        "nav": 28.46
+      },
+      "issuePE": null,
+      "promoterPostPct": null,
+      "freshCr": 71
+    },
+    {
+      "name": "Kwick Forensic Solutions",
+      "segment": "sme",
+      "detailUrl": "https://ipowatch.in/kwick-forensic-solutions-ipo/",
+      "slug": "kwick-forensic-solutions-ipo",
+      "gmp": 64,
+      "gmpText": "₹64",
+      "trend": "up",
+      "priceBandUpper": 90,
+      "priceBandText": "₹90",
+      "estListing": 154,
+      "estGainPct": 71.11,
+      "dateText": "27-31 August",
+      "status": "Open",
+      "lastUpdated": "28 Aug, 08:20",
+      "about": null,
+      "financials": [
+        {
+          "period": "2024",
+          "revenue": 30.26,
+          "expense": 26.48,
+          "pat": 2.83,
+          "assets": 19.19
+        },
+        {
+          "period": "2025",
+          "revenue": 65.08,
+          "expense": 53.86,
+          "pat": 8.56,
+          "assets": 46.79
+        },
+        {
+          "period": "2026",
+          "revenue": 105.8,
+          "expense": 87.59,
+          "pat": 13.51,
+          "assets": 60.53
+        }
+      ],
+      "revenueTrend": "up",
+      "patTrend": "up",
+      "fundamentals": {
+        "roe": 38.98,
+        "ronw": 32.62,
+        "ebitdaMargin": 18.03,
+        "patMargin": 12.78,
+        "debtEquity": null,
+        "eps": 8,
+        "pe": null,
+        "nav": 24.54
+      },
+      "issuePE": null,
+      "promoterPostPct": 64.65,
+      "freshCr": 41.05
+    },
+    {
+      "name": "Sumax Engineering",
+      "segment": "sme",
+      "detailUrl": "https://ipowatch.in/sumax-engineering-ipo/",
+      "slug": "sumax-engineering-ipo",
+      "gmp": 35,
+      "gmpText": "₹35",
+      "trend": "up",
+      "priceBandUpper": 101,
+      "priceBandText": "₹101",
+      "estListing": 136,
+      "estGainPct": 34.65,
+      "dateText": "25-28 August",
+      "status": "Open",
+      "lastUpdated": "28 Aug, 08:20",
+      "about": null,
+      "financials": [
+        {
+          "period": "2024",
+          "revenue": 131.54,
+          "expense": 121.52,
+          "pat": 7.43,
+          "assets": 54
+        },
+        {
+          "period": "2025",
+          "revenue": 147.18,
+          "expense": 133.75,
+          "pat": 9.98,
+          "assets": 66.14
+        },
+        {
+          "period": "2026",
+          "revenue": 148.34,
+          "expense": 132.1,
+          "pat": 12.76,
+          "assets": 84.81
+        }
+      ],
+      "revenueTrend": "up",
+      "patTrend": "up",
+      "fundamentals": {
+        "roe": 20.71,
+        "ronw": 20.71,
+        "ebitdaMargin": 12.86,
+        "patMargin": 8.64,
+        "debtEquity": 0.21,
+        "eps": 8.66,
+        "pe": null,
+        "nav": 41.83
+      },
+      "issuePE": null,
+      "promoterPostPct": 71.25,
+      "freshCr": 43.34
+    },
+    {
+      "name": "Madhur Knit Crafts",
+      "segment": "sme",
+      "detailUrl": "https://ipowatch.in/madhur-knit-crafts-ipo/",
+      "slug": "madhur-knit-crafts-ipo",
+      "gmp": 0,
+      "gmpText": "₹0",
+      "trend": "flat",
+      "priceBandUpper": 100,
+      "priceBandText": "₹100",
+      "estListing": 100,
+      "estGainPct": 0,
+      "dateText": "24-27 August",
+      "status": "Closed",
+      "lastUpdated": "28 Aug, 08:20",
+      "about": null,
+      "financials": [
+        {
+          "period": "2023",
+          "revenue": 89.56,
+          "expense": 88.56,
+          "pat": 0.9,
+          "assets": 64.59
+        },
+        {
+          "period": "2024",
+          "revenue": 108.41,
+          "expense": 106.42,
+          "pat": 1.7,
+          "assets": 90.6
+        },
+        {
+          "period": "2025",
+          "revenue": 171.76,
+          "expense": 156.87,
+          "pat": 11.03,
+          "assets": 122.59
+        },
+        {
+          "period": "February 2025",
+          "revenue": 194.79,
+          "expense": 178.21,
+          "pat": 12.35,
+          "assets": 159.97
+        }
+      ],
+      "revenueTrend": "up",
+      "patTrend": "up",
+      "fundamentals": {
+        "roe": 37.42,
+        "ronw": 37.42,
+        "ebitdaMargin": 13.56,
+        "patMargin": 6.43,
+        "debtEquity": 2.28,
+        "eps": 8.35,
+        "pe": null,
+        "nav": 22.31
+      },
+      "issuePE": null,
+      "promoterPostPct": null,
+      "freshCr": 27
+    },
+    {
+      "name": "ABH Healthcare",
+      "segment": "sme",
+      "detailUrl": "https://ipowatch.in/abh-healthcare-ipo/",
+      "slug": "abh-healthcare-ipo",
+      "gmp": 0,
+      "gmpText": "₹0",
+      "trend": "flat",
+      "priceBandUpper": 102,
+      "priceBandText": "₹102",
+      "estListing": 0,
+      "estGainPct": 0,
+      "dateText": "24-27 August",
+      "status": "Closed",
+      "lastUpdated": "28 Aug, 08:20",
+      "about": "ABH Healthcare, which operates under the brand “Anil Baghi Hospital,” is a healthcare service provider. It is a multi-speciality hospital brand that provides 25 medical specialties: cardiac sciences, neurology, minimally invasive spine and brain surgeries, medical and surgical gastroenterology, laparoscopic and bariatric surgery, urology, pulmonology, nephrology, ENT, maxillofacial surgeries, etc. ABH Healthcare offers healthcare services under v",
+      "financials": [
+        {
+          "period": "2024",
+          "revenue": 41.39,
+          "expense": 39.19,
+          "pat": 1.66,
+          "assets": 51.35
+        },
+        {
+          "period": "2025",
+          "revenue": 49.32,
+          "expense": 41.89,
+          "pat": 5.35,
+          "assets": 63.9
+        },
+        {
+          "period": "2026",
+          "revenue": 52.59,
+          "expense": 44.66,
+          "pat": 5.64,
+          "assets": 85.27
+        }
+      ],
+      "revenueTrend": "up",
+      "patTrend": "up",
+      "fundamentals": {
+        "roe": 39.07,
+        "ronw": 39.07,
+        "ebitdaMargin": 28.03,
+        "patMargin": 10.74,
+        "debtEquity": 3.2,
+        "eps": 7.05,
+        "pe": null,
+        "nav": 21.58
+      },
+      "issuePE": null,
+      "peers": [
+        {
+          "name": "Sangani Hospitals Limited",
+          "pe": 24.52
+        },
+        {
+          "name": "Asarfi Hospital Limited",
+          "pe": 27.63
+        }
+      ],
+      "peerMedianPE": 26.07,
+      "promoterPostPct": null,
+      "freshCr": 34.98
+    }
+  ]
+}
