@@ -3,7 +3,7 @@ name: Refresh IPO data
 # Scrapes ipowatch.in and commits an updated data.json. Netlify redeploys on push.
 on:
   schedule:
-    - cron: '0 * * * *'        # top of every hour (UTC); GitHub may delay a few min
+    - cron: '21 * * * *'        # 21 mins past the hour
   workflow_dispatch: {}         # allow manual "Run workflow" from the Actions tab
   push:
     branches: [main]
