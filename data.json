@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T02:28:51.163Z",
+  "generatedAt": "2026-08-29T03:28:52.081Z",
   "source": "https://ipowatch.in/ipo-grey-market-premium-latest-ipo-gmp/",
   "disclaimer": "GMP (Grey Market Premium) is an unofficial, speculative indicator from the unregulated grey market and can change daily. Nothing here is investment advice.",
   "trackRecord": {
@@ -22,7 +22,7 @@
       "estGainPct": 26.55,
       "dateText": "1-3 September",
       "status": "Upcoming",
-      "lastUpdated": "28 Aug, 08:20",
+      "lastUpdated": "29 Aug, 08:30",
       "about": null,
       "financials": [
         {
@@ -91,16 +91,16 @@
       "segment": "mainboard",
       "detailUrl": "https://ipowatch.in/rays-of-belief-ipo-details/",
       "slug": "rays-of-belief-ipo-details",
-      "gmp": 10,
-      "gmpText": "₹10",
-      "trend": "down",
+      "gmp": 25,
+      "gmpText": "₹25",
+      "trend": "up",
       "priceBandUpper": 239,
       "priceBandText": "₹239",
-      "estListing": 249,
-      "estGainPct": 4.18,
+      "estListing": 264,
+      "estGainPct": 10.46,
       "dateText": "1-3 September",
       "status": "Upcoming",
-      "lastUpdated": "28 Aug, 08:20",
+      "lastUpdated": "29 Aug, 08:30",
       "about": null,
       "financials": [
         {
@@ -146,16 +146,16 @@
       "segment": "mainboard",
       "detailUrl": "https://ipowatch.in/purple-style-labs-ipo/",
       "slug": "purple-style-labs-ipo",
-      "gmp": 0,
-      "gmpText": "₹0",
-      "trend": "flat",
+      "gmp": 30,
+      "gmpText": "₹30",
+      "trend": "up",
       "priceBandUpper": 575,
       "priceBandText": "₹575",
-      "estListing": 0,
-      "estGainPct": 0,
+      "estListing": 605,
+      "estGainPct": 5.22,
       "dateText": "31-2 September",
       "status": "Upcoming",
-      "lastUpdated": "28 Aug, 08:20",
+      "lastUpdated": "29 Aug, 08:30",
       "about": null,
       "financials": [
         {
@@ -201,16 +201,16 @@
       "segment": "mainboard",
       "detailUrl": "https://ipowatch.in/esds-software-solution-ipo/",
       "slug": "esds-software-solution-ipo",
-      "gmp": 325,
-      "gmpText": "₹325",
-      "trend": "down",
+      "gmp": 360,
+      "gmpText": "₹360",
+      "trend": "up",
       "priceBandUpper": 429,
       "priceBandText": "₹429",
-      "estListing": 754,
-      "estGainPct": 75.76,
+      "estListing": 789,
+      "estGainPct": 83.91,
       "dateText": "28-1 September",
       "status": "Open",
-      "lastUpdated": "28 Aug, 08:20",
+      "lastUpdated": "29 Aug, 08:30",
       "about": "ESDS Software Solution, founded in August 2005, is an AI-enabled End-to-End IT Service Provider with over 20 years of experience in building and managing IT infrastructure. The company provides data center, cloud, colocation, managed services, and AI infrastructure solutions for government, BFSI institutions, and Enterprises. ESDS offers Infrastructure capable of handling workloads across banking, public services, manufacturing, healthcare, retai",
       "financials": [
         {
@@ -257,16 +257,16 @@
       "segment": "mainboard",
       "detailUrl": "https://ipowatch.in/priority-jewels-ipo/",
       "slug": "priority-jewels-ipo",
-      "gmp": 37,
-      "gmpText": "₹37",
+      "gmp": 45,
+      "gmpText": "₹45",
       "trend": "up",
       "priceBandUpper": 200,
       "priceBandText": "₹200",
-      "estListing": 237,
-      "estGainPct": 18.5,
+      "estListing": 245,
+      "estGainPct": 22.5,
       "dateText": "28-1 September",
       "status": "Open",
-      "lastUpdated": "28 Aug, 08:20",
+      "lastUpdated": "29 Aug, 08:30",
       "about": "Priority Jewels was incorporated in 2007 and is one of the leading companies engaged in the manufacturing of fine jewellery. The company follows the process from designing and manufacturing to selling a comprehensive range of lightweight, affordable, and diamond-studded gold and platinum fine jewellery. The company is engaged in supplying gold and platinum jewellery directly to independent jewellers and jewellery chains in India, such as CaratLan",
       "financials": [
         {
@@ -334,16 +334,16 @@
       "segment": "mainboard",
       "detailUrl": "https://ipowatch.in/lumino-industries-ipo/",
       "slug": "lumino-industries-ipo",
-      "gmp": 56,
-      "gmpText": "₹56",
+      "gmp": 60,
+      "gmpText": "₹60",
       "trend": "up",
       "priceBandUpper": 82,
       "priceBandText": "₹82",
-      "estListing": 138,
-      "estGainPct": 68.29,
+      "estListing": 142,
+      "estGainPct": 73.17,
       "dateText": "27-31 August",
       "status": "Open",
-      "lastUpdated": "28 Aug, 08:20",
+      "lastUpdated": "29 Aug, 08:30",
       "about": null,
       "financials": [
         {
@@ -420,16 +420,16 @@
       "segment": "mainboard",
       "detailUrl": "https://ipowatch.in/annu-projects-ipo/",
       "slug": "annu-projects-ipo",
-      "gmp": 7,
-      "gmpText": "₹7",
-      "trend": "up",
+      "gmp": null,
+      "gmpText": "₹-",
+      "trend": "down",
       "priceBandUpper": 99,
       "priceBandText": "₹99",
-      "estListing": 96,
-      "estGainPct": 7.07,
+      "estListing": 99,
+      "estGainPct": 0,
       "dateText": "25-28 August",
-      "status": "Open",
-      "lastUpdated": "28 Aug, 08:20",
+      "status": "Closed",
+      "lastUpdated": "29 Aug, 08:30",
       "about": "Annu Projects Limited, formerly known as Annu Infra Construct (India) Private Limited, was established in 2003. The company is involved in the design, development, implementation, operations, and maintenance of essential overhead and underground utilities infrastructure across telecom infrastructure, sewerage infrastructure, and gas pipeline verticals. With over 20 years of experience, the company has built strong expertise in executing infrastru",
       "financials": [
         {
@@ -494,16 +494,16 @@
       "segment": "mainboard",
       "detailUrl": "https://ipowatch.in/symbiotec-pharmalab-ipo/",
       "slug": "symbiotec-pharmalab-ipo",
-      "gmp": 270,
-      "gmpText": "₹270",
+      "gmp": 260,
+      "gmpText": "₹260",
       "trend": "down",
       "priceBandUpper": 988,
       "priceBandText": "₹988",
-      "estListing": 1258,
-      "estGainPct": 27.33,
+      "estListing": 1248,
+      "estGainPct": 26.32,
       "dateText": "24-27 August",
       "status": "Closed",
-      "lastUpdated": "28 Aug, 08:20",
+      "lastUpdated": "29 Aug, 08:30",
       "about": null,
       "financials": [
         {
@@ -568,16 +568,16 @@
       "segment": "mainboard",
       "detailUrl": "https://ipowatch.in/hy-tech-engineers-ipo/",
       "slug": "hy-tech-engineers-ipo",
-      "gmp": 44,
-      "gmpText": "₹44",
-      "trend": "up",
+      "gmp": 40,
+      "gmpText": "₹40",
+      "trend": "down",
       "priceBandUpper": 53,
       "priceBandText": "₹53",
-      "estListing": 97,
-      "estGainPct": 83.02,
+      "estListing": 93,
+      "estGainPct": 75.47,
       "dateText": "24-27 August",
       "status": "Closed",
-      "lastUpdated": "28 Aug, 08:20",
+      "lastUpdated": "29 Aug, 08:30",
       "about": "Q-Line Biotech Ltd. (QBL) is engaged in the business of developing, manufacturing and marketing of diverse range of reagents (including kits and POC devices) & consumables and manufacturing, importing, distribution/supply of diagnostic equipment for different diagnostic healthcare needs. The company supplies diagnostic equipment and IVD products for different diagnostic healthcare needs since 2013 directly or through its distributor/s majorly to ",
       "financials": [
         {
@@ -657,16 +657,16 @@
       "segment": "mainboard",
       "detailUrl": "https://ipowatch.in/skyways-air-ipo/",
       "slug": "skyways-air-ipo",
-      "gmp": 46,
-      "gmpText": "₹46",
-      "trend": "up",
+      "gmp": 37,
+      "gmpText": "₹37",
+      "trend": "down",
       "priceBandUpper": 138,
       "priceBandText": "₹138",
-      "estListing": 184,
-      "estGainPct": 33.33,
+      "estListing": 175,
+      "estGainPct": 26.81,
       "dateText": "24-27 August",
       "status": "Closed",
-      "lastUpdated": "28 Aug, 08:20",
+      "lastUpdated": "29 Aug, 08:30",
       "about": "Since its establishment in 1984, Skyways Air Services Limited (SASL) has been engaged in air freight forwarding and the logistics sector in India. It offers a wide range of logistics solutions, such as air freight forwarding, ocean freight forwarding, trucking, warehousing, customs broking, and technology-driven express cargo and parcel delivery services to serve the diverse needs of clients across domestic as well as international markets. Start",
       "financials": [
         {
@@ -733,14 +733,14 @@
       "slug": "augmont-enterprises-ipo",
       "gmp": 300,
       "gmpText": "₹300",
-      "trend": "down",
+      "trend": "flat",
       "priceBandUpper": 786,
       "priceBandText": "₹786",
       "estListing": 1086,
       "estGainPct": 38.07,
       "dateText": "21-25 August",
       "status": "Closed",
-      "lastUpdated": "28 Aug, 08:20",
+      "lastUpdated": "29 Aug, 08:30",
       "about": "Since its incorporation in 2012, Augmont Enterprises has been engaged in the business of precious metals like Gold and Silver. The firm handles the entire gold and silver value chain by offering services like refining, making bullion, trading, and selling gold and silver in both physical and digital forms. From buying, selling, and managing gold and silver for both businesses and individuals, everything will be done with Augmont Enterprises, a on",
       "financials": [
         {
@@ -782,61 +782,6 @@
       "freshCr": 620
     },
     {
-      "name": "Tempsens Instruments",
-      "segment": "mainboard",
-      "detailUrl": "https://ipowatch.in/tempsens-instruments-india-ipo/",
-      "slug": "tempsens-instruments-india-ipo",
-      "gmp": 330,
-      "gmpText": "₹330",
-      "trend": "up",
-      "priceBandUpper": 300,
-      "priceBandText": "₹300",
-      "estListing": 630,
-      "estGainPct": 110,
-      "dateText": "20-24 August",
-      "status": "Closed",
-      "lastUpdated": "28 Aug, 08:20",
-      "about": null,
-      "financials": [
-        {
-          "period": "2024",
-          "revenue": 278.04,
-          "expense": 227.12,
-          "pat": 40.92,
-          "assets": 271.14
-        },
-        {
-          "period": "2025",
-          "revenue": 382.47,
-          "expense": 302.3,
-          "pat": 62.56,
-          "assets": 551.28
-        },
-        {
-          "period": "2026",
-          "revenue": 455.86,
-          "expense": 364.04,
-          "pat": 71.07,
-          "assets": 661.05
-        }
-      ],
-      "revenueTrend": "up",
-      "patTrend": "up",
-      "fundamentals": {
-        "roe": 13.54,
-        "ronw": 13.55,
-        "ebitdaMargin": 24.83,
-        "patMargin": 15.59,
-        "debtEquity": 0.15,
-        "eps": 8.35,
-        "pe": null,
-        "nav": 61.66
-      },
-      "issuePE": null,
-      "promoterPostPct": 65.67,
-      "freshCr": 95
-    },
-    {
       "name": "Farm Peace",
       "segment": "sme",
       "detailUrl": "https://ipowatch.in/farm-peace-ipo/",
@@ -850,7 +795,7 @@
       "estGainPct": 0,
       "dateText": "1-3 September",
       "status": "Upcoming",
-      "lastUpdated": "28 Aug, 08:20",
+      "lastUpdated": "29 Aug, 08:30",
       "about": null,
       "financials": [
         {
@@ -905,7 +850,7 @@
       "estGainPct": 40.22,
       "dateText": "31-2 September",
       "status": "Upcoming",
-      "lastUpdated": "28 Aug, 08:20",
+      "lastUpdated": "29 Aug, 08:30",
       "about": "Since its founding in 1985, Ashutosh Fibre has manufactured and traded technical textile products, especially PP (polypropylene) spun yarn. Its product portfolio includes Para Aramid-Based Spun Yarn, High Tenacity Polyester Yarn, Meta Aramid and FR Viscose Yarn, 100% Polypropylene Yarn, Modacrylic-Based Yarn, and Poly Poly Corespun Yarn. Ashutosh Fibre makes technical textiles across 4 major categories: Indutech, Protech, Hometech, and Mobiltech.",
       "financials": [
         {
@@ -975,7 +920,7 @@
       "estGainPct": 5.56,
       "dateText": "31-2 September",
       "status": "Upcoming",
-      "lastUpdated": "28 Aug, 08:20",
+      "lastUpdated": "29 Aug, 08:30",
       "about": "Phychem Technologies is one of the leading manufacturers of rotational molding (roto molding) compounds, a raw material used to make hollow plastic products. Phychem makes customized polyethylene-based compounds made from LLDPE, HDPE, and special additives supplied in powder or granule form, which are used to manufacture water, fuel, and chemical storage tanks, portable toilets, furniture, industrial containers, and other molded plastic parts. It",
       "financials": [
         {
@@ -1037,7 +982,7 @@
       "estGainPct": 37.35,
       "dateText": "31-2 September",
       "status": "Upcoming",
-      "lastUpdated": "28 Aug, 08:20",
+      "lastUpdated": "29 Aug, 08:30",
       "about": null,
       "financials": [
         {
@@ -1099,7 +1044,7 @@
       "estGainPct": 52.08,
       "dateText": "28-1 September",
       "status": "Open",
-      "lastUpdated": "28 Aug, 08:20",
+      "lastUpdated": "29 Aug, 08:30",
       "about": null,
       "financials": [
         {
@@ -1154,7 +1099,7 @@
       "estGainPct": 0,
       "dateText": "28-1 September",
       "status": "Open",
-      "lastUpdated": "28 Aug, 08:20",
+      "lastUpdated": "29 Aug, 08:30",
       "about": "Complete Sports and Management India, founded in 2002, has operated in the amusement and leisure equipment business. The firm sources, trades, distributes, installs, and maintains amusement and leisure equipment, along with related consulting services. Its product portfolio includes Bowling solutions, Arcade Games, Soft play systems and trampoline parks, Laser tag, and other amusement and entertainment equipment. From planning & consulting, equip",
       "financials": [
         {
@@ -1202,7 +1147,7 @@
       "estGainPct": 71.11,
       "dateText": "27-31 August",
       "status": "Open",
-      "lastUpdated": "28 Aug, 08:20",
+      "lastUpdated": "29 Aug, 08:30",
       "about": null,
       "financials": [
         {
@@ -1256,8 +1201,8 @@
       "estListing": 136,
       "estGainPct": 34.65,
       "dateText": "25-28 August",
-      "status": "Open",
-      "lastUpdated": "28 Aug, 08:20",
+      "status": "Closed",
+      "lastUpdated": "29 Aug, 08:30",
       "about": null,
       "financials": [
         {
@@ -1312,7 +1257,7 @@
       "estGainPct": 0,
       "dateText": "24-27 August",
       "status": "Closed",
-      "lastUpdated": "28 Aug, 08:20",
+      "lastUpdated": "29 Aug, 08:30",
       "about": null,
       "financials": [
         {
@@ -1374,7 +1319,7 @@
       "estGainPct": 0,
       "dateText": "24-27 August",
       "status": "Closed",
-      "lastUpdated": "28 Aug, 08:20",
+      "lastUpdated": "29 Aug, 08:30",
       "about": "ABH Healthcare, which operates under the brand “Anil Baghi Hospital,” is a healthcare service provider. It is a multi-speciality hospital brand that provides 25 medical specialties: cardiac sciences, neurology, minimally invasive spine and brain surgeries, medical and surgical gastroenterology, laparoscopic and bariatric surgery, urology, pulmonology, nephrology, ENT, maxillofacial surgeries, etc. ABH Healthcare offers healthcare services under v",
       "financials": [
         {
