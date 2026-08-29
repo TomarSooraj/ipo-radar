@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T13:19:15.577Z",
+  "generatedAt": "2026-08-29T02:28:51.163Z",
   "source": "https://ipowatch.in/ipo-grey-market-premium-latest-ipo-gmp/",
   "disclaimer": "GMP (Grey Market Premium) is an unofficial, speculative indicator from the unregulated grey market and can change daily. Nothing here is investment advice.",
   "trackRecord": {
@@ -851,7 +851,45 @@
       "dateText": "1-3 September",
       "status": "Upcoming",
       "lastUpdated": "28 Aug, 08:20",
-      "enrichError": "This operation was aborted"
+      "about": null,
+      "financials": [
+        {
+          "period": "2024",
+          "revenue": 62.75,
+          "expense": 53.54,
+          "pat": 6.16,
+          "assets": 31.76
+        },
+        {
+          "period": "2025",
+          "revenue": 79.98,
+          "expense": 70.32,
+          "pat": 6.66,
+          "assets": 69.32
+        },
+        {
+          "period": "2026",
+          "revenue": 90.84,
+          "expense": 80,
+          "pat": 7.53,
+          "assets": 99.84
+        }
+      ],
+      "revenueTrend": "up",
+      "patTrend": "up",
+      "fundamentals": {
+        "roe": 18.96,
+        "ronw": 17.32,
+        "ebitdaMargin": 13.74,
+        "patMargin": 8.29,
+        "debtEquity": 0.26,
+        "eps": 4.97,
+        "pe": 11.87,
+        "nav": 28.69
+      },
+      "issuePE": 11.87,
+      "promoterPostPct": null,
+      "freshCr": 32
     },
     {
       "name": "Ashutosh Fibre",
