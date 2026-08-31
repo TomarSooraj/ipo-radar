@@ -508,7 +508,7 @@ function openModal(ipo) {
         <p class="why" style="margin:6px 0 0">Weighted across ${SIGNALS.filter((s) => v.parts[s.key].available).length} of ${SIGNALS.length} signals with data.</p>
       </div>
     </div>
-    ${ipo.about ? `<div class="section-title">What the company does</div><p class="about">${esc(ipo.about)}…</p>` : ''}
+    ${ipo.about ? `<div class="section-title">What the company does</div><p class="about">${esc(ipo.about)}</p>` : ''}
     <div class="section-title">Key facts</div>
     <div class="kv">${kv.map(([k, val]) => `<div class="cell"><div class="k">${esc(k)}</div><div class="v">${esc(val)}</div></div>`).join('')}</div>
     ${finChart(ipo.financials) ? `<div class="section-title">Financials</div>${finChart(ipo.financials)}` : ''}
