@@ -336,7 +336,7 @@ function sectionText(blocks, regexes, tokens, maxChars) {
     for (let j = start + 1; j < blocks.length && !/^h[1-3]$/.test(blocks[j].tag); j += 1) parts.push(blocks[j].text);
     let text = parts.join(' ').trim();
     if(!text) continue;
-    if(text.length > maxChars) text = text.slice(0, maxChars).replace(/\s+\S*$, '') + '…';
+    if(text.length > maxChars) text = text.slice(0, maxChars).replace(/\s+\S*$/, '') + '…';
     return text;
     // const text = parts.join(' ').slice(0, maxChars);
     // if (text) return text;
