@@ -363,9 +363,9 @@ function parseDetail(rawHtml, slug) {
 
   out.about = sectionText(
     blocks,
-    [/about .* ipo/i, /about (the )?company/i, /company (overview|profile|business)/i],
+    [/about .* ipo/i, /^about\b/i, /(company|business) (overview|profile|description|snapshot)/i, /about (the )?company/i],
     tokens,
-    450
+    1200
   );
 
   const fin = findTable(tables, (h) => /revenue/.test(h) && /(pat|profit)/.test(h));
