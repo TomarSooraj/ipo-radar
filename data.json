@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T13:32:28.738Z",
+  "generatedAt": "2026-09-02T13:33:26.167Z",
   "source": "https://ipowatch.in/ipo-grey-market-premium-latest-ipo-gmp/",
   "disclaimer": "GMP (Grey Market Premium) is an unofficial, speculative indicator from the unregulated grey market and can change daily. Nothing here is investment advice.",
   "trackRecord": {
@@ -8,6 +8,443 @@
     "positiveGmpAccuracyPct": 83.7
   },
   "ipos": [
+    {
+      "name": "NSE",
+      "segment": "mainboard",
+      "detailUrl": "https://ipowatch.in/nse-ipo/",
+      "slug": "nse-ipo",
+      "gmp": 0,
+      "gmpText": "₹0",
+      "trend": "flat",
+      "priceBandUpper": null,
+      "priceBandText": "₹-",
+      "estListing": 0,
+      "estGainPct": 0,
+      "dateText": "21-23 Sept",
+      "status": "Upcoming",
+      "lastUpdated": "2 Sept, 18:09",
+      "about": "NSE was founded in 1992 and known as the stock exchange by SEBI in April 1993. NSE started operations in 1994 along with the wholesale debt market afterward, let the market known as stock buy and sell. The National Stock Exchange (NSE) is an important institution with global recognition. It is a reliable market organization known for maintaining high standards of corporate governance. Moreover, the NSE is considered a substantial exchange and a main for driving India’s economic growth. NSE has one of the largest derivatives markets in the world, trading options and futures on indices, stocks, and other securities. This platform is a strong state-of-the-art technology that provides high levels of robustness, safety, and resilience. This is for trading and investment opportunities for all kinds of investors.",
+      "financials": [
+        {
+          "period": "2023",
+          "revenue": 184.81,
+          "expense": 154.97,
+          "pat": 32.1,
+          "assets": 251.58
+        },
+        {
+          "period": "2024",
+          "revenue": 206.45,
+          "expense": 175.85,
+          "pat": 34.44,
+          "assets": 339.25
+        },
+        {
+          "period": "2025",
+          "revenue": 322.58,
+          "expense": 261.43,
+          "pat": 28.13,
+          "assets": 455.49
+        },
+        {
+          "period": "Dec 2025",
+          "revenue": 236.5,
+          "expense": 186.96,
+          "pat": 38.69,
+          "assets": 561.34
+        }
+      ],
+      "revenueTrend": "up",
+      "patTrend": "up",
+      "fundamentals": {
+        "roe": 32.98,
+        "ronw": 33.21,
+        "ebitdaMargin": null,
+        "patMargin": 50.98,
+        "debtEquity": null,
+        "eps": 41.62,
+        "pe": null,
+        "nav": 129.75
+      },
+      "issuePE": null,
+      "peers": [
+        {
+          "name": "Powerica Limited",
+          "pe": 24.45
+        },
+        {
+          "name": "Cummins India Limited",
+          "pe": 64.13
+        },
+        {
+          "name": "Kirloskar Oil Engines Limited",
+          "pe": 43.24
+        },
+        {
+          "name": "NTPC Green Energy Limited",
+          "pe": 129.4
+        },
+        {
+          "name": "Acme Solar Holdings Limited",
+          "pe": 50.74
+        },
+        {
+          "name": "Adani Green Energy Limited",
+          "pe": 101.53
+        }
+      ],
+      "peerMedianPE": 57.44,
+      "promoterPostPct": null
+    },
+    {
+      "name": "Veegaland Developers",
+      "segment": "mainboard",
+      "detailUrl": "https://ipowatch.in/veegaland-developers-ipo/",
+      "slug": "veegaland-developers-ipo",
+      "gmp": 18,
+      "gmpText": "₹18",
+      "trend": "up",
+      "priceBandUpper": 140,
+      "priceBandText": "₹140",
+      "estListing": 158,
+      "estGainPct": 12.86,
+      "dateText": "10-15 Sept",
+      "status": "Upcoming",
+      "lastUpdated": "2 Sept, 17:42",
+      "about": "Veegaland Developers, founded in 2007, is a real estate development firm that works on residential, commercial, and mixed-use projects. From planning and construction to modern design and timely execution of property developments, Veegaland Developers handles everything. Its project portfolio includes housing projects, commercial complexes, and integrated developments serving a wide range of customers. So far, the firm has completed 10 residential projects aggregating to 11.05 lakh square feet of saleable area; 12 are ongoing projects, and 3 are upcoming ones. The company’s main aim is to build environmentally responsible properties, be useful, and provide good value to the customers.",
+      "financials": [
+        {
+          "period": "2024",
+          "revenue": 114.61,
+          "expense": 103.39,
+          "pat": 7.83,
+          "assets": 221.01
+        },
+        {
+          "period": "2025",
+          "revenue": 196.22,
+          "expense": 167.95,
+          "pat": 20.37,
+          "assets": 326.65
+        },
+        {
+          "period": "2026",
+          "revenue": 254.16,
+          "expense": 217.96,
+          "pat": 26.61,
+          "assets": 483.81
+        }
+      ],
+      "revenueTrend": "up",
+      "patTrend": "up",
+      "fundamentals": {
+        "roe": 16.02,
+        "ronw": 16.02,
+        "ebitdaMargin": 16.78,
+        "patMargin": 10.47,
+        "debtEquity": 0.32,
+        "eps": 8.77,
+        "pe": null,
+        "nav": 79.08
+      },
+      "issuePE": null,
+      "peers": [
+        {
+          "name": "Shriram Properties Limited",
+          "pe": 12.91
+        },
+        {
+          "name": "Puravankara Limited",
+          "pe": 84.24
+        }
+      ],
+      "peerMedianPE": 48.57,
+      "promoterPostPct": 63.69,
+      "freshCr": 210
+    },
+    {
+      "name": "Asset Reconstruction",
+      "segment": "mainboard",
+      "detailUrl": "https://ipowatch.in/asset-reconstruction-ipo/",
+      "slug": "asset-reconstruction-ipo",
+      "gmp": 0,
+      "gmpText": "₹0",
+      "trend": "flat",
+      "priceBandUpper": null,
+      "priceBandText": "₹-",
+      "estListing": 0,
+      "estGainPct": 0,
+      "dateText": "9-11 Sept",
+      "status": "Upcoming",
+      "lastUpdated": "2 Sept, 17:42",
+      "about": "To be updated soon",
+      "financials": [
+        {
+          "period": "2024",
+          "revenue": 609.49,
+          "expense": 194.75,
+          "pat": 310.89,
+          "assets": 3656.69
+        },
+        {
+          "period": "2025",
+          "revenue": 607.84,
+          "expense": 176.68,
+          "pat": 309.24,
+          "assets": 4395.99
+        },
+        {
+          "period": "2026",
+          "revenue": 749.92,
+          "expense": 285.34,
+          "pat": 322.69,
+          "assets": 5726.4
+        }
+      ],
+      "revenueTrend": "up",
+      "patTrend": "up",
+      "fundamentals": {
+        "roe": 13.95,
+        "ronw": 12.52,
+        "ebitdaMargin": 78.21,
+        "patMargin": 51.95,
+        "debtEquity": 0.37,
+        "eps": 10.82,
+        "pe": null,
+        "nav": 90.96
+      },
+      "issuePE": null,
+      "promoterPostPct": 73.45
+    },
+    {
+      "name": "LCC Projects",
+      "segment": "mainboard",
+      "detailUrl": "https://ipowatch.in/lcc-projects-ipo/",
+      "slug": "lcc-projects-ipo",
+      "gmp": 0,
+      "gmpText": "₹0",
+      "trend": "flat",
+      "priceBandUpper": null,
+      "priceBandText": "₹-",
+      "estListing": 0,
+      "estGainPct": 0,
+      "dateText": "9-11 Sept",
+      "status": "Upcoming",
+      "lastUpdated": "2 Sept, 17:42",
+      "about": "LCC Projects, founded in 2017, is an engineering, procurement, and construction (“EPC”) firm that works mainly on irrigation and water supply projects. Its projects include construction of dams, barrages, weirs, hydraulic structures, canals, pipe distribution networks, lift irrigation works, water supply schemes, and other EPC projects. As of September 2024, the firm has completed 68 projects, of which the Sondwa Lift Micro Irrigation Project, Sidhi Bansagar Multi–Village Scheme, and Gandhi Sagar 1 Multi-Village Scheme are the top three. Moreover, LCC has also completed various notable projects such as the construction of the Tawa Left Bank Canal, Parbati Dam Project, Dudhai Sub Branch Canal Project, and AKOT Lift Irrigation Scheme. In FY22, the firm was operating in 8 states, and by FY24, it had expanded to 11 states: Gujarat, Madhya Pradesh, Odisha, Rajasthan, Maharashtra, Uttar Pradesh, Karnataka, Jharkhand, Chhattisgarh, Himachal Pradesh, and Haryana.",
+      "financials": [
+        {
+          "period": "2022",
+          "revenue": 796.22,
+          "expense": 741.94,
+          "pat": 35.33,
+          "assets": 473.29
+        },
+        {
+          "period": "2023",
+          "revenue": 1234.64,
+          "expense": 1142.87,
+          "pat": 68.22,
+          "assets": 803.61
+        },
+        {
+          "period": "2024",
+          "revenue": 2449.79,
+          "expense": 2241.87,
+          "pat": 122,
+          "assets": 1129.99
+        },
+        {
+          "period": "September 2024",
+          "revenue": 1484.54,
+          "expense": 1330.24,
+          "pat": 117.95,
+          "assets": 1453.94
+        }
+      ],
+      "revenueTrend": "up",
+      "patTrend": "up",
+      "fundamentals": {
+        "roe": 31.87,
+        "ronw": 31.87,
+        "ebitdaMargin": 9.9,
+        "patMargin": 5,
+        "debtEquity": 1.1,
+        "eps": 4.48,
+        "pe": null,
+        "nav": 14.07
+      },
+      "issuePE": null,
+      "peers": [
+        {
+          "name": "Vishnu Prakash R Punglia Limited",
+          "pe": 15.72
+        },
+        {
+          "name": "Enviro Infra Engineers Limited",
+          "pe": 28.14
+        }
+      ],
+      "peerMedianPE": 21.93,
+      "promoterPostPct": null,
+      "freshCr": 320
+    },
+    {
+      "name": "Prasol Chemicals",
+      "segment": "mainboard",
+      "detailUrl": "https://ipowatch.in/prasol-chemicals-ipo/",
+      "slug": "prasol-chemicals-ipo",
+      "gmp": 0,
+      "gmpText": "₹0",
+      "trend": "flat",
+      "priceBandUpper": null,
+      "priceBandText": "₹-",
+      "estListing": 0,
+      "estGainPct": 0,
+      "dateText": "8-10 Sept",
+      "status": "Upcoming",
+      "lastUpdated": "2 Sept, 17:42",
+      "about": "To be updated soon",
+      "financials": [
+        {
+          "period": "2023",
+          "revenue": 932.59,
+          "expense": 874.31,
+          "pat": 48.59,
+          "assets": 692.54
+        },
+        {
+          "period": "2024",
+          "revenue": 887.56,
+          "expense": 848.28,
+          "pat": 18.13,
+          "assets": 626.36
+        },
+        {
+          "period": "2025",
+          "revenue": 1015.54,
+          "expense": 956.25,
+          "pat": 43.57,
+          "assets": 723.09
+        },
+        {
+          "period": "Jun 2025",
+          "revenue": 320.44,
+          "expense": 287.65,
+          "pat": 24.34,
+          "assets": 798.18
+        }
+      ],
+      "revenueTrend": "down",
+      "patTrend": "down",
+      "fundamentals": {
+        "roe": 12.57,
+        "ronw": 11.86,
+        "ebitdaMargin": 8.67,
+        "patMargin": 4.3,
+        "debtEquity": 0.23,
+        "eps": 7.51,
+        "pe": null,
+        "nav": 63.35
+      },
+      "issuePE": null,
+      "peers": [
+        {
+          "name": "Aarti Industries Limited",
+          "pe": 41.37
+        },
+        {
+          "name": "Atul Limited",
+          "pe": 36.83
+        },
+        {
+          "name": "Laxmi Organics Limited",
+          "pe": 52.23
+        },
+        {
+          "name": "Vinati Organic Limited",
+          "pe": 43.1
+        },
+        {
+          "name": "Privi Speciality Chemicals Limited",
+          "pe": 51.27
+        },
+        {
+          "name": "Yasho Industries Limited",
+          "pe": 306.58
+        },
+        {
+          "name": "Excel Industries Limited",
+          "pe": 16.85
+        }
+      ],
+      "peerMedianPE": 43.1,
+      "promoterPostPct": null,
+      "freshCr": 80,
+      "ofsCr": 420
+    },
+    {
+      "name": "Glass Wall Systems",
+      "segment": "mainboard",
+      "detailUrl": "https://ipowatch.in/glass-wall-systems-ipo/",
+      "slug": "glass-wall-systems-ipo",
+      "gmp": 0,
+      "gmpText": "₹0",
+      "trend": "flat",
+      "priceBandUpper": null,
+      "priceBandText": "₹-",
+      "estListing": 0,
+      "estGainPct": 0,
+      "dateText": "8-10 Sept",
+      "status": "Upcoming",
+      "lastUpdated": "2 Sept, 17:42",
+      "about": "To be updated soon",
+      "financials": [
+        {
+          "period": "2023",
+          "revenue": 242.18,
+          "expense": 240.14,
+          "pat": 16.11,
+          "assets": 303.93
+        },
+        {
+          "period": "2024",
+          "revenue": 288.02,
+          "expense": 250.41,
+          "pat": 11.95,
+          "assets": 258.34
+        },
+        {
+          "period": "2025",
+          "revenue": 251.7,
+          "expense": 192.77,
+          "pat": 43.81,
+          "assets": 289.57
+        }
+      ],
+      "revenueTrend": "up",
+      "patTrend": "up",
+      "fundamentals": {
+        "roe": 32.75,
+        "ronw": 28.54,
+        "ebitdaMargin": 23.73,
+        "patMargin": 17.9,
+        "debtEquity": null,
+        "eps": 5.2,
+        "pe": null,
+        "nav": 20.22
+      },
+      "issuePE": null,
+      "peers": [
+        {
+          "name": "Innovator Façade Systems Limited",
+          "pe": 21.67
+        }
+      ],
+      "peerMedianPE": 21.67,
+      "promoterPostPct": null,
+      "freshCr": 60
+    },
     {
       "name": "Kanohar Electricals",
       "segment": "mainboard",
@@ -20,9 +457,9 @@
       "priceBandText": "₹-",
       "estListing": 0,
       "estGainPct": 0,
-      "dateText": "TBA",
+      "dateText": "8-10 Sept",
       "status": "Upcoming",
-      "lastUpdated": "1 Sept, 17:07",
+      "lastUpdated": "2 Sept, 17:42",
       "about": "To be updated soon",
       "financials": [
         {
@@ -98,87 +535,21 @@
       "freshCr": 300
     },
     {
-      "name": "Veegaland Developers",
-      "segment": "mainboard",
-      "detailUrl": "https://ipowatch.in/veegaland-developers-ipo/",
-      "slug": "veegaland-developers-ipo",
-      "gmp": 14,
-      "gmpText": "₹14",
-      "trend": "up",
-      "priceBandUpper": 140,
-      "priceBandText": "₹140",
-      "estListing": 154,
-      "estGainPct": 10,
-      "dateText": "10-15 Sept",
-      "status": "Upcoming",
-      "lastUpdated": "1 Sept, 17:07",
-      "about": "Veegaland Developers, founded in 2007, is a real estate development firm that works on residential, commercial, and mixed-use projects. From planning and construction to modern design and timely execution of property developments, Veegaland Developers handles everything. Its project portfolio includes housing projects, commercial complexes, and integrated developments serving a wide range of customers. So far, the firm has completed 10 residential projects aggregating to 11.05 lakh square feet of saleable area; 12 are ongoing projects, and 3 are upcoming ones. The company’s main aim is to build environmentally responsible properties, be useful, and provide good value to the customers.",
-      "financials": [
-        {
-          "period": "2024",
-          "revenue": 114.61,
-          "expense": 103.39,
-          "pat": 7.83,
-          "assets": 221.01
-        },
-        {
-          "period": "2025",
-          "revenue": 196.22,
-          "expense": 167.95,
-          "pat": 20.37,
-          "assets": 326.65
-        },
-        {
-          "period": "2026",
-          "revenue": 254.16,
-          "expense": 217.96,
-          "pat": 26.61,
-          "assets": 483.81
-        }
-      ],
-      "revenueTrend": "up",
-      "patTrend": "up",
-      "fundamentals": {
-        "roe": 16.02,
-        "ronw": 16.02,
-        "ebitdaMargin": 16.78,
-        "patMargin": 10.47,
-        "debtEquity": 0.32,
-        "eps": 8.77,
-        "pe": null,
-        "nav": 79.08
-      },
-      "issuePE": null,
-      "peers": [
-        {
-          "name": "Shriram Properties Limited",
-          "pe": 12.91
-        },
-        {
-          "name": "Puravankara Limited",
-          "pe": 84.24
-        }
-      ],
-      "peerMedianPE": 48.57,
-      "promoterPostPct": 63.69,
-      "freshCr": 210
-    },
-    {
       "name": "Pranav Constructions",
       "segment": "mainboard",
       "detailUrl": "https://ipowatch.in/pranav-constructions-ipo/",
       "slug": "pranav-constructions-ipo",
-      "gmp": 0,
-      "gmpText": "₹0",
-      "trend": "flat",
-      "priceBandUpper": null,
-      "priceBandText": "₹-",
-      "estListing": 0,
-      "estGainPct": 0,
+      "gmp": 23,
+      "gmpText": "₹23",
+      "trend": "up",
+      "priceBandUpper": 124,
+      "priceBandText": "₹124",
+      "estListing": 147,
+      "estGainPct": 18.54,
       "dateText": "7-9 Sept",
       "status": "Upcoming",
-      "lastUpdated": "1 Sept, 17:10",
-      "about": "To be updated soon",
+      "lastUpdated": "2 Sept, 17:42",
+      "about": "Pranav Constructions, founded in July 2003, is a real-estate firm that focuses on the redevelopment of old buildings and properties in Mumbai. Rather than building new properties on new land, Pranav Constructions is mainly involved in the redevelopment or renovation of old existing properties into new ones. It works on different types of housing, including Economical homes, Mid/Mass homes, and Aspirational homes. As of March 2026, the firm had 65 redevelopment projects in the Mumbai MCGM area, of which 28 projects are completed, 20 projects are under construction, and 17 projects are upcoming. The company mostly handles the execution of its redevelopment model itself, from tendering, pre-construction, construction, and post-construction activities.",
       "financials": [
         {
           "period": "2024",
@@ -242,7 +613,7 @@
         }
       ],
       "peerMedianPE": 45.06,
-      "promoterPostPct": null,
+      "promoterPostPct": 46.49,
       "freshCr": 316
     },
     {
@@ -250,16 +621,16 @@
       "segment": "mainboard",
       "detailUrl": "https://ipowatch.in/deepa-jewellers-ipo/",
       "slug": "deepa-jewellers-ipo",
-      "gmp": 40,
-      "gmpText": "₹40",
+      "gmp": 44,
+      "gmpText": "₹44",
       "trend": "down",
       "priceBandUpper": 177,
       "priceBandText": "₹177",
-      "estListing": 217,
-      "estGainPct": 22.6,
+      "estListing": 221,
+      "estGainPct": 24.86,
       "dateText": "1-3 Sept",
-      "status": "Upcoming",
-      "lastUpdated": "1 Sept, 17:07",
+      "status": "Open",
+      "lastUpdated": "2 Sept, 17:42",
       "about": "Deepa Jewellers, founded in 2016, is one of the leading wholesalers and traders of gold and diamond jewellery. The firm sells a wide range of traditional and contemporary designs across rings, necklaces, earrings, bangles, and customized ornaments. So far, the company offers 16 products with 110 different products across various categories. Its product portfolio includes Vaddanam (waist belt), CNC machine-cut bangles, gents kada, vanky(armlet), dandpatti (bajuband), gundlamala haaram (traditional neck piece), gundlamala necklace, kangan, earring, mangtika (forehead pendant), maatil (ear chain), champasaralu (ear to hair chain), jada (braid ornament), and rings. Deepa Jewellers source, design, and sell jewellery products crafted with quality and skilled craftsmanship. The firm developed its business with an aim to offer pure jewellery, clear and transparent pricing, and to build customer trust.",
       "financials": [
         {
@@ -328,16 +699,16 @@
       "segment": "mainboard",
       "detailUrl": "https://ipowatch.in/rays-of-belief-ipo-details/",
       "slug": "rays-of-belief-ipo-details",
-      "gmp": 48,
-      "gmpText": "₹48",
+      "gmp": 38,
+      "gmpText": "₹38",
       "trend": "up",
       "priceBandUpper": 239,
       "priceBandText": "₹239",
-      "estListing": 287,
-      "estGainPct": 20.08,
+      "estListing": 277,
+      "estGainPct": 15.9,
       "dateText": "1-3 Sept",
-      "status": "Upcoming",
-      "lastUpdated": "1 Sept, 17:07",
+      "status": "Open",
+      "lastUpdated": "2 Sept, 17:42",
       "about": "Rays of Belief, started in 2017, is a for-profit social enterprise that offers customized intervention programs for children with Neurodevelopmental Disorders (NDDs). The conditions they help with are Autism Spectrum Disorder (ASD), ADHD, Down Syndrome, Cerebral Palsy, Intellectual Disability, Learning Disabilities, and Global Developmental Delays. The company serves children between the ages of 18 months and 12 years, while also offering specialised programs for children up to 15 years, which teach vocational and life skills to help them become more independent. Its services include early intervention, Parental guidance, Occupational therapy, Language therapy, and family support programs. Furthermore, the company has a large range of learning resources, including 150+ teaching tools at centres, 2,000+ tools for home learning, Regular follow-ups, Progress monitoring, and 340+ clinical professionals.",
       "financials": [
         {
@@ -392,7 +763,7 @@
       "estGainPct": 0.7,
       "dateText": "31-2 Sept",
       "status": "Open",
-      "lastUpdated": "1 Sept, 17:07",
+      "lastUpdated": "2 Sept, 17:42",
       "about": "Purple Style Labs, founded in 2015, runs a Pernia’s Pop-Up Shop (“PPUS”), a multi-brand luxury fashion platform. They offer their products both offline and online through their own website and mobile application. Under the PPUS brand, the company sells over 2.11 lakh products across women’s wear, men’s wear, jewellery, accessories, and kids’ wear from 1,312 active designer brands. Moreover, the website also features some of the well-known designers like Seema Gujral, Anushree Reddy, Amit Aggarwal, and Rohit Gandhi & Rahul Khanna. Moreover, the firm has served over 200,000 unique customers across 140 countries between FY23 and FY25. In fact, in FY25, the business reported 18.57 million unique visitors, 70,651 customers, and 104,856 orders across 100 countries.",
       "financials": [
         {
@@ -438,16 +809,16 @@
       "segment": "mainboard",
       "detailUrl": "https://ipowatch.in/esds-software-solution-ipo/",
       "slug": "esds-software-solution-ipo",
-      "gmp": 250,
-      "gmpText": "₹250",
+      "gmp": 255,
+      "gmpText": "₹255",
       "trend": "down",
       "priceBandUpper": 429,
       "priceBandText": "₹429",
-      "estListing": 679,
-      "estGainPct": 58.28,
+      "estListing": 684,
+      "estGainPct": 59.44,
       "dateText": "28-1 Sept",
-      "status": "Open",
-      "lastUpdated": "1 Sept, 17:07",
+      "status": "Closed",
+      "lastUpdated": "2 Sept, 17:42",
       "about": "ESDS Software Solution, founded in August 2005, is an AI-enabled End-to-End IT Service Provider with over 20 years of experience in building and managing IT infrastructure. The company provides data center, cloud, colocation, managed services, and AI infrastructure solutions for government, BFSI institutions, and Enterprises. ESDS offers Infrastructure capable of handling workloads across banking, public services, manufacturing, healthcare, retail, energy, logistics, and other sectors. It operates 5 Tier-III data centers located across Nashik, Navi Mumbai, Bengaluru, Mohali, and Noida, covering over 75,266 sq. ft. Its services include Managed Services, Cloud & Data Migration, Disaster Recovery as a Service (DRaaS), Backup as a Service, Colocation Services, and Data center services. Moreover, ESDS has built its own AI-powered cloud platform, SWARAJ Cloud, focused on data sovereignty, scalability, security, compliance, and AI capabilities.",
       "financials": [
         {
@@ -494,16 +865,16 @@
       "segment": "mainboard",
       "detailUrl": "https://ipowatch.in/priority-jewels-ipo/",
       "slug": "priority-jewels-ipo",
-      "gmp": 40,
-      "gmpText": "₹40",
+      "gmp": 31,
+      "gmpText": "₹31",
       "trend": "down",
       "priceBandUpper": 200,
       "priceBandText": "₹200",
-      "estListing": 240,
-      "estGainPct": 20,
+      "estListing": 231,
+      "estGainPct": 15.5,
       "dateText": "28-1 Sept",
-      "status": "Open",
-      "lastUpdated": "1 Sept, 17:07",
+      "status": "Closed",
+      "lastUpdated": "2 Sept, 17:42",
       "about": "Priority Jewels was incorporated in 2007 and is one of the leading companies engaged in the manufacturing of fine jewellery. The company follows the process from designing and manufacturing to selling a comprehensive range of lightweight, affordable, and diamond-studded gold and platinum fine jewellery. The company is engaged in supplying gold and platinum jewellery directly to independent jewellers and jewellery chains in India, such as CaratLane Trading, Kalyan Jewellers, Malabar Gold & Diamonds, Tribhovandas Bhimji Zaveri, and Senco Gold. Their manufacturing facilities, located in Mumbai, span 19,008 sq ft. and 6,821 sq. ft. and are equipped with advanced casting, modern CAD/CAM, and 3D printing technology, enabling precision manufacturing. The company consists of over 200 customers in India, 159 independent jewellers, and 35 jewellery chains as of December 2024. Khazanchi Jewellers, RBZ Jewellers, Ashapuri Gold Ornament, and Shringar House of Mangalsutra are the competitors of Priority Jewels.",
       "financials": [
         {
@@ -579,8 +950,8 @@
       "estListing": 122,
       "estGainPct": 48.78,
       "dateText": "27-31 Aug",
-      "status": "Open",
-      "lastUpdated": "1 Sept, 17:07",
+      "status": "Closed",
+      "lastUpdated": "2 Sept, 17:42",
       "about": "Lumino Industries, founded in 2005, is one of the leading engineering, procurement, and construction (EPC) companies involved in the manufacturing and supply of conductors, power cables, electrical wires, and specialised components. The firm makes high-temperature, low-sag (HTLS) conductors for distribution and transmission lines, making Lumino the fastest-growing player in the conductors, power cables, and EPC industry. Its product portfolio includes Aluminium conductors, Power Cables, and electrical wires used in power distribution, industrial, renewable energy, and communication works. The firm runs its 2 manufacturing facilities in Howrah, West Bengal, and supplies its products to international clients, including government-owned electricity companies in countries like the USA, Nepal, and Ghana.",
       "financials": [
         {
@@ -662,11 +1033,11 @@
       "trend": "down",
       "priceBandUpper": 99,
       "priceBandText": "₹99",
-      "estListing": 99,
+      "estListing": 0,
       "estGainPct": 0,
       "dateText": "25-28 Aug",
       "status": "Closed",
-      "lastUpdated": "1 Sept, 17:07",
+      "lastUpdated": "2 Sept, 07:30",
       "about": "Annu Projects Limited, formerly known as Annu Infra Construct (India) Private Limited, was established in 2003. The company is involved in the design, development, implementation, operations, and maintenance of essential overhead and underground utilities infrastructure across telecom infrastructure, sewerage infrastructure, and gas pipeline verticals. With over 20 years of experience, the company has built strong expertise in executing infrastructure projects and has diversified its revenue across the telecom infrastructure, sewerage, and gas pipeline sectors.",
       "financials": [
         {
@@ -727,257 +1098,74 @@
       "freshCr": 175
     },
     {
-      "name": "Symbiotec Pharmalab",
-      "segment": "mainboard",
-      "detailUrl": "https://ipowatch.in/symbiotec-pharmalab-ipo/",
-      "slug": "symbiotec-pharmalab-ipo",
-      "gmp": 185,
-      "gmpText": "₹185",
-      "trend": "down",
-      "priceBandUpper": 988,
-      "priceBandText": "₹988",
-      "estListing": 1173,
-      "estGainPct": 18.72,
-      "dateText": "24-27 Aug",
-      "status": "Closed",
-      "lastUpdated": "1 Sept, 14:30",
-      "about": "Symbiotec Pharmalab is a pharmaceutical and biotechnology company with over 30 years of experience. It mainly manufactures Corticosteroid and Steroidal Hormone APIs, which are important ingredients used to make medicines. The company has grown from a small laboratory-scale steroid manufacturer into a fully integrated global company. In FY2025, Symbiotec had a strong share of the global market for these APIs and was the only Indian and global company present across the top 10 categories in this market. In FY2025, they were a global leader by volume in the production of Corticosteroid and Steroidal-Hormone Active Pharmaceutical Ingredients (APIs).",
+      "name": "Amtech Esters",
+      "segment": "sme",
+      "detailUrl": "https://ipowatch.in/amtech-esters-ipo/",
+      "slug": "amtech-esters-ipo",
+      "gmp": 0,
+      "gmpText": "₹0",
+      "trend": "flat",
+      "priceBandUpper": null,
+      "priceBandText": "₹-",
+      "estListing": 0,
+      "estGainPct": 0,
+      "dateText": "9-11 Sept",
+      "status": "Upcoming",
+      "lastUpdated": "2 Sept, 17:42",
+      "about": "Amtech Esters, founded in May 2002, is one of the leading chemical manufacturing firms that manufactures Unsaturated Polyester Resins (UPRs). This chemical is used to make materials such as resin and fiberglass-reinforced plastic (FRP) products. The company’s product portfolio includes Unsaturated Polyester Resins, fibreglass, hardeners, silicones and other ancillary products used in various industrial applications. Amtech Esters also operates its business through its wholly owned subsidiary, Croda Pigments Private Limited (CPPL), which is involved in the manufacture of pigments used as colourants and additives in paints, varnishes, dyes, glues, gums and other chemical applications. Its manufacturing facilities are situated in Bahadurgarh, Jhajjar, Haryana, which comprises modern and automated plant and machinery.",
       "financials": [
         {
           "period": "2024",
-          "revenue": 723.33,
-          "expense": 590.99,
-          "pat": 100.06,
-          "assets": 1294.79
+          "revenue": 27.24,
+          "expense": 23.84,
+          "pat": 2.84,
+          "assets": 24.79
         },
         {
           "period": "2025",
-          "revenue": 755.98,
-          "expense": 608.85,
-          "pat": 96.79,
-          "assets": 1579.65
+          "revenue": 36.97,
+          "expense": 31.81,
+          "pat": 3.72,
+          "assets": 27.86
         },
         {
           "period": "2026",
-          "revenue": 872.26,
-          "expense": 709.9,
-          "pat": 109.9,
-          "assets": 1780.79
+          "revenue": 40.75,
+          "expense": 35.01,
+          "pat": 4.22,
+          "assets": 34.47
         }
       ],
       "revenueTrend": "up",
       "patTrend": "up",
       "fundamentals": {
-        "roe": 11.19,
-        "ronw": 9.48,
-        "ebitdaMargin": 26.59,
-        "patMargin": 12.6,
-        "debtEquity": null,
-        "eps": 19.1,
+        "roe": 24.17,
+        "ronw": 24.17,
+        "ebitdaMargin": 18.41,
+        "patMargin": 10.38,
+        "debtEquity": 0.17,
+        "eps": 6.55,
         "pe": null,
-        "nav": 184.69
+        "nav": 30.38
       },
       "issuePE": null,
-      "peers": [
-        {
-          "name": "Concord Biotech Limited",
-          "pe": 61.07
-        },
-        {
-          "name": "Divi’s Laboratories Limited",
-          "pe": 87.8
-        },
-        {
-          "name": "Cohance Lifesciences Limited",
-          "pe": 95.02
-        },
-        {
-          "name": "Laurus Labs Limited",
-          "pe": 109.36
-        }
-      ],
-      "peerMedianPE": 91.41,
-      "promoterPostPct": null,
-      "freshCr": 150
-    },
-    {
-      "name": "Hy-Tech Engineers",
-      "segment": "mainboard",
-      "detailUrl": "https://ipowatch.in/hy-tech-engineers-ipo/",
-      "slug": "hy-tech-engineers-ipo",
-      "gmp": 35,
-      "gmpText": "₹35",
-      "trend": "down",
-      "priceBandUpper": 53,
-      "priceBandText": "₹53",
-      "estListing": 88,
-      "estGainPct": 66.04,
-      "dateText": "24-27 Aug",
-      "status": "Closed",
-      "lastUpdated": "1 Sept, 14:30",
-      "about": "Hy-Tech Engineers Limited has been in the hydraulics industry for over 40 years and manufactures and supplies hydraulic fittings for various industries. It offers 11,000 types of products, including DIN-metric, JIC, ORFS, conversion, and customised fittings. Its products are used in construction machinery, automobiles, agricultural machinery, injection moulding machines and hydraulic systems. Hy-Tech Engineers has manufacturing facilities in Thane, Shirwal, Kavathe, and Pithampur, along with a Nashik unit that supplies forged components to these plants. Further, the Nashik unit supplies forged components to these facilities as part of its backward integration strategy.",
-      "financials": [
-        {
-          "period": "2023",
-          "revenue": 184.81,
-          "expense": 154.97,
-          "pat": 32.1,
-          "assets": 251.58
-        },
-        {
-          "period": "2024",
-          "revenue": 206.45,
-          "expense": 175.85,
-          "pat": 34.44,
-          "assets": 339.25
-        },
-        {
-          "period": "2025",
-          "revenue": 322.58,
-          "expense": 261.43,
-          "pat": 28.13,
-          "assets": 455.49
-        },
-        {
-          "period": "Dec 2025",
-          "revenue": 236.5,
-          "expense": 186.96,
-          "pat": 38.69,
-          "assets": 561.34
-        }
-      ],
-      "revenueTrend": "up",
-      "patTrend": "up",
-      "fundamentals": {
-        "roe": 20.24,
-        "ronw": 20.24,
-        "ebitdaMargin": 22.01,
-        "patMargin": 11.68,
-        "debtEquity": null,
-        "eps": 2.7,
-        "pe": null,
-        "nav": 14.61
-      },
-      "issuePE": null,
-      "peers": [
-        {
-          "name": "Powerica Limited",
-          "pe": 24.45
-        },
-        {
-          "name": "Cummins India Limited",
-          "pe": 64.13
-        },
-        {
-          "name": "Kirloskar Oil Engines Limited",
-          "pe": 43.24
-        },
-        {
-          "name": "NTPC Green Energy Limited",
-          "pe": 129.4
-        },
-        {
-          "name": "Acme Solar Holdings Limited",
-          "pe": 50.74
-        },
-        {
-          "name": "Adani Green Energy Limited",
-          "pe": 101.53
-        }
-      ],
-      "peerMedianPE": 57.44,
-      "promoterPostPct": null,
-      "freshCr": 60
-    },
-    {
-      "name": "Skyways Air Services",
-      "segment": "mainboard",
-      "detailUrl": "https://ipowatch.in/skyways-air-ipo/",
-      "slug": "skyways-air-ipo",
-      "gmp": 32,
-      "gmpText": "₹32",
-      "trend": "down",
-      "priceBandUpper": 138,
-      "priceBandText": "₹138",
-      "estListing": 170,
-      "estGainPct": 23.19,
-      "dateText": "24-27 Aug",
-      "status": "Closed",
-      "lastUpdated": "1 Sept, 14:30",
-      "about": "Since its establishment in 1984, Skyways Air Services Limited (SASL) has been engaged in air freight forwarding and the logistics sector in India. It offers a wide range of logistics solutions, such as air freight forwarding, ocean freight forwarding, trucking, warehousing, customs broking, and technology-driven express cargo and parcel delivery services to serve the diverse needs of clients across domestic as well as international markets. Started its operations as a Custom House Agent (CHA) and now a Custom Broker License holder, over the years, it gradually expanded its services to match market needs and global trends. Logistics planning, cargo handling, warehousing and inventory management, documentation, customs clearance, and complete end-to-end distribution are the company’s Value-added services. Saudi Cargo, Air India Cargo, Turkish Airlines, and Lufthansa are some of the well-known global airlines in partnerships with Skyways air services. The constant global presence and continued expansion of its services enable the business to grow consistently.",
-      "financials": [
-        {
-          "period": "2024",
-          "revenue": 1316.81,
-          "expense": 1268.43,
-          "pat": 34.49,
-          "assets": 790.35
-        },
-        {
-          "period": "2025",
-          "revenue": 2270.99,
-          "expense": 2204.16,
-          "pat": 48.14,
-          "assets": 1321.64
-        },
-        {
-          "period": "2026",
-          "revenue": 2839.67,
-          "expense": 2751.1,
-          "pat": 63.52,
-          "assets": 1508.24
-        }
-      ],
-      "revenueTrend": "up",
-      "patTrend": "up",
-      "fundamentals": {
-        "roe": 14.15,
-        "ronw": 12.33,
-        "ebitdaMargin": 4.47,
-        "patMargin": 2.26,
-        "debtEquity": 1.88,
-        "eps": 3.56,
-        "pe": null,
-        "nav": 28.91
-      },
-      "issuePE": null,
-      "peers": [
-        {
-          "name": "Delhivery Ltd",
-          "pe": 260
-        },
-        {
-          "name": "TVS Supply Chain Solutions Ltd",
-          "pe": 54
-        },
-        {
-          "name": "Mahindra Logistics Limited",
-          "pe": 1548
-        },
-        {
-          "name": "Shadowfax Technologies Limited",
-          "pe": 104
-        }
-      ],
-      "peerMedianPE": 182,
-      "promoterPostPct": null,
-      "freshCr": 398.8
+      "promoterPostPct": 45.52
     },
     {
       "name": "Qualiance International",
       "segment": "sme",
       "detailUrl": "https://ipowatch.in/qualiance-international-ipo/",
       "slug": "qualiance-international-ipo",
-      "gmp": 0,
-      "gmpText": "₹0",
-      "trend": "flat",
+      "gmp": 50,
+      "gmpText": "₹50",
+      "trend": "up",
       "priceBandUpper": 127,
       "priceBandText": "₹127",
-      "estListing": 0,
-      "estGainPct": 0,
+      "estListing": 177,
+      "estGainPct": 39.37,
       "dateText": "4-8 Sept",
       "status": "Upcoming",
-      "lastUpdated": "1 Sept, 17:07",
+      "lastUpdated": "2 Sept, 17:42",
       "about": "To be updated soon",
       "financials": [
         {
@@ -1034,16 +1222,16 @@
       "segment": "sme",
       "detailUrl": "https://ipowatch.in/fly-hi-maritime-ipo/",
       "slug": "fly-hi-maritime-ipo",
-      "gmp": 8,
-      "gmpText": "₹8",
+      "gmp": 12,
+      "gmpText": "₹12",
       "trend": "up",
       "priceBandUpper": 102,
       "priceBandText": "₹102",
-      "estListing": 110,
-      "estGainPct": 7.84,
+      "estListing": 114,
+      "estGainPct": 11.76,
       "dateText": "1-3 Sept",
       "status": "Open",
-      "lastUpdated": "1 Sept, 17:07",
+      "lastUpdated": "2 Sept, 17:42",
       "about": "Fly-Hi Maritime Travels, founded in September 2021, is a Maritime travel company that helps commercial shipping companies manage their complete travel and transportation needs. The firm handles all travel arrangements for seafarers, helping them transport goods from their home countries to their designated ports of boarding, including airline ticketing, route planning, ground transportation, hotel bookings, visa coordination, and 24/7 travel support. The firm offers customized travel services such as Global crew ticketing, visa and immigration coordination, OK-to-board confirmations, Real-time travel monitoring, Disruption handling, emergency support, and Boarding confirmation. Fly-Hi Maritime Travels provides its services to commercial shipping companies in more than 6 countries: Cyprus, Greece, the USA, UK, Singapore, UAE, and India.",
       "financials": [
         {
@@ -1098,7 +1286,7 @@
       "estGainPct": 0,
       "dateText": "1-3 Sept",
       "status": "Open",
-      "lastUpdated": "1 Sept, 17:07",
+      "lastUpdated": "2 Sept, 17:42",
       "about": "Farm Peace, founded in October 2021, is a contract farming company that works with farmers to grow a wide variety of processed-grade potatoes like Santana, Frysona, Innovators, Lady Rosetta, and Chipsona. These potatoes are then supplied to food processing companies to make French fries, chips, and other potato-based products. Farm Peace works with farmers in Gujarat with a 100% guarantee to buy all the potatoes they produce under the contract. Farm Peace offers certified seeds, agronomic support, fertilizers, pesticides, and modern farming techniques to help farmers improve their production of potatoes, reducing farming risks. From seed selection, soil preparation, irrigation, pest management, harvesting, and post-harvest handling, the firm supports farmers at every stage of production to ensure high-quality potatoes reach processing units without fail.",
       "financials": [
         {
@@ -1144,16 +1332,16 @@
       "segment": "sme",
       "detailUrl": "https://ipowatch.in/ashutosh-fibre-ipo/",
       "slug": "ashutosh-fibre-ipo",
-      "gmp": 25,
-      "gmpText": "₹25",
+      "gmp": 10,
+      "gmpText": "₹10",
       "trend": "down",
       "priceBandUpper": 92,
       "priceBandText": "₹92",
-      "estListing": 117,
-      "estGainPct": 27.17,
+      "estListing": 102,
+      "estGainPct": 10.87,
       "dateText": "31-2 Sept",
       "status": "Open",
-      "lastUpdated": "1 Sept, 17:07",
+      "lastUpdated": "2 Sept, 17:42",
       "about": "Since its founding in 1985, Ashutosh Fibre has manufactured and traded technical textile products, especially PP (polypropylene) spun yarn. Its product portfolio includes Para Aramid-Based Spun Yarn, High Tenacity Polyester Yarn, Meta Aramid and FR Viscose Yarn, 100% Polypropylene Yarn, Modacrylic-Based Yarn, and Poly Poly Corespun Yarn. Ashutosh Fibre makes technical textiles across 4 major categories: Indutech, Protech, Hometech, and Mobiltech. Indutech: Yarns for filtration, ropes, geotextiles, and industrial textiles. Protech: Strong, heat- and flame-resistant yarns/fabrics for safety and protective products. Hometech: Textiles for home furnishings, carpets, and filtration. Mobiltech: Special yarns used in automotive parts like brake pads and clutch components. Moreover, its manufacturing facility is equipped with 5 production/processing lines and 3 different methods to make yarn: Ring Spun, DREF (Friction Spun), and Open-End Spinning, ranging from 2 Ne to 50 Ne.",
       "financials": [
         {
@@ -1214,16 +1402,16 @@
       "segment": "sme",
       "detailUrl": "https://ipowatch.in/phychem-technologies-ipo/",
       "slug": "phychem-technologies-ipo",
-      "gmp": null,
-      "gmpText": "₹-",
+      "gmp": 1,
+      "gmpText": "₹1",
       "trend": "down",
       "priceBandUpper": 54,
       "priceBandText": "₹54",
-      "estListing": 54,
-      "estGainPct": 0,
+      "estListing": 55,
+      "estGainPct": 1.85,
       "dateText": "31-2 Sept",
       "status": "Open",
-      "lastUpdated": "1 Sept, 17:07",
+      "lastUpdated": "2 Sept, 17:42",
       "about": "Phychem Technologies is one of the leading manufacturers of rotational molding (roto molding) compounds, a raw material used to make hollow plastic products. Phychem makes customized polyethylene-based compounds made from LLDPE, HDPE, and special additives supplied in powder or granule form, which are used to manufacture water, fuel, and chemical storage tanks, portable toilets, furniture, industrial containers, and other molded plastic parts. Its product portfolio includes foam, stone-effect, flame-retardant, anti-static, and custom-colored compounds serving a wide range of industries such as construction, water management, agriculture, automotive, and consumer goods. Moreover, the company also makes customized molded tanks. Its manufacturing facility is in Khatwad, Dindori, Nashik, Maharashtra, which includes its own laboratory and quality control department. They export their products to many countries such as Bahrain, Bangladesh, Iraq, Kuwait, Nigeria, Saudi Arabia, South Africa, Thailand, Turkey, UAE, and many others.",
       "financials": [
         {
@@ -1269,16 +1457,16 @@
       "segment": "sme",
       "detailUrl": "https://ipowatch.in/shanti-inorganics-ipo/",
       "slug": "shanti-inorganics-ipo",
-      "gmp": 10,
-      "gmpText": "₹10",
-      "trend": "down",
+      "gmp": 36,
+      "gmpText": "₹36",
+      "trend": "up",
       "priceBandUpper": 83,
       "priceBandText": "₹83",
-      "estListing": 93,
-      "estGainPct": 12.05,
+      "estListing": 119,
+      "estGainPct": 43.37,
       "dateText": "31-2 Sept",
       "status": "Open",
-      "lastUpdated": "1 Sept, 17:07",
+      "lastUpdated": "2 Sept, 17:42",
       "about": "Established in 1998 by Mr. Manoj J. Patel, Shanti Inorganics is a trusted manufacturer of a wide range of sulfur-based inorganic chemicals. Its product portfolio includes ammonium bisulphite, sodium bisulphite solutions, sodium meta/ bisulphite, and sodium sulphite powder, used as preservatives, reducing agents, oxygen scavengers, and process intermediates. Its products are used in a diverse range of industries such as oil drilling, pharmaceuticals, food and beverages, pulp & paper, and water treatment. Shanti Inorganics exports over 60% of its production to more than 15 countries. Its 2 advanced manufacturing facilities are situated in Ahmedabad, covering 28,000 m², equipped with state-of-the-art infrastructure and fully automated plants that ensure top-quality products.",
       "financials": [
         {
@@ -1331,16 +1519,16 @@
       "segment": "sme",
       "detailUrl": "https://ipowatch.in/paluck-technologies-ipo/",
       "slug": "paluck-technologies-ipo",
-      "gmp": 30,
-      "gmpText": "₹30",
-      "trend": "up",
+      "gmp": 20,
+      "gmpText": "₹20",
+      "trend": "down",
       "priceBandUpper": 48,
       "priceBandText": "₹48",
-      "estListing": 78,
-      "estGainPct": 62.5,
+      "estListing": 68,
+      "estGainPct": 41.67,
       "dateText": "28-1 Sept",
-      "status": "Open",
-      "lastUpdated": "1 Sept, 17:07",
+      "status": "Closed",
+      "lastUpdated": "2 Sept, 17:42",
       "about": "Paluck Technologies Limited was incorporated in 2010. It provides engineering, construction equipment rental, logistics, fleet management, and telecom services. The company operates 190+ specialised vehicles, including concrete mixers, trucks, and concrete pumps, serving infrastructure and cement companies across several Indian states. It uses GPS, ERP, and SAP systems to manage its fleet and operations efficiently. The company mainly works in four areas: Automobile and Engineering Services Construction Equipment Rental Logistics and Fleet Management Telecom Engineering Services",
       "financials": [
         {
@@ -1394,8 +1582,8 @@
       "estListing": 0,
       "estGainPct": 0,
       "dateText": "28-1 Sept",
-      "status": "Open",
-      "lastUpdated": "1 Sept, 17:07",
+      "status": "Closed",
+      "lastUpdated": "2 Sept, 17:42",
       "about": "Complete Sports and Management India, founded in 2002, has operated in the amusement and leisure equipment business. The firm sources, trades, distributes, installs, and maintains amusement and leisure equipment, along with related consulting services. Its product portfolio includes Bowling solutions, Arcade Games, Soft play systems and trampoline parks, Laser tag, and other amusement and entertainment equipment. From planning & consulting, equipment sourcing, installation, commissioning, operation support, and maintenance, the firm helps customers throughout the entire process of developing and running amusement or entertainment destinations. The company has a strong presence in India and Singapore, which allows it to serve both domestic and international markets.",
       "financials": [
         {
@@ -1434,16 +1622,16 @@
       "segment": "sme",
       "detailUrl": "https://ipowatch.in/kwick-forensic-solutions-ipo/",
       "slug": "kwick-forensic-solutions-ipo",
-      "gmp": 81,
-      "gmpText": "₹81",
-      "trend": "up",
+      "gmp": 75,
+      "gmpText": "₹75",
+      "trend": "down",
       "priceBandUpper": 90,
       "priceBandText": "₹90",
-      "estListing": 171,
-      "estGainPct": 90,
+      "estListing": 165,
+      "estGainPct": 83.33,
       "dateText": "27-31 Aug",
-      "status": "Open",
-      "lastUpdated": "1 Sept, 17:07",
+      "status": "Closed",
+      "lastUpdated": "2 Sept, 17:42",
       "about": "Kwick Forensic Solutions, founded in March 2005, is one of the leading forensic technology and solution providers for crime scene investigation, fingerprint science, cyber/digital forensics, social-media analytics, and evidence management. Its product portfolio includes forensic products and services such as fingerprint and physical evidence kits, evidence collection kits, Mobile Crime Scene Investigation Vehicles, digital forensic tools, DNA forensic solutions, handheld forensic devices, and rental services for forensic equipment. Its product range serves a wide range of industries, police departments, central and state forensic laboratories, fingerprint bureaus, crime investigation departments, police training academies, universities, and other government and private-sector institutions. Moreover, the firm is backed by strong R&D, product demonstrations, and testing of forensic laboratory solutions.",
       "financials": [
         {
@@ -1489,16 +1677,16 @@
       "segment": "sme",
       "detailUrl": "https://ipowatch.in/sumax-engineering-ipo/",
       "slug": "sumax-engineering-ipo",
-      "gmp": 30,
-      "gmpText": "₹30",
+      "gmp": 22,
+      "gmpText": "₹22",
       "trend": "down",
       "priceBandUpper": 101,
       "priceBandText": "₹101",
-      "estListing": 131,
-      "estGainPct": 29.7,
+      "estListing": 123,
+      "estGainPct": 21.78,
       "dateText": "25-28 Aug",
       "status": "Closed",
-      "lastUpdated": "1 Sept, 17:07",
+      "lastUpdated": "2 Sept, 07:30",
       "about": "Sumax Engineering, founded in 1994, is one of the leading manufacturers and traders of products for the Automotive OEM (Original Equipment Manufacturer) and Auto Refinish markets. The firm operates its business via 2 segments: manufacturing and trading. Its product portfolio includes adhesive tapes and die-cuts, pre-taped masking films, rubbing and polishing compounds, buffing and foam pads, reflective tapes, domes and graphics, and car care products. Its 2 manufacturing facilities are situated in Sriperumbudur, Tamil Nadu, and IMT Manesar, Haryana. Via its trading business, the firm also supplies electrical and pneumatic tools, abrasive sheets, discs and rolls, body shop consumables, retail products, accessories, and aerosol products. Its products are sold across 26 states and Union Territories in India and exported to international countries including Thailand, South Korea, Russia, Turkey, China, Vietnam, the United States, Saudi Arabia, and Taiwan.",
       "financials": [
         {
@@ -1538,134 +1726,6 @@
       "issuePE": null,
       "promoterPostPct": 71.25,
       "freshCr": 43.34
-    },
-    {
-      "name": "Madhur Knit Crafts",
-      "segment": "sme",
-      "detailUrl": "https://ipowatch.in/madhur-knit-crafts-ipo/",
-      "slug": "madhur-knit-crafts-ipo",
-      "gmp": 0,
-      "gmpText": "₹0",
-      "trend": "flat",
-      "priceBandUpper": 100,
-      "priceBandText": "₹100",
-      "estListing": 100,
-      "estGainPct": 0,
-      "dateText": "24-27 Aug",
-      "status": "Closed",
-      "lastUpdated": "1 Sept, 14:30",
-      "about": "Madhur Knit Crafts Limited, established in August 1997, is a textile manufacturing company that produces fabrics, blankets, winter wear, garments, and other textile products. The company started commercial production in 2013, initially focusing on blankets, and later expanded its product range to serve consumer, industrial, and institutional customers. The company follows an integrated yarn-to-cloth manufacturing process, covering activities such as knitting, dyeing, printing, brushing, polishing, sueding, stentering, bonding, and finishing. Its manufacturing facility is located in Ludhiana, Punjab, a major textile hub that offers easy access to raw materials, suppliers, logistics, and distribution networks.",
-      "financials": [
-        {
-          "period": "2023",
-          "revenue": 89.56,
-          "expense": 88.56,
-          "pat": 0.9,
-          "assets": 64.59
-        },
-        {
-          "period": "2024",
-          "revenue": 108.41,
-          "expense": 106.42,
-          "pat": 1.7,
-          "assets": 90.6
-        },
-        {
-          "period": "2025",
-          "revenue": 171.76,
-          "expense": 156.87,
-          "pat": 11.03,
-          "assets": 122.59
-        },
-        {
-          "period": "February 2025",
-          "revenue": 194.79,
-          "expense": 178.21,
-          "pat": 12.35,
-          "assets": 159.97
-        }
-      ],
-      "revenueTrend": "up",
-      "patTrend": "up",
-      "fundamentals": {
-        "roe": 37.42,
-        "ronw": 37.42,
-        "ebitdaMargin": 13.56,
-        "patMargin": 6.43,
-        "debtEquity": 2.28,
-        "eps": 8.35,
-        "pe": null,
-        "nav": 22.31
-      },
-      "issuePE": null,
-      "promoterPostPct": null,
-      "freshCr": 27
-    },
-    {
-      "name": "ABH Healthcare",
-      "segment": "sme",
-      "detailUrl": "https://ipowatch.in/abh-healthcare-ipo/",
-      "slug": "abh-healthcare-ipo",
-      "gmp": 0,
-      "gmpText": "₹0",
-      "trend": "flat",
-      "priceBandUpper": 102,
-      "priceBandText": "₹102",
-      "estListing": 102,
-      "estGainPct": 0,
-      "dateText": "24-27 Aug",
-      "status": "Closed",
-      "lastUpdated": "1 Sept, 14:30",
-      "about": "ABH Healthcare, which operates under the brand “Anil Baghi Hospital,” is a healthcare service provider. It is a multi-speciality hospital brand that provides 25 medical specialties: cardiac sciences, neurology, minimally invasive spine and brain surgeries, medical and surgical gastroenterology, laparoscopic and bariatric surgery, urology, pulmonology, nephrology, ENT, maxillofacial surgeries, etc. ABH Healthcare offers healthcare services under various government healthcare schemes and organisations, including ECHS, Indian Railways, FCI, BSNL, and Ayushman Bharat–Sarbat Sehat Bima Yojana (ABSSBY). As of FY25, the firm includes 29 doctors and 137 nurses. Its competitive strengths are a professional management team, providing quality clinical care, modern equipment, and a track record of stable financial growth.",
-      "financials": [
-        {
-          "period": "2024",
-          "revenue": 41.39,
-          "expense": 39.19,
-          "pat": 1.66,
-          "assets": 51.35
-        },
-        {
-          "period": "2025",
-          "revenue": 49.32,
-          "expense": 41.89,
-          "pat": 5.35,
-          "assets": 63.9
-        },
-        {
-          "period": "2026",
-          "revenue": 52.59,
-          "expense": 44.66,
-          "pat": 5.64,
-          "assets": 85.27
-        }
-      ],
-      "revenueTrend": "up",
-      "patTrend": "up",
-      "fundamentals": {
-        "roe": 39.07,
-        "ronw": 39.07,
-        "ebitdaMargin": 28.03,
-        "patMargin": 10.74,
-        "debtEquity": 3.2,
-        "eps": 7.05,
-        "pe": null,
-        "nav": 21.58
-      },
-      "issuePE": null,
-      "peers": [
-        {
-          "name": "Sangani Hospitals Limited",
-          "pe": 24.52
-        },
-        {
-          "name": "Asarfi Hospital Limited",
-          "pe": 27.63
-        }
-      ],
-      "peerMedianPE": 26.07,
-      "promoterPostPct": null,
-      "freshCr": 34.98
     }
   ]
 }
