@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T13:30:01.677Z",
+  "generatedAt": "2026-09-06T13:31:03.464Z",
   "source": "https://ipowatch.in/ipo-grey-market-premium-latest-ipo-gmp/",
   "disclaimer": "GMP (Grey Market Premium) is an unofficial, speculative indicator from the unregulated grey market and can change daily. Nothing here is investment advice.",
   "trackRecord": {
@@ -95,6 +95,83 @@
       ],
       "peerMedianPE": 57.44,
       "promoterPostPct": null
+    },
+    {
+      "name": "Manika Plastech",
+      "segment": "mainboard",
+      "detailUrl": "https://ipowatch.in/manika-plastech-ipo/",
+      "slug": "manika-plastech-ipo",
+      "gmp": 0,
+      "gmpText": "₹0",
+      "trend": "flat",
+      "priceBandUpper": null,
+      "priceBandText": "₹-",
+      "estListing": 0,
+      "estGainPct": 0,
+      "dateText": "11-16 Sept",
+      "status": "Upcoming",
+      "lastUpdated": "6 Sept, 09:50",
+      "about": "To be updated soon",
+      "financials": [
+        {
+          "period": "2024",
+          "revenue": 368.76,
+          "expense": 352.4,
+          "pat": 11.53,
+          "assets": 252.93
+        },
+        {
+          "period": "2025",
+          "revenue": 412.59,
+          "expense": 387.16,
+          "pat": 19.33,
+          "assets": 320.99
+        },
+        {
+          "period": "2026",
+          "revenue": 437.26,
+          "expense": 406.83,
+          "pat": 22.4,
+          "assets": 323.69
+        },
+        {
+          "period": "June 2026",
+          "revenue": 162.71,
+          "expense": 145.16,
+          "pat": 13.07,
+          "assets": 317
+        }
+      ],
+      "revenueTrend": "down",
+      "patTrend": "up",
+      "fundamentals": {
+        "roe": 15.18,
+        "ronw": 15.18,
+        "ebitdaMargin": 13.34,
+        "patMargin": 5.12,
+        "debtEquity": 0.6,
+        "eps": 2.36,
+        "pe": null,
+        "nav": 15.54
+      },
+      "issuePE": null,
+      "peers": [
+        {
+          "name": "Hitech Corporation Limited",
+          "pe": 37.85
+        },
+        {
+          "name": "Mold-Tek Packaging Limited",
+          "pe": 32.34
+        },
+        {
+          "name": "Shaily Engineering Plastics Limited",
+          "pe": 88.85
+        }
+      ],
+      "peerMedianPE": 37.85,
+      "promoterPostPct": null,
+      "freshCr": 92.5
     },
     {
       "name": "Veegaland Developers",
@@ -1066,6 +1143,75 @@
       "freshCr": 680
     },
     {
+      "name": "Raksan Transformers",
+      "segment": "sme",
+      "detailUrl": "https://ipowatch.in/raksan-transformers-ipo/",
+      "slug": "raksan-transformers-ipo",
+      "gmp": 0,
+      "gmpText": "₹0",
+      "trend": "flat",
+      "priceBandUpper": null,
+      "priceBandText": "₹-",
+      "estListing": 0,
+      "estGainPct": 0,
+      "dateText": "10-15 Sept",
+      "status": "Upcoming",
+      "lastUpdated": "6 Sept, 09:50",
+      "about": "To be updated soon",
+      "financials": [
+        {
+          "period": "2024",
+          "revenue": 162.52,
+          "expense": 152.12,
+          "pat": 7.59,
+          "assets": 67.02
+        },
+        {
+          "period": "2025",
+          "revenue": 324.78,
+          "expense": 297.03,
+          "pat": 20.38,
+          "assets": 117.9
+        },
+        {
+          "period": "2026",
+          "revenue": 363.63,
+          "expense": 318.44,
+          "pat": 33.6,
+          "assets": 155.59
+        }
+      ],
+      "revenueTrend": "up",
+      "patTrend": "up",
+      "fundamentals": {
+        "roe": 55.32,
+        "ronw": 43.41,
+        "ebitdaMargin": 12.87,
+        "patMargin": 9.25,
+        "debtEquity": null,
+        "eps": 20.39,
+        "pe": null,
+        "nav": 46.97
+      },
+      "issuePE": null,
+      "peers": [
+        {
+          "name": "Marsons Limited",
+          "pe": 49.63
+        },
+        {
+          "name": "Shilchar Technologies Limited",
+          "pe": 29.47
+        },
+        {
+          "name": "Supreme Power Equipment Limited",
+          "pe": 27.75
+        }
+      ],
+      "peerMedianPE": 29.47,
+      "promoterPostPct": null
+    },
+    {
       "name": "Vinod Texworld",
       "segment": "sme",
       "detailUrl": "https://ipowatch.in/vinod-texworld-ipo/",
@@ -1285,7 +1431,7 @@
       "dateText": "4-8 Sept",
       "status": "Open",
       "lastUpdated": "5 Sept, 07:30",
-      "about": "To be updated soon",
+      "about": "Qualiance International Ltd. (QIL) is engaged in the design, engineering, manufacture and export of performance garments for institutional, government and brand clients in international markets. Its product portfolio includes military uniforms, tactical outerwear, high-visibility workwear, weather-resistant and all weather outerwear, police and border patrol uniforms, protective workwear and performance activewear. The company operates a manufacturing facility located in Tiruppur, Tamil Nadu with a total built up area of over 45,000 square feet over a land area of approximately 1,046.31 square meters and an installed capacity of 450,000 garment pieces per annum. The facility supports garment manufacturing activities from raw material sourcing and fabric development through external suppliers to the production of finished garments. Apart from the regular cut and sew operations in the manufacturing cycle, it also carries out specialized processes including seam sealing, bonded construction, ultrasonic welding, laser cutting and lamination. Over the past two decades, QIL has manufactured garments based on product specifications and compliance requirements of European military,…",
       "financials": [
         {
           "period": "2024",
