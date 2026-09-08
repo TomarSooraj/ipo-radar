@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T13:34:57.689Z",
+  "generatedAt": "2026-09-08T13:35:37.322Z",
   "source": "https://ipowatch.in/ipo-grey-market-premium-latest-ipo-gmp/",
   "disclaimer": "GMP (Grey Market Premium) is an unofficial, speculative indicator from the unregulated grey market and can change daily. Nothing here is investment advice.",
   "trackRecord": {
@@ -13,8 +13,8 @@
       "segment": "mainboard",
       "detailUrl": "https://ipowatch.in/nse-ipo/",
       "slug": "nse-ipo",
-      "gmp": 285,
-      "gmpText": "₹285",
+      "gmp": 200,
+      "gmpText": "₹200",
       "trend": "up",
       "priceBandUpper": null,
       "priceBandText": "₹-",
@@ -22,7 +22,7 @@
       "estGainPct": 0,
       "dateText": "18-22 Sept (T)",
       "status": "Upcoming",
-      "lastUpdated": "7 Sept, 17:35",
+      "lastUpdated": "8 Sept, 17:44",
       "about": "NSE was founded in 1992 and known as the stock exchange by SEBI in April 1993. NSE started operations in 1994 along with the wholesale debt market afterward, let the market known as stock buy and sell. The National Stock Exchange (NSE) is an important institution with global recognition. It is a reliable market organization known for maintaining high standards of corporate governance. Moreover, the NSE is considered a substantial exchange and a main for driving India’s economic growth. NSE has one of the largest derivatives markets in the world, trading options and futures on indices, stocks, and other securities. This platform is a strong state-of-the-art technology that provides high levels of robustness, safety, and resilience. This is for trading and investment opportunities for all kinds of investors.",
       "financials": [
         {
@@ -97,20 +97,96 @@
       "promoterPostPct": null
     },
     {
+      "name": "Jindal Supreme",
+      "segment": "mainboard",
+      "detailUrl": "https://ipowatch.in/jindal-supreme-ipo/",
+      "slug": "jindal-supreme-ipo",
+      "gmp": 0,
+      "gmpText": "₹0",
+      "trend": "flat",
+      "priceBandUpper": null,
+      "priceBandText": "₹-",
+      "estListing": 0,
+      "estGainPct": 0,
+      "dateText": "16-18 Sept",
+      "status": "Upcoming",
+      "lastUpdated": "8 Sept, 17:44",
+      "about": "Jindal Supreme, founded in March 1974, is one of the leading manufacturers and suppliers of steel pipes, tubes, and other steel products. Its product portfolio includes Mild Steel (MS) black pipes and tubes, galvanized pipes, metal beam crash barriers, and Galvanized Iron (GI) tubular poles. These products are used in various applications such as water supply and plumbing, infrastructure and construction, roads and highways, bridges, oil and gas, chemicals, agriculture and rural electrification, among others. Moreover, in FY25, Jindal started to manufacture W-beam and Thrie-beam metal crash barriers used on highways and roads to improve safety. Later, in FY26, it started making GI tubular poles used for street lighting. Its manufacturing facility is located in Hisar which is equipped with mills, welding plants, galvanizing plants, and other machinery.",
+      "financials": [
+        {
+          "period": "2024",
+          "revenue": 650.88,
+          "expense": 635.8,
+          "pat": 12.87,
+          "assets": 181.16
+        },
+        {
+          "period": "2025",
+          "revenue": 604.74,
+          "expense": 572.35,
+          "pat": 24.27,
+          "assets": 200.33
+        },
+        {
+          "period": "2026",
+          "revenue": 675.94,
+          "expense": 645.79,
+          "pat": 22.53,
+          "assets": 248.41
+        },
+        {
+          "period": "June 2026",
+          "revenue": 191.09,
+          "expense": 180.05,
+          "pat": 8.28,
+          "assets": 232.65
+        }
+      ],
+      "revenueTrend": "down",
+      "patTrend": "down",
+      "fundamentals": {
+        "roe": 26.28,
+        "ronw": 26.28,
+        "ebitdaMargin": 6.16,
+        "patMargin": 3.33,
+        "debtEquity": 1.24,
+        "eps": 5.59,
+        "pe": null,
+        "nav": 24.04
+      },
+      "issuePE": null,
+      "peers": [
+        {
+          "name": "Vibhor Steel Tubes Limited",
+          "pe": 23.06
+        },
+        {
+          "name": "Sambhv Steel Tubes Limited",
+          "pe": 65.55
+        },
+        {
+          "name": "Hi-Tech Pipes Limited",
+          "pe": 22.31
+        }
+      ],
+      "peerMedianPE": 23.06,
+      "promoterPostPct": null
+    },
+    {
       "name": "Manika Plastech",
       "segment": "mainboard",
       "detailUrl": "https://ipowatch.in/manika-plastech-ipo/",
       "slug": "manika-plastech-ipo",
-      "gmp": 0,
-      "gmpText": "₹0",
-      "trend": "flat",
+      "gmp": 20,
+      "gmpText": "₹20",
+      "trend": "up",
       "priceBandUpper": 43,
       "priceBandText": "₹43",
-      "estListing": 0,
-      "estGainPct": 0,
+      "estListing": 63,
+      "estGainPct": 46.51,
       "dateText": "11-16 Sept",
       "status": "Upcoming",
-      "lastUpdated": "7 Sept, 17:35",
+      "lastUpdated": "8 Sept, 17:44",
       "about": "Since its incorporation in 1996, Manika Plastech has been involved in the manufacturing of rigid polymer packaging products. Its product range includes the manufacturing of battery casings, pails, and thin-wall containers used in packaging, industrial, and consumer applications. Manika Plastech provides complete polymer packaging solutions, from design, development, sourcing of raw materials, manufacturing, heat sealing, labelling, and delivery. Moreover, the company operates 7 manufacturing facilities situated in Dehradun, Hosur, Panipat, Una, and Dadra, and 1 painting facility located in Hosur. As of June 2026, the company has served 168 to 242 customers across various industries such as automotive, energy storage, telecommunications, paints, lubricants, agrochemicals, construction chemicals, food, and dairy.",
       "financials": [
         {
@@ -180,14 +256,14 @@
       "slug": "veegaland-developers-ipo",
       "gmp": 30,
       "gmpText": "₹30",
-      "trend": "up",
+      "trend": "flat",
       "priceBandUpper": 140,
       "priceBandText": "₹140",
       "estListing": 170,
       "estGainPct": 21.43,
       "dateText": "10-15 Sept",
       "status": "Upcoming",
-      "lastUpdated": "7 Sept, 17:35",
+      "lastUpdated": "8 Sept, 17:44",
       "about": "Veegaland Developers, founded in 2007, is a real estate development firm that works on residential, commercial, and mixed-use projects. From planning and construction to modern design and timely execution of property developments, Veegaland Developers handles everything. Its project portfolio includes housing projects, commercial complexes, and integrated developments serving a wide range of customers. So far, the firm has completed 10 residential projects aggregating to 11.05 lakh square feet of saleable area; 12 are ongoing projects, and 3 are upcoming ones. The company’s main aim is to build environmentally responsible properties, be useful, and provide good value to the customers.",
       "financials": [
         {
@@ -244,17 +320,17 @@
       "segment": "mainboard",
       "detailUrl": "https://ipowatch.in/asset-reconstruction-ipo/",
       "slug": "asset-reconstruction-ipo",
-      "gmp": 0,
-      "gmpText": "₹0",
-      "trend": "flat",
+      "gmp": 27,
+      "gmpText": "₹27",
+      "trend": "up",
       "priceBandUpper": 139,
       "priceBandText": "₹139",
-      "estListing": 0,
-      "estGainPct": 0,
+      "estListing": 166,
+      "estGainPct": 19.42,
       "dateText": "9-11 Sept",
       "status": "Upcoming",
-      "lastUpdated": "7 Sept, 17:35",
-      "about": "To be updated soon",
+      "lastUpdated": "8 Sept, 17:44",
+      "about": "Asset Reconstruction Company (India) Limited, incorporated in February 2002, is a company that helps banks and financial institutions recover money from bad or stressed loans. It buys these troubled loans from banks and other financial institutions and then tries to recover the money through methods such as restructuring, settlement, legal action, enforcement of assets, and collections. The company received approval from the Reserve Bank of India (RBI) in August 2003 to start its asset reconstruction business and is recognised as the first Asset Reconstruction Company (ARC) incorporated in India. Its business is mainly divided into three areas: corporate loans, SME and other loans, and retail loans. It works with banks, financial institutions, NBFCs and housing finance companies to acquire stressed loans and has also been expanding its retail loan business. The company earns income mainly through fees and investments and uses lawyers, collection agents, valuers and data analytics to support loan recovery.",
       "financials": [
         {
           "period": "2024",
@@ -300,14 +376,14 @@
       "slug": "lcc-projects-ipo",
       "gmp": 25,
       "gmpText": "₹25",
-      "trend": "up",
+      "trend": "flat",
       "priceBandUpper": 146,
       "priceBandText": "₹146",
       "estListing": 171,
       "estGainPct": 17.12,
       "dateText": "9-11 Sept",
       "status": "Upcoming",
-      "lastUpdated": "7 Sept, 17:35",
+      "lastUpdated": "8 Sept, 17:44",
       "about": "LCC Projects, founded in 2017, is an engineering, procurement, and construction (“EPC”) firm that works mainly on irrigation and water supply projects. Its projects include construction of dams, barrages, weirs, hydraulic structures, canals, pipe distribution networks, lift irrigation works, water supply schemes, and other EPC projects. As of September 2024, the firm has completed 68 projects, of which the Sondwa Lift Micro Irrigation Project, Sidhi Bansagar Multi–Village Scheme, and Gandhi Sagar 1 Multi-Village Scheme are the top three. Moreover, LCC has also completed various notable projects such as the construction of the Tawa Left Bank Canal, Parbati Dam Project, Dudhai Sub Branch Canal Project, and AKOT Lift Irrigation Scheme. In FY22, the firm was operating in 8 states, and by FY24, it had expanded to 11 states: Gujarat, Madhya Pradesh, Odisha, Rajasthan, Maharashtra, Uttar Pradesh, Karnataka, Jharkhand, Chhattisgarh, Himachal Pradesh, and Haryana.",
       "financials": [
         {
@@ -360,16 +436,16 @@
       "segment": "mainboard",
       "detailUrl": "https://ipowatch.in/karamtara-engineering-ipo/",
       "slug": "karamtara-engineering-ipo",
-      "gmp": 55,
-      "gmpText": "₹55",
+      "gmp": 58,
+      "gmpText": "₹58",
       "trend": "up",
       "priceBandUpper": 254,
       "priceBandText": "₹254",
-      "estListing": 309,
-      "estGainPct": 21.65,
+      "estListing": 312,
+      "estGainPct": 22.83,
       "dateText": "9-11 Sept",
       "status": "Upcoming",
-      "lastUpdated": "7 Sept, 17:35",
+      "lastUpdated": "8 Sept, 17:44",
       "about": "Karamtara Engineering is a backward-integrated manufacturer, known for its expertise in providing solutions for the renewable energy and transmission line sectors. Its product portfolio includes solar structures (fixed-tilt and trackers), fasteners for solar energy, and transmission lines for a wide range of industries like solar, wind, transmission, automobile, and telecom. According to the report, in Fiscal Year 2024 and the six months ended September 30, 2024, they are also one of the largest manufacturers of solar mounting structures and tracker components in terms of installed capacity. The firm has a global as well as international presence, exporting products to over 50 countries in North America, Europe, Asia, Africa, Australia, and Latin America.",
       "financials": [
         {
@@ -450,16 +526,16 @@
       "segment": "mainboard",
       "detailUrl": "https://ipowatch.in/manipal-payment-ipo/",
       "slug": "manipal-payment-ipo",
-      "gmp": 30,
-      "gmpText": "₹30",
+      "gmp": 38,
+      "gmpText": "₹38",
       "trend": "up",
       "priceBandUpper": 339,
       "priceBandText": "₹339",
-      "estListing": 369,
-      "estGainPct": 8.55,
+      "estListing": 377,
+      "estGainPct": 11.21,
       "dateText": "9-11 Sept",
       "status": "Upcoming",
-      "lastUpdated": "7 Sept, 17:35",
+      "lastUpdated": "8 Sept, 17:44",
       "about": "Incorporated on February 19, 2008, Manipal Payment and Identity Solutions Ltd (MPISL) is one of the leading banking and smart card manufacturers in India. The company engaged in offering payment solutions, identification solutions, secure solutions, and smart tagging and Internet of Things (IoT) solutions to banks, fintech companies, non-banking finance companies, and government organizations in India and international markets. Its payment solutions consist of payment cards, cheque services, NFC and QR code-based payments, payment-enabled wearables, and digital automation solutions. In terms of the shipment and magstripe payment cards, the Manipal payment is the highest-ranked company in India and the 14th-ranked company globally. Along with India, the company has expanded its operations to the United Kingdom, Europe, Asia-Pacific, and the MEA regions. Moreover, the company consists of 10 facilities, 19 production units across 11 cities.",
       "financials": [
         {
@@ -512,16 +588,16 @@
       "segment": "mainboard",
       "detailUrl": "https://ipowatch.in/rentomojo-ipo/",
       "slug": "rentomojo-ipo",
-      "gmp": 149,
-      "gmpText": "₹149",
+      "gmp": 125,
+      "gmpText": "₹125",
       "trend": "up",
       "priceBandUpper": 404,
       "priceBandText": "₹404",
-      "estListing": 553,
-      "estGainPct": 36.88,
+      "estListing": 529,
+      "estGainPct": 30.94,
       "dateText": "9-11 Sept",
       "status": "Upcoming",
-      "lastUpdated": "7 Sept, 17:35",
+      "lastUpdated": "8 Sept, 17:44",
       "about": "Rentomojo is a technology-based company that lets people rent furniture and appliances instead of buying them. According to revenue in 2025, Rentomojo is the largest online rental platform in terms of live subscribers and subscriptions. Its product range includes 728,773 live products across furniture and appliances, including beds, sofas, wardrobes, refrigerators, washing machines, and water purifiers. Rentomojo offers products of various brands such as Haier, Wakefit, Livpure, and Duroflex. As of 2025, the company has catered to 227,511 live subscribers across 22 cities, offering affordable and flexible home products. The firm sells its products via an omnichannel platform as well as via 67 experience stores, supported by 21 warehouses spanning 444,486 square feet",
       "financials": [
         {
@@ -576,7 +652,7 @@
       "estGainPct": 0,
       "dateText": "9-11 Sept",
       "status": "Upcoming",
-      "lastUpdated": "7 Sept, 17:35",
+      "lastUpdated": "8 Sept, 17:44",
       "about": "SteamHouse India, founded in June 2015, is an Industrial gas company that supplies steam and nitrogen gas through its pipeline network. The company has a pipeline network that covers over 45 kms in key industrial hubs, including Sachin, Vapi, Ankleshwar, Sarigram, Panoli, and Nadesari. The company’s industrial gases include generating and distributing steam, buying and supplying steam, and supplying nitrogen through pipelines. Steamhouses acquires steam from other companies and supplies it to customers through its pipeline. Moreover, it takes nitrogen from the air, separates it, compresses it, and then supplies it. Aether Industries Limited, Anupam Rasayan India Limited, Globe Enviro Care Limited, Gujarat Polysol Chemicals Private Limited, Devanshi Dyestuff, and K. Patel Chemo Pharma Private Limited are some of its well-known clients.",
       "financials": [
         {
@@ -633,16 +709,16 @@
       "segment": "mainboard",
       "detailUrl": "https://ipowatch.in/prasol-chemicals-ipo/",
       "slug": "prasol-chemicals-ipo",
-      "gmp": 120,
-      "gmpText": "₹120",
+      "gmp": 85,
+      "gmpText": "₹85",
       "trend": "down",
       "priceBandUpper": 676,
       "priceBandText": "₹676",
-      "estListing": 796,
-      "estGainPct": 17.75,
+      "estListing": 761,
+      "estGainPct": 12.57,
       "dateText": "8-10 Sept",
-      "status": "Upcoming",
-      "lastUpdated": "7 Sept, 17:35",
+      "status": "Open",
+      "lastUpdated": "8 Sept, 17:44",
       "about": "Prasol Chemicals, founded in 1992, is a speciality chemicals manufacturer. The firm manufactures over 150 specialty chemicals, such as acetone-based, phosphorus-based, and other complex chemicals. Its product portfolio includes 21 acetone-based chemicals, 53 phosphorus-based chemicals, and 76 other specialty chemicals. Its products cater to a wide range of industries: performance chemicals (like lubricants and mining additives), paint, inks, construction, and adhesives (PICA), pharmaceuticals, agrochemicals, and home and personal care. Major customers include Alembic Pharmaceuticals, Lubrizol India, Rossari Biotech, Clean Science, Gharda Chemicals, Croda India, Supriya Lifescience, and Yasho Industries. So far, the firm has served 1600 customers and exports to 69 countries. Moreover, Prasol Chemicals operates 2 manufacturing facilities in Khopoli (1,20,604 sq. m.) and Mahad (1,19,423 sq. mt.).",
       "financials": [
         {
@@ -719,16 +795,16 @@
       "segment": "mainboard",
       "detailUrl": "https://ipowatch.in/glass-wall-systems-ipo/",
       "slug": "glass-wall-systems-ipo",
-      "gmp": 35,
-      "gmpText": "₹35",
+      "gmp": 50,
+      "gmpText": "₹50",
       "trend": "down",
       "priceBandUpper": 182,
       "priceBandText": "₹182",
-      "estListing": 217,
-      "estGainPct": 19.23,
+      "estListing": 232,
+      "estGainPct": 27.47,
       "dateText": "8-10 Sept",
-      "status": "Upcoming",
-      "lastUpdated": "7 Sept, 17:35",
+      "status": "Open",
+      "lastUpdated": "8 Sept, 17:44",
       "about": "Glass Wall Systems (India), founded in 2010, is one of the leading Facade Solutions (exterior glass/wall systems) and fenestration providers (windows/doors) across India and the international market in the United States and Australia. The firm has over 20 years of industry experience and has completed more than 158 projects so far. The company runs 3 main businesses: Domestic Façade Solutions: Designs, makes, supplies, and installs building exteriors for Indian clients. International Façade Products: supplies eco-friendly façade products overseas. Fenestration solutions: Makes premium windows, doors, skylights, and partitions for high-end customers in India. The firm serves its products to various clients, including real estate developers, contractors, hospitals, airport authorities, and corporations in commercial, residential, and institutional projects.",
       "financials": [
         {
@@ -781,16 +857,16 @@
       "segment": "mainboard",
       "detailUrl": "https://ipowatch.in/kanohar-electricals-ipo/",
       "slug": "kanohar-electricals-ipo",
-      "gmp": 205,
-      "gmpText": "₹205",
+      "gmp": 198,
+      "gmpText": "₹198",
       "trend": "up",
       "priceBandUpper": 632,
       "priceBandText": "₹632",
-      "estListing": 837,
-      "estGainPct": 32.44,
+      "estListing": 830,
+      "estGainPct": 31.33,
       "dateText": "8-10 Sept",
-      "status": "Upcoming",
-      "lastUpdated": "7 Sept, 17:35",
+      "status": "Open",
+      "lastUpdated": "8 Sept, 17:44",
       "about": "Kanohar Electrical Ltd is one of the leading companies in transformer manufacturing in India, catering to a diverse range of end-user industries, including power transmission, railways, renewable energy, and power distribution. The Company operates across two principal business segments (i) transformer manufacturing and (ii) engineering, procurement and construction (EPC) services. It is among the four manufacturers in India certified by the Research Designs and Standards Organisation (RDSO), the research and development organisation of Indian Railways, for the manufacture of 100 MVA, 132 kV Scott transformers. Kanohar Electricals Limited operates two manufacturing facilities situated at Rithani and Gangol in Meerut, Uttar Pradesh. As of September 30, 2025, these facilities had a combined transformer manufacturing capacity of 19,200 MVA.",
       "financials": [
         {
@@ -872,7 +948,7 @@
       "estGainPct": 35.48,
       "dateText": "7-9 Sept",
       "status": "Open",
-      "lastUpdated": "7 Sept, 17:35",
+      "lastUpdated": "8 Sept, 17:44",
       "about": "Pranav Constructions, founded in July 2003, is a real-estate firm that focuses on the redevelopment of old buildings and properties in Mumbai. Rather than building new properties on new land, Pranav Constructions is mainly involved in the redevelopment or renovation of old existing properties into new ones. It works on different types of housing, including Economical homes, Mid/Mass homes, and Aspirational homes. As of March 2026, the firm had 65 redevelopment projects in the Mumbai MCGM area, of which 28 projects are completed, 20 projects are under construction, and 17 projects are upcoming. The company mostly handles the execution of its redevelopment model itself, from tendering, pre-construction, construction, and post-construction activities.",
       "financials": [
         {
@@ -945,16 +1021,16 @@
       "segment": "mainboard",
       "detailUrl": "https://ipowatch.in/deepa-jewellers-ipo/",
       "slug": "deepa-jewellers-ipo",
-      "gmp": 22,
-      "gmpText": "₹22",
+      "gmp": 24,
+      "gmpText": "₹24",
       "trend": "down",
       "priceBandUpper": 177,
       "priceBandText": "₹177",
-      "estListing": 199,
-      "estGainPct": 12.43,
+      "estListing": 201,
+      "estGainPct": 13.56,
       "dateText": "1-3 Sept",
       "status": "Closed",
-      "lastUpdated": "7 Sept, 17:35",
+      "lastUpdated": "8 Sept, 08:18",
       "about": "Deepa Jewellers, founded in 2016, is one of the leading wholesalers and traders of gold and diamond jewellery. The firm sells a wide range of traditional and contemporary designs across rings, necklaces, earrings, bangles, and customized ornaments. So far, the company offers 16 products with 110 different products across various categories. Its product portfolio includes Vaddanam (waist belt), CNC machine-cut bangles, gents kada, vanky(armlet), dandpatti (bajuband), gundlamala haaram (traditional neck piece), gundlamala necklace, kangan, earring, mangtika (forehead pendant), maatil (ear chain), champasaralu (ear to hair chain), jada (braid ornament), and rings. Deepa Jewellers source, design, and sell jewellery products crafted with quality and skilled craftsmanship. The firm developed its business with an aim to offer pure jewellery, clear and transparent pricing, and to build customer trust.",
       "financials": [
         {
@@ -1023,16 +1099,16 @@
       "segment": "mainboard",
       "detailUrl": "https://ipowatch.in/rays-of-belief-ipo-details/",
       "slug": "rays-of-belief-ipo-details",
-      "gmp": 20,
-      "gmpText": "₹20",
+      "gmp": 15,
+      "gmpText": "₹15",
       "trend": "down",
       "priceBandUpper": 239,
       "priceBandText": "₹239",
-      "estListing": 259,
-      "estGainPct": 8.37,
+      "estListing": 254,
+      "estGainPct": 6.28,
       "dateText": "1-3 Sept",
       "status": "Closed",
-      "lastUpdated": "7 Sept, 17:35",
+      "lastUpdated": "8 Sept, 08:18",
       "about": "Rays of Belief, started in 2017, is a for-profit social enterprise that offers customized intervention programs for children with Neurodevelopmental Disorders (NDDs). The conditions they help with are Autism Spectrum Disorder (ASD), ADHD, Down Syndrome, Cerebral Palsy, Intellectual Disability, Learning Disabilities, and Global Developmental Delays. The company serves children between the ages of 18 months and 12 years, while also offering specialised programs for children up to 15 years, which teach vocational and life skills to help them become more independent. Its services include early intervention, Parental guidance, Occupational therapy, Language therapy, and family support programs. Furthermore, the company has a large range of learning resources, including 150+ teaching tools at centres, 2,000+ tools for home learning, Regular follow-ups, Progress monitoring, and 340+ clinical professionals.",
       "financials": [
         {
@@ -1074,59 +1150,70 @@
       "freshCr": 125
     },
     {
-      "name": "Purple Style Labs",
-      "segment": "mainboard",
-      "detailUrl": "https://ipowatch.in/purple-style-labs-ipo/",
-      "slug": "purple-style-labs-ipo",
+      "name": "Injecto Polymers",
+      "segment": "sme",
+      "detailUrl": "https://ipowatch.in/injecto-polymers-ipo/",
+      "slug": "injecto-polymers-ipo",
       "gmp": 0,
       "gmpText": "₹0",
-      "trend": "down",
-      "priceBandUpper": 575,
-      "priceBandText": "₹575",
+      "trend": "flat",
+      "priceBandUpper": 100,
+      "priceBandText": "₹100",
       "estListing": 0,
       "estGainPct": 0,
-      "dateText": "31-2 Sept",
-      "status": "Closed",
-      "lastUpdated": "7 Sept, 07:05",
-      "about": "Purple Style Labs, founded in 2015, runs a Pernia’s Pop-Up Shop (“PPUS”), a multi-brand luxury fashion platform. They offer their products both offline and online through their own website and mobile application. Under the PPUS brand, the company sells over 2.11 lakh products across women’s wear, men’s wear, jewellery, accessories, and kids’ wear from 1,312 active designer brands. Moreover, the website also features some of the well-known designers like Seema Gujral, Anushree Reddy, Amit Aggarwal, and Rohit Gandhi & Rahul Khanna. Moreover, the firm has served over 200,000 unique customers across 140 countries between FY23 and FY25. In fact, in FY25, the business reported 18.57 million unique visitors, 70,651 customers, and 104,856 orders across 100 countries.",
+      "dateText": "11-16 Sept",
+      "status": "Upcoming",
+      "lastUpdated": "8 Sept, 17:44",
+      "about": "Since its incorporation in September 1998, Injecto Polymers has been involved in the manufacturing of a wide range of plastic packaging products and the trading of plastic granules and Polyvinyl Chloride (PVC) resins. The firm manufactures a wide range of packaging products, including Polypropylene (PP) Woven Fabrics, PP Woven Bags, Biaxially Oriented Polypropylene (BoPP) Bags, Leno Bags, Low-Density and Polyester Pouches, Flexible Intermediate Bulk Container (FIBC) Bags and Non-Woven Bags. Its products are used in various industries such as agriculture, construction, textiles, chemicals, food, pharmaceuticals, cosmetics, and consumer goods. Injecto Polymers operates 2 manufacturing facilities in West Bengal, located at Jaugram, Jamalpur, and Andul Road, Howrah, which are equipped with modern machinery, software-based monitoring systems, and an in-house testing facility.",
       "financials": [
         {
+          "period": "2023",
+          "revenue": 96.62,
+          "expense": 95.29,
+          "pat": 2.07,
+          "assets": 107.21
+        },
+        {
           "period": "2024",
-          "revenue": 510.03,
-          "expense": 557.74,
-          "pat": 47.71,
-          "assets": 458.39
+          "revenue": 109.8,
+          "expense": 104.86,
+          "pat": 4.44,
+          "assets": 121.25
         },
         {
           "period": "2025",
-          "revenue": 494,
-          "expense": 559.78,
-          "pat": 188.55,
-          "assets": 497.05
-        },
-        {
-          "period": "2026",
-          "revenue": 567.07,
-          "expense": 734.54,
-          "pat": 285.4,
-          "assets": 829.6
+          "revenue": 261.85,
+          "expense": 250.66,
+          "pat": 8.11,
+          "assets": 170.57
         }
       ],
       "revenueTrend": "up",
       "patTrend": "up",
       "fundamentals": {
-        "roe": null,
-        "ronw": null,
-        "ebitdaMargin": 5.44,
-        "patMargin": -51.16,
+        "roe": 23.66,
+        "ronw": 17.13,
+        "ebitdaMargin": 8.63,
+        "patMargin": 3.1,
         "debtEquity": null,
-        "eps": -41.98,
+        "eps": 2.01,
         "pe": null,
-        "nav": -7.69
+        "nav": 14.58
       },
       "issuePE": null,
-      "promoterPostPct": null,
-      "freshCr": 680
+      "peers": [
+        {
+          "name": "Emmbi Industries Limited",
+          "pe": 30.3
+        },
+        {
+          "name": "RDB Rasayans Limited",
+          "pe": 10.84
+        }
+      ],
+      "peerMedianPE": 20.57,
+      "promoterPostPct": 64.35,
+      "freshCr": 56.12
     },
     {
       "name": "Century Business Media",
@@ -1142,7 +1229,7 @@
       "estGainPct": 0,
       "dateText": "11-16 Sept",
       "status": "Upcoming",
-      "lastUpdated": "7 Sept, 17:35",
+      "lastUpdated": "8 Sept, 17:44",
       "about": "Established in 1999, Century Business Media Limited provides advertising services, mainly through Out-of-Home (OOH) media, including digital and non-digital advertising. The company mainly operates in airports and railway stations. It provides advertising spaces inside and outside airport terminals, as well as digital and traditional hoardings at railway stations and on railway land. The company has a strong presence in Bihar, Jharkhand, West Bengal, and the North Eastern states. It also provides OOH advertising services across India through both exclusive and non-exclusive media rights.",
       "financials": [
         {
@@ -1212,7 +1299,7 @@
       "estGainPct": 0,
       "dateText": "10-15 Sept",
       "status": "Upcoming",
-      "lastUpdated": "7 Sept, 17:35",
+      "lastUpdated": "8 Sept, 17:44",
       "about": "Established in 2024, Panchatv Bharat is a textile company that deals mainly in denim fabrics. It manufactures denim through third-party manufacturers and sells the fabrics wholesale across India. The company manages the complete production process, including buying yarn, dyeing, weaving, finishing, and checking the quality of the fabric. The company has various Competitive Strengths: Experienced promoters and management team Strong and established customer base Scalable and flexible business model The company mainly serves textile and garment markets in Delhi, Uttar Pradesh, Haryana, Gujarat, Rajasthan, and Odisha. As of June 30, 2025, the company had 13 employees.",
       "financials": [
         {
@@ -1265,16 +1352,16 @@
       "segment": "sme",
       "detailUrl": "https://ipowatch.in/maharaja-speedex-india-ipo/",
       "slug": "maharaja-speedex-india-ipo",
-      "gmp": 0,
-      "gmpText": "₹0",
-      "trend": "flat",
+      "gmp": 14,
+      "gmpText": "₹14",
+      "trend": "up",
       "priceBandUpper": 186,
       "priceBandText": "₹186",
-      "estListing": 0,
-      "estGainPct": 0,
+      "estListing": 200,
+      "estGainPct": 7.53,
       "dateText": "10-15 Sept",
       "status": "Upcoming",
-      "lastUpdated": "7 Sept, 17:35",
+      "lastUpdated": "8 Sept, 17:44",
       "about": "Established in February 2006, Maharaja & Speedex India Limited manufactures, brands, markets, and distributes stainless-steel bottles and other drinkware products. The company offers two main types of products: Standard Products: Mainly stainless-steel bottles. Novelty Products: Tumblers, feeding bottles, and gym shakers. Its products are available in mass, premium, and lifestyle price ranges, serving both retail and institutional customers. The company also provides OEM and private-label manufacturing, making customized drinkware for corporate gifting, institutions, and other brands.",
       "financials": [
         {
@@ -1340,7 +1427,7 @@
       "estGainPct": 0,
       "dateText": "10-15 Sept",
       "status": "Upcoming",
-      "lastUpdated": "7 Sept, 17:35",
+      "lastUpdated": "8 Sept, 17:44",
       "about": "Established in 2008, Om Galaxy Ltd. designs, develops, and manufactures pipe fittings, industrial moulds, automotive moulds, Hot Runner Systems (HRS), and cleaning products. As of June 30, 2026, the company had 77 products sold under its “WONDRA” brand. Its products are used in various industries, including building materials, plastics and polymers, automobiles and auto components, and industrial engineering. The company has experienced promoters, directors, and a senior management team, and strong, long-term relationships with customers that bring repeat business and many more.",
       "financials": [
         {
@@ -1395,7 +1482,7 @@
       "estGainPct": 0,
       "dateText": "10-15 Sept",
       "status": "Upcoming",
-      "lastUpdated": "7 Sept, 17:35",
+      "lastUpdated": "8 Sept, 17:44",
       "about": "Raksan Transformers, founded in July 1995, manufactures transformers with different voltage capacities. The firm makes a wide range of transformers, such as distribution transformers, power transformers, transformers for solar applications, and special-purpose transformers used in power generation, transmission, and distribution networks. Raksan started its business as a repair and servicing transformers, and later started making transformers from scratch and expanded its business with 2 manufacturing facilities in Rai, Sonepat, Haryana. Its products serve a wide range of customers, including government entities, power distribution corporations, public sector undertakings, utility companies, and EPC contractors. The company operates 2 manufacturing facilities equipped with machinery for core cutting, coil winding, assembly, tank fabrication, oil filtration, welding, and testing.",
       "financials": [
         {
@@ -1456,16 +1543,16 @@
       "segment": "sme",
       "detailUrl": "https://ipowatch.in/vinod-texworld-ipo/",
       "slug": "vinod-texworld-ipo",
-      "gmp": 4,
-      "gmpText": "₹4",
+      "gmp": 8,
+      "gmpText": "₹8",
       "trend": "up",
       "priceBandUpper": 94,
       "priceBandText": "₹94",
-      "estListing": 98,
-      "estGainPct": 4.26,
+      "estListing": 102,
+      "estGainPct": 8.51,
       "dateText": "9-11 Sept",
       "status": "Upcoming",
-      "lastUpdated": "7 Sept, 17:35",
+      "lastUpdated": "8 Sept, 17:44",
       "about": "Since its incorporation in 2012, Vinod Textworld has been involved in manufacturing, processing, and supplying a diverse range of textile products for its domestic and international clients. The company’s main business is to dye and print greige fabric (undyed fabric) and sell it. The firm works across various fabrics, including Cotton fabrics, Polyester fabrics, and Blended fabrics. Vinod Textworld handles the entire production lifecycle, from buying Greige Fabric to the final production of dyed and printed fabrics. Its manufacturing facility is situated on around 5,949 square meters and can make up to 2.25 crore (22.5 million) meters of fabric every year. The firm has a presence across various states in India, including Gujarat, Punjab, Haryana, Delhi, Rajasthan, Uttar Pradesh, and West Bengal.",
       "financials": [
         {
@@ -1531,7 +1618,7 @@
       "estGainPct": 0,
       "dateText": "9-11 Sept",
       "status": "Upcoming",
-      "lastUpdated": "7 Sept, 17:35",
+      "lastUpdated": "8 Sept, 17:44",
       "about": "Infrax Renewable, founded in September 2024, is an Engineering, Procurement, and Construction (EPC) firm focused on providing solar energy solutions, including rooftop and Ground-mounted solar projects. Its product range includes the manufacturing of a wide range of solar products, including solar PV modules, inverters, and related equipment. The firm operates its business via 3 different models: EPC services, offering end-to-end solar solutions, from planning and designing to installation; Independent Power Producer (IPP), selling solar electricity through its own solar power plant in Gujarat; and supplying various solar products, including Solar PV Modules, Solar PV Inverters, and other solar products. Infrax Renewable products cater to customers across residential, commercial, and industrial segments.",
       "financials": [
         {
@@ -1592,16 +1679,16 @@
       "segment": "sme",
       "detailUrl": "https://ipowatch.in/amtech-esters-ipo/",
       "slug": "amtech-esters-ipo",
-      "gmp": 5,
-      "gmpText": "₹5",
+      "gmp": 6,
+      "gmpText": "₹6",
       "trend": "up",
       "priceBandUpper": 75,
       "priceBandText": "₹75",
-      "estListing": 80,
-      "estGainPct": 6.67,
+      "estListing": 81,
+      "estGainPct": 8,
       "dateText": "9-11 Sept",
       "status": "Upcoming",
-      "lastUpdated": "7 Sept, 17:35",
+      "lastUpdated": "8 Sept, 17:44",
       "about": "Amtech Esters, founded in May 2002, is one of the leading chemical manufacturing firms that manufactures Unsaturated Polyester Resins (UPRs). This chemical is used to make materials such as resin and fiberglass-reinforced plastic (FRP) products. The company’s product portfolio includes Unsaturated Polyester Resins, fibreglass, hardeners, silicones and other ancillary products used in various industrial applications. Amtech Esters also operates its business through its wholly owned subsidiary, Croda Pigments Private Limited (CPPL), which is involved in the manufacture of pigments used as colourants and additives in paints, varnishes, dyes, glues, gums and other chemical applications. Its manufacturing facilities are situated in Bahadurgarh, Jhajjar, Haryana, which comprises modern and automated plant and machinery.",
       "financials": [
         {
@@ -1647,16 +1734,16 @@
       "segment": "sme",
       "detailUrl": "https://ipowatch.in/apana-logistics-ipo/",
       "slug": "apana-logistics-ipo",
-      "gmp": 3,
-      "gmpText": "₹3",
+      "gmp": 10,
+      "gmpText": "₹10",
       "trend": "up",
       "priceBandUpper": 60,
       "priceBandText": "₹60",
-      "estListing": 63,
-      "estGainPct": 5,
+      "estListing": 70,
+      "estGainPct": 16.67,
       "dateText": "7-9 Sept",
       "status": "Open",
-      "lastUpdated": "7 Sept, 17:35",
+      "lastUpdated": "8 Sept, 17:44",
       "about": "Since its establishment in 1992, Apana Logistics has been providing end-to-end container transportation and logistics services. The firm offers a wide range of services: container handling at Container Freight Stations (CFS), Inland Container Depots (ICD), and ports, road transportation, cargo handling at third-party warehouses, and the repair, operation, and maintenance of truck-trailers (TT). The firm works with some of India’s major container terminals and port operators. As of August 31, 2025, Apana Logistics owns and maintains a fleet size of thirty-three (33) truck-trailers and five (5) reach stackers. So far, the company has served more than 10 customers, of which 2 out of its 5 top customers have been in long-term relationships for over 10 years.",
       "financials": [
         {
@@ -1713,16 +1800,16 @@
       "segment": "sme",
       "detailUrl": "https://ipowatch.in/qualiance-international-ipo/",
       "slug": "qualiance-international-ipo",
-      "gmp": 55,
-      "gmpText": "₹55",
+      "gmp": 59,
+      "gmpText": "₹59",
       "trend": "up",
       "priceBandUpper": 127,
       "priceBandText": "₹127",
-      "estListing": 182,
-      "estGainPct": 43.31,
+      "estListing": 186,
+      "estGainPct": 46.46,
       "dateText": "4-8 Sept",
       "status": "Open",
-      "lastUpdated": "7 Sept, 17:35",
+      "lastUpdated": "8 Sept, 17:44",
       "about": "Incorporated in August 2006, Qualiance International Limited is engaged in the design, engineering, manufacture and export of performance and technical garments for institutional, government and international brand customers. The Company traces its origins to 1994, when it commenced operations as a partnership firm under the name M/s. Qualiance Exports. It was subsequently incorporated as Qualiance International Private Limited and was converted into a public limited company in December 2025. Its product portfolio comprises military uniforms, tactical outerwear, high-visibility workwear, weather-resistant and all-weather outerwear, police and border patrol uniforms, protective workwear and performance activewear.",
       "financials": [
         {
@@ -1788,7 +1875,7 @@
       "estGainPct": 1,
       "dateText": "1-3 Sept",
       "status": "Closed",
-      "lastUpdated": "7 Sept, 17:35",
+      "lastUpdated": "8 Sept, 08:18",
       "about": "Fly-Hi Maritime Travels, founded in September 2021, is a Maritime travel company that helps commercial shipping companies manage their complete travel and transportation needs. The firm handles all travel arrangements for seafarers, helping them transport goods from their home countries to their designated ports of boarding, including airline ticketing, route planning, ground transportation, hotel bookings, visa coordination, and 24/7 travel support. The firm offers customized travel services such as Global crew ticketing, visa and immigration coordination, OK-to-board confirmations, Real-time travel monitoring, Disruption handling, emergency support, and Boarding confirmation. Fly-Hi Maritime Travels provides its services to commercial shipping companies in more than 6 countries: Cyprus, Greece, the USA, UK, Singapore, UAE, and India.",
       "financials": [
         {
@@ -1834,16 +1921,16 @@
       "segment": "sme",
       "detailUrl": "https://ipowatch.in/farm-peace-ipo/",
       "slug": "farm-peace-ipo",
-      "gmp": 50,
-      "gmpText": "₹50",
+      "gmp": 57,
+      "gmpText": "₹57",
       "trend": "up",
       "priceBandUpper": 59,
       "priceBandText": "₹59",
-      "estListing": 109,
-      "estGainPct": 84.75,
+      "estListing": 116,
+      "estGainPct": 96.61,
       "dateText": "1-3 Sept",
       "status": "Closed",
-      "lastUpdated": "7 Sept, 17:35",
+      "lastUpdated": "8 Sept, 08:18",
       "about": "Farm Peace, founded in October 2021, is a contract farming company that works with farmers to grow a wide variety of processed-grade potatoes like Santana, Frysona, Innovators, Lady Rosetta, and Chipsona. These potatoes are then supplied to food processing companies to make French fries, chips, and other potato-based products. Farm Peace works with farmers in Gujarat with a 100% guarantee to buy all the potatoes they produce under the contract. Farm Peace offers certified seeds, agronomic support, fertilizers, pesticides, and modern farming techniques to help farmers improve their production of potatoes, reducing farming risks. From seed selection, soil preparation, irrigation, pest management, harvesting, and post-harvest handling, the firm supports farmers at every stage of production to ensure high-quality potatoes reach processing units without fail.",
       "financials": [
         {
@@ -1883,193 +1970,6 @@
       "issuePE": 11.87,
       "promoterPostPct": null,
       "freshCr": 32
-    },
-    {
-      "name": "Ashutosh Fibre",
-      "segment": "sme",
-      "detailUrl": "https://ipowatch.in/ashutosh-fibre-ipo/",
-      "slug": "ashutosh-fibre-ipo",
-      "gmp": 56,
-      "gmpText": "₹56",
-      "trend": "up",
-      "priceBandUpper": 92,
-      "priceBandText": "₹92",
-      "estListing": 148,
-      "estGainPct": 60.87,
-      "dateText": "31-2 Sept",
-      "status": "Closed",
-      "lastUpdated": "7 Sept, 07:05",
-      "about": "Since its founding in 1985, Ashutosh Fibre has manufactured and traded technical textile products, especially PP (polypropylene) spun yarn. Its product portfolio includes Para Aramid-Based Spun Yarn, High Tenacity Polyester Yarn, Meta Aramid and FR Viscose Yarn, 100% Polypropylene Yarn, Modacrylic-Based Yarn, and Poly Poly Corespun Yarn. Ashutosh Fibre makes technical textiles across 4 major categories: Indutech, Protech, Hometech, and Mobiltech. Indutech: Yarns for filtration, ropes, geotextiles, and industrial textiles. Protech: Strong, heat- and flame-resistant yarns/fabrics for safety and protective products. Hometech: Textiles for home furnishings, carpets, and filtration. Mobiltech: Special yarns used in automotive parts like brake pads and clutch components. Moreover, its manufacturing facility is equipped with 5 production/processing lines and 3 different methods to make yarn: Ring Spun, DREF (Friction Spun), and Open-End Spinning, ranging from 2 Ne to 50 Ne.",
-      "financials": [
-        {
-          "period": "2024",
-          "revenue": 109.89,
-          "expense": 100.11,
-          "pat": 7.05,
-          "assets": 73.01
-        },
-        {
-          "period": "2025",
-          "revenue": 114.97,
-          "expense": 103.88,
-          "pat": 8.51,
-          "assets": 104.6
-        },
-        {
-          "period": "2026",
-          "revenue": 117.43,
-          "expense": 95.87,
-          "pat": 16.04,
-          "assets": 25.8
-        }
-      ],
-      "revenueTrend": "up",
-      "patTrend": "up",
-      "fundamentals": {
-        "roe": 30.91,
-        "ronw": 30.91,
-        "ebitdaMargin": 26.47,
-        "patMargin": 13.67,
-        "debtEquity": 0.92,
-        "eps": 10.19,
-        "pe": null,
-        "nav": 32.95
-      },
-      "issuePE": null,
-      "peers": [
-        {
-          "name": "RSWM Limited",
-          "pe": 18.55
-        },
-        {
-          "name": "Reliance Chemotex Industries Limited",
-          "pe": 16.09
-        },
-        {
-          "name": "Garware Technical Fibres Limited",
-          "pe": 37.72
-        }
-      ],
-      "peerMedianPE": 18.55,
-      "promoterPostPct": 43.05,
-      "freshCr": 56.35
-    },
-    {
-      "name": "Phychem Technologies",
-      "segment": "sme",
-      "detailUrl": "https://ipowatch.in/phychem-technologies-ipo/",
-      "slug": "phychem-technologies-ipo",
-      "gmp": 1,
-      "gmpText": "₹1",
-      "trend": "down",
-      "priceBandUpper": 54,
-      "priceBandText": "₹54",
-      "estListing": 55,
-      "estGainPct": 1.85,
-      "dateText": "31-2 Sept",
-      "status": "Closed",
-      "lastUpdated": "7 Sept, 07:05",
-      "about": "Phychem Technologies is one of the leading manufacturers of rotational molding (roto molding) compounds, a raw material used to make hollow plastic products. Phychem makes customized polyethylene-based compounds made from LLDPE, HDPE, and special additives supplied in powder or granule form, which are used to manufacture water, fuel, and chemical storage tanks, portable toilets, furniture, industrial containers, and other molded plastic parts. Its product portfolio includes foam, stone-effect, flame-retardant, anti-static, and custom-colored compounds serving a wide range of industries such as construction, water management, agriculture, automotive, and consumer goods. Moreover, the company also makes customized molded tanks. Its manufacturing facility is in Khatwad, Dindori, Nashik, Maharashtra, which includes its own laboratory and quality control department. They export their products to many countries such as Bahrain, Bangladesh, Iraq, Kuwait, Nigeria, Saudi Arabia, South Africa, Thailand, Turkey, UAE, and many others.",
-      "financials": [
-        {
-          "period": "2024",
-          "revenue": 47.59,
-          "expense": 45.22,
-          "pat": 1.69,
-          "assets": 17.83
-        },
-        {
-          "period": "2025",
-          "revenue": 51.11,
-          "expense": 47.33,
-          "pat": 2.84,
-          "assets": 20.75
-        },
-        {
-          "period": "2026",
-          "revenue": 57.48,
-          "expense": 51.94,
-          "pat": 4.09,
-          "assets": 25.32
-        }
-      ],
-      "revenueTrend": "up",
-      "patTrend": "up",
-      "fundamentals": {
-        "roe": 29.66,
-        "ronw": 29.66,
-        "ebitdaMargin": 10.78,
-        "patMargin": 7.24,
-        "debtEquity": 0.43,
-        "eps": 5.42,
-        "pe": null,
-        "nav": 18.29
-      },
-      "issuePE": null,
-      "promoterPostPct": null,
-      "freshCr": 14.58
-    },
-    {
-      "name": "Shanti Inorganics",
-      "segment": "sme",
-      "detailUrl": "https://ipowatch.in/shanti-inorganics-ipo/",
-      "slug": "shanti-inorganics-ipo",
-      "gmp": 54,
-      "gmpText": "₹54",
-      "trend": "up",
-      "priceBandUpper": 83,
-      "priceBandText": "₹83",
-      "estListing": 137,
-      "estGainPct": 65.06,
-      "dateText": "31-2 Sept",
-      "status": "Closed",
-      "lastUpdated": "7 Sept, 07:05",
-      "about": "Established in 1998 by Mr. Manoj J. Patel, Shanti Inorganics is a trusted manufacturer of a wide range of sulfur-based inorganic chemicals. Its product portfolio includes ammonium bisulphite, sodium bisulphite solutions, sodium meta/ bisulphite, and sodium sulphite powder, used as preservatives, reducing agents, oxygen scavengers, and process intermediates. Its products are used in a diverse range of industries such as oil drilling, pharmaceuticals, food and beverages, pulp & paper, and water treatment. Shanti Inorganics exports over 60% of its production to more than 15 countries. Its 2 advanced manufacturing facilities are situated in Ahmedabad, covering 28,000 m², equipped with state-of-the-art infrastructure and fully automated plants that ensure top-quality products.",
-      "financials": [
-        {
-          "period": "2024",
-          "revenue": 45.06,
-          "expense": 38.2,
-          "pat": 5.12,
-          "assets": 52.69
-        },
-        {
-          "period": "2025",
-          "revenue": 58.46,
-          "expense": 47.69,
-          "pat": 7.99,
-          "assets": 66.04
-        },
-        {
-          "period": "2026",
-          "revenue": 72.93,
-          "expense": 59.11,
-          "pat": 10.22,
-          "assets": 97.04
-        },
-        {
-          "period": "May 2026",
-          "revenue": 16.1,
-          "expense": 12.73,
-          "pat": 2.5,
-          "assets": 110.73
-        }
-      ],
-      "revenueTrend": "down",
-      "patTrend": "down",
-      "fundamentals": {
-        "roe": 27.68,
-        "ronw": 27.68,
-        "ebitdaMargin": 21.62,
-        "patMargin": 14.01,
-        "debtEquity": 0.64,
-        "eps": 9.36,
-        "pe": null,
-        "nav": 41.74
-      },
-      "issuePE": null,
-      "promoterPostPct": null,
-      "freshCr": 47.23
     }
   ]
 }
