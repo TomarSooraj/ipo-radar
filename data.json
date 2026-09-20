@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T13:31:23.880Z",
+  "generatedAt": "2026-09-20T13:31:35.317Z",
   "source": "https://ipowatch.in/ipo-grey-market-premium-latest-ipo-gmp/",
   "disclaimer": "GMP (Grey Market Premium) is an unofficial, speculative indicator from the unregulated grey market and can change daily. Nothing here is investment advice.",
   "trackRecord": {
@@ -156,6 +156,72 @@
       "freshCr": 132.62
     },
     {
+      "name": "Swastika Infra",
+      "segment": "mainboard",
+      "detailUrl": "https://ipowatch.in/swastika-infra-ipo/",
+      "slug": "swastika-infra-ipo",
+      "gmp": 0,
+      "gmpText": "₹0",
+      "trend": "flat",
+      "priceBandUpper": 185,
+      "priceBandText": "₹185",
+      "estListing": 185,
+      "estGainPct": 0,
+      "dateText": "23-25 Sept",
+      "status": "Upcoming",
+      "lastUpdated": "19 Sept, 17:10",
+      "about": "Swastika Infra Limited was founded in 1969 and made a reputation in the Power Distribution EPC infrastructure industry. After completing large-scale power distribution infrastructure projects, it transitioned into the power EPC business in 2011. In 2019, they transferred their foundation into a company, as they are innovative and excellent in their work. Due to 12 years of expertise in EPC, they are advanced in the conceptualization, design, supply, installation, testing, and commissioning of power projects on a turnkey basis. Their team of 100 employees, including 70 skilled professionals, is the foundation of its operations. Further, they are committed to shaping a strong future through sustainable and efficient energy solutions.",
+      "financials": [
+        {
+          "period": "2024",
+          "revenue": 211.33,
+          "expense": 192.5,
+          "pat": 13.98,
+          "assets": 143.26
+        },
+        {
+          "period": "2025",
+          "revenue": 352.6,
+          "expense": 315.58,
+          "pat": 27.46,
+          "assets": 258.54
+        },
+        {
+          "period": "2026",
+          "revenue": 505.57,
+          "expense": 450.23,
+          "pat": 41.43,
+          "assets": 412.24
+        }
+      ],
+      "revenueTrend": "up",
+      "patTrend": "up",
+      "fundamentals": {
+        "roe": 35.44,
+        "ronw": 35.44,
+        "ebitdaMargin": 14.07,
+        "patMargin": 8.23,
+        "debtEquity": 0.73,
+        "eps": 15.7,
+        "pe": null,
+        "nav": 57.69
+      },
+      "issuePE": null,
+      "peers": [
+        {
+          "name": "Rajesh Power Services Limited",
+          "pe": 10.1
+        },
+        {
+          "name": "Vikran Engineering Limited",
+          "pe": 14.6
+        }
+      ],
+      "peerMedianPE": 12.35,
+      "promoterPostPct": 57.41,
+      "freshCr": 128.5
+    },
+    {
       "name": "Elevate Campuses",
       "segment": "mainboard",
       "detailUrl": "https://ipowatch.in/elevate-campuses-ipo/",
@@ -165,7 +231,7 @@
       "trend": "up",
       "priceBandUpper": 362,
       "priceBandText": "₹362",
-      "estListing": 4.14,
+      "estListing": 377,
       "estGainPct": 4.14,
       "dateText": "23-25 Sept",
       "status": "Upcoming",
@@ -220,7 +286,7 @@
       "trend": "flat",
       "priceBandUpper": 375,
       "priceBandText": "₹375",
-      "estListing": 0,
+      "estListing": 375,
       "estGainPct": 0,
       "dateText": "23-25 Sept",
       "status": "Upcoming",
@@ -526,7 +592,7 @@
       "trend": "flat",
       "priceBandUpper": 84,
       "priceBandText": "₹84",
-      "estListing": 0,
+      "estListing": 84,
       "estGainPct": 0,
       "dateText": "16-18 Sept",
       "status": "Closed",
@@ -909,7 +975,7 @@
       "trend": "flat",
       "priceBandUpper": 78,
       "priceBandText": "₹78",
-      "estListing": 0,
+      "estListing": 78,
       "estGainPct": 0,
       "dateText": "23-25 Sept",
       "status": "Upcoming",
@@ -975,7 +1041,7 @@
       "trend": "flat",
       "priceBandUpper": 88,
       "priceBandText": "₹88",
-      "estListing": 0,
+      "estListing": 88,
       "estGainPct": 0,
       "dateText": "23-25 Sept",
       "status": "Upcoming",
@@ -1135,9 +1201,9 @@
       "gmp": 0,
       "gmpText": "₹0",
       "trend": "flat",
-      "priceBandUpper": null,
-      "priceBandText": "₹-",
-      "estListing": 0,
+      "priceBandUpper": 54,
+      "priceBandText": "₹54",
+      "estListing": 54,
       "estGainPct": 0,
       "dateText": "23-25 Sept",
       "status": "Upcoming",
@@ -1211,7 +1277,7 @@
       "trend": "flat",
       "priceBandUpper": 115,
       "priceBandText": "₹115",
-      "estListing": 0,
+      "estListing": 115,
       "estGainPct": 0,
       "dateText": "23-25 Sept",
       "status": "Upcoming",
