@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T17:59:07.036Z",
+  "generatedAt": "2026-09-26T17:16:42.779Z",
   "source": "https://ipowatch.in/ipo-grey-market-premium-latest-ipo-gmp/",
   "disclaimer": "GMP (Grey Market Premium) is an unofficial, speculative indicator from the unregulated grey market and can change daily. Nothing here is investment advice.",
   "trackRecord": {
@@ -9,21 +9,171 @@
   },
   "ipos": [
     {
+      "name": "Vishal Nirmiti",
+      "segment": "mainboard",
+      "detailUrl": "https://ipowatch.in/vishal-nirmiti-ipo/",
+      "slug": "vishal-nirmiti-ipo",
+      "gmp": 0,
+      "gmpText": "₹0",
+      "trend": "flat",
+      "priceBandUpper": 220,
+      "priceBandText": "₹220",
+      "estListing": 220,
+      "estGainPct": 0,
+      "dateText": "30-5 Oct",
+      "status": "Upcoming",
+      "lastUpdated": "",
+      "about": "Incorporated in 1994, Vishal Nirmiti is one of the leading civil engineering, manufacturing, and construction companies that manufacture Pre-Stressed Concrete (PSC) sleepers for railways, pre-cast and pre-stressed concrete products, as well as fabrication and erection of Mild Steel (MS) pipes, liners, and penstock pipes for Pumped Storage Projects (PSPs). The firm also offers EPC services for railway infrastructure, irrigation, and civil engineering projects, catering to various sectors such as railways, renewable power, and industrial infrastructure. Vishal Nirmiti has a pan-India presence across Maharashtra, Madhya Pradesh, Gujarat, Himachal Pradesh, Uttar Pradesh, Odisha, and Karnataka. Moreover, the firm is backed by experienced promoters and has over 4 years of industry experience.",
+      "financials": [
+        {
+          "period": "2023",
+          "revenue": 270.58,
+          "expense": 266.65,
+          "pat": 3.01,
+          "assets": 224.5
+        },
+        {
+          "period": "2024",
+          "revenue": 247.93,
+          "expense": 243.35,
+          "pat": 3.45,
+          "assets": 242.04
+        },
+        {
+          "period": "2025",
+          "revenue": 324.86,
+          "expense": 293.72,
+          "pat": 23.64,
+          "assets": 296.61
+        },
+        {
+          "period": "2026",
+          "revenue": 344.13,
+          "expense": 310.35,
+          "pat": 24.98,
+          "assets": 334.92
+        }
+      ],
+      "revenueTrend": "up",
+      "patTrend": "up",
+      "fundamentals": {
+        "roe": 33.67,
+        "ronw": 33.87,
+        "ebitdaMargin": 15.1,
+        "patMargin": 7.37,
+        "debtEquity": 1.01,
+        "eps": 12.61,
+        "pe": null,
+        "nav": 43.61
+      },
+      "issuePE": null,
+      "peers": [
+        {
+          "name": "GPT Infraprojects Limited",
+          "pe": 14.83
+        },
+        {
+          "name": "Indian Hume Pipe Company Limited",
+          "pe": 13.86
+        }
+      ],
+      "peerMedianPE": 14.34,
+      "promoterPostPct": null,
+      "freshCr": 145
+    },
+    {
+      "name": "Nityas Gems",
+      "segment": "mainboard",
+      "detailUrl": "https://ipowatch.in/nityas-gems-jewellery-ipo/",
+      "slug": "nityas-gems-jewellery-ipo",
+      "gmp": 0,
+      "gmpText": "₹0",
+      "trend": "flat",
+      "priceBandUpper": 75,
+      "priceBandText": "₹75",
+      "estListing": 75,
+      "estGainPct": 0,
+      "dateText": "30-5 Oct",
+      "status": "Upcoming",
+      "lastUpdated": "",
+      "about": "Nityas Gems and Jewellery Limited is one of the leading companies in terms of diamond-studded gold jewellery. The company operates its business in two ways: business-to-business (B2B) manufacturing and distribution to retailers and wholesalers, and direct-to-consumer (D2C) omnichannel retail operations through its subsidiary, Ayaani Diamonds and Jewellery. Its gold product portfolio includes rings, earrings, pendants, bracelets, mangalsutras, nose pins, necklaces, cufflinks, and bangles. The firm handles every process, from sourcing raw materials, designing, manufacturing, quality checks, distribution, and selling of products. Moreover, the firm also sells its products to other major jewellery brands such as GIVA, Palmonas, ONYA, and Ladia Diamonds.",
+      "financials": [
+        {
+          "period": "2023",
+          "revenue": 11.67,
+          "expense": 11.36,
+          "pat": 0.25,
+          "assets": 6.08
+        },
+        {
+          "period": "2024",
+          "revenue": 53.66,
+          "expense": 48.73,
+          "pat": 4.02,
+          "assets": 11.75
+        },
+        {
+          "period": "2025",
+          "revenue": 96.85,
+          "expense": 84.95,
+          "pat": 9.79,
+          "assets": 39.87
+        },
+        {
+          "period": "2026",
+          "revenue": 203.33,
+          "expense": 176.4,
+          "pat": 22.32,
+          "assets": 116.42
+        }
+      ],
+      "revenueTrend": "up",
+      "patTrend": "up",
+      "fundamentals": {
+        "roe": 43.75,
+        "ronw": 43.75,
+        "ebitdaMargin": 15.27,
+        "patMargin": 11,
+        "debtEquity": 0.29,
+        "eps": 5.52,
+        "pe": null,
+        "nav": 15.13
+      },
+      "issuePE": null,
+      "peers": [
+        {
+          "name": "Golkunda Diamonds & Jewellery Limited",
+          "pe": 16.61
+        },
+        {
+          "name": "Goldiam International Limited",
+          "pe": 21.69
+        },
+        {
+          "name": "Renaissance Global Limited",
+          "pe": 18.63
+        }
+      ],
+      "peerMedianPE": 18.63,
+      "promoterPostPct": 43.51,
+      "freshCr": 108.35
+    },
+    {
       "name": "SRIT India",
       "segment": "mainboard",
       "detailUrl": "https://ipowatch.in/srit-india-ipo/",
       "slug": "srit-india-ipo",
-      "gmp": 22,
-      "gmpText": "₹22",
+      "gmp": 32,
+      "gmpText": "₹32",
       "trend": "up",
       "priceBandUpper": 130,
       "priceBandText": "₹130",
-      "estListing": 152,
-      "estGainPct": 16.92,
+      "estListing": 162,
+      "estGainPct": 24.62,
       "dateText": "28-30 Sep",
       "status": "Upcoming",
       "lastUpdated": "",
-      "about": "To be updated soon",
+      "about": "SRIT India, founded in September 1999, is an IT and IT-enabled Services (IT/ITeS) solutions firm that offers digital solutions, custom application development, and system integration services. The firm has over 26 years of experience in designing, implementing, and operating digital platforms for government entities and organizations in India as well as international markets. The service offering includes healthcare information systems, digital health platforms, e-governance solutions, cybersecurity, enterprise software, networking, connectivity, fibre optic infrastructure, system integration, automation, and managed services. In the last 10 years, SRIT India has executed more than 103 projects for government and enterprise customers. Its projects consist of healthcare platforms, nationwide banking connectivity, state-wide fibre networks, AI-driven traffic management, and power transformer monitoring solutions.",
       "financials": [
         {
           "period": "2024",
@@ -394,13 +544,13 @@
       "segment": "mainboard",
       "detailUrl": "https://ipowatch.in/orient-cables-ipo/",
       "slug": "orient-cables-ipo",
-      "gmp": 113,
-      "gmpText": "₹113",
+      "gmp": 80,
+      "gmpText": "₹80",
       "trend": "up",
       "priceBandUpper": 272,
       "priceBandText": "₹272",
-      "estListing": 385,
-      "estGainPct": 41.54,
+      "estListing": 352,
+      "estGainPct": 29.41,
       "dateText": "25-29 Sep",
       "status": "Open",
       "lastUpdated": "",
@@ -576,13 +726,13 @@
       "segment": "mainboard",
       "detailUrl": "https://ipowatch.in/a-one-steels-ipo/",
       "slug": "a-one-steels-ipo",
-      "gmp": 49,
-      "gmpText": "₹49",
+      "gmp": 51,
+      "gmpText": "₹51",
       "trend": "down",
       "priceBandUpper": 405,
       "priceBandText": "₹405",
-      "estListing": 454,
-      "estGainPct": 12.1,
+      "estListing": 456,
+      "estGainPct": 12.59,
       "dateText": "24-28 Sep",
       "status": "Open",
       "lastUpdated": "",
@@ -646,15 +796,15 @@
       "segment": "mainboard",
       "detailUrl": "https://ipowatch.in/adroit-industries-ipo/",
       "slug": "adroit-industries-ipo",
-      "gmp": 34,
-      "gmpText": "₹34",
+      "gmp": 47,
+      "gmpText": "₹47",
       "trend": "up",
       "priceBandUpper": 134,
       "priceBandText": "₹134",
-      "estListing": 168,
-      "estGainPct": 25.37,
+      "estListing": 181,
+      "estGainPct": 35.07,
       "dateText": "23-25 Sep",
-      "status": "Open",
+      "status": "Closed",
       "lastUpdated": "",
       "about": "Since its incorporation in January 1995, Adroit Industries has been a leading manufacturer and supplier of propeller shafts and torque-transmission components. Its product portfolio consists of over 5000 products, which includes precision-machined torque-transmission components, complete propeller shaft assemblies, and forged components. Its product range caters to a diverse range of industries such as commercial vehicles, SUVs, defence and emergency services, heavy equipment, off-highway machinery, and industrial applications. Adroit Industries’ manufacturing facility combines advanced forging capabilities, specialized precision machining, heat treatment procedures, final assembly, dynamic balancing, and quality testing, offering end-to-end production capabilities. Furthermore, the firm exports its products to customers across North America, Europe, Latin America, the Middle East, Africa, and Asia-Pacific.",
       "financials": [
@@ -716,15 +866,15 @@
       "segment": "mainboard",
       "detailUrl": "https://ipowatch.in/swastika-infra-ipo/",
       "slug": "swastika-infra-ipo",
-      "gmp": 8,
-      "gmpText": "₹8",
+      "gmp": 5,
+      "gmpText": "₹5",
       "trend": "up",
       "priceBandUpper": 185,
       "priceBandText": "₹185",
-      "estListing": 193,
-      "estGainPct": 4.32,
+      "estListing": 190,
+      "estGainPct": 2.43,
       "dateText": "23-25 Sep",
-      "status": "Open",
+      "status": "Closed",
       "lastUpdated": "",
       "about": "Swastika Infra Limited was founded in 1969 and made a reputation in the Power Distribution EPC infrastructure industry. After completing large-scale power distribution infrastructure projects, it transitioned into the power EPC business in 2011. In 2019, they transferred their foundation into a company, as they are innovative and excellent in their work. Due to 12 years of expertise in EPC, they are advanced in the conceptualization, design, supply, installation, testing, and commissioning of power projects on a turnkey basis. Their team of 100 employees, including 70 skilled professionals, is the foundation of its operations. Further, they are committed to shaping a strong future through sustainable and efficient energy solutions.",
       "financials": [
@@ -782,15 +932,15 @@
       "segment": "mainboard",
       "detailUrl": "https://ipowatch.in/elevate-campuses-ipo/",
       "slug": "elevate-campuses-ipo",
-      "gmp": 3,
-      "gmpText": "₹3",
+      "gmp": 4,
+      "gmpText": "₹4",
       "trend": "down",
       "priceBandUpper": 362,
       "priceBandText": "₹362",
-      "estListing": 364,
-      "estGainPct": 0.83,
+      "estListing": 366,
+      "estGainPct": 1.1,
       "dateText": "23-25 Sep",
-      "status": "Open",
+      "status": "Closed",
       "lastUpdated": "",
       "about": "Elevate Campuses, founded in 2005, is an education infrastructure firm that owns, operates, and manages on-campus student accommodation for higher education institutions (HEIs). The firm operates under two brands: Good Host Spaces and ScholarZ. Its product portfolio includes 7 owned student accommodation campuses with 20,368 beds across six Indian cities and 14 managed campuses with 55,487 beds. The firm helps businesses find deals, choose locations, develop and buy properties, improve existing properties, and work with local communities. Moreover, Elevate Campuses works with educational institutions, including Manipal Academy of Higher Education, Manipal University, Jaipur, and Meraki Education, to provide accommodation for higher education institutions (HEIs) and own K-12 school assets.",
       "financials": [
@@ -837,15 +987,15 @@
       "segment": "mainboard",
       "detailUrl": "https://ipowatch.in/armee-infotech-ipo/",
       "slug": "armee-infotech-ipo",
-      "gmp": 20,
-      "gmpText": "₹20",
+      "gmp": 8,
+      "gmpText": "₹8",
       "trend": "up",
       "priceBandUpper": 375,
       "priceBandText": "₹375",
-      "estListing": 395,
-      "estGainPct": 5.33,
+      "estListing": 383,
+      "estGainPct": 2.13,
       "dateText": "23-25 Sep",
-      "status": "Open",
+      "status": "Closed",
       "lastUpdated": "",
       "about": "ArMee Infotech Limited (AIL), incorporated in 2003, is an IT infrastructure solutions provider that offers complete technology solutions across sectors including government, corporates, banking, financial services and insurance (BFSI), and education. In addition to IT solutions, the firm is also involved in retail sales and renewable energy. Its services include IT infrastructure, providing IT hardware and software, along with installation, integration, maintenance, and related support services. They also provide IT Managed services, Retail Sales, and Renweable energy solutions. As of June 30, 2026, ArMee Infotech has completed 99 ongoing projects, in which 65 are IT Infrastructure, 21 are IT Managed Services, 10 are Renewable Energy EPC, 1 is Renewable Energy PPA, and 2 are for Renewable Energy BESS. All of its projects are operated in the states of Gujarat, Maharashtra, Bihar, Andhra Pradesh, Uttar Pradesh, Madhya Pradesh, Telangana, Tamil Nadu, Uttarakhand, New Delhi, and Rajasthan.",
       "financials": [
@@ -1138,7 +1288,7 @@
       "dateText": "30-5 Oct",
       "status": "Upcoming",
       "lastUpdated": "",
-      "about": "To be updated soon",
+      "about": "Omara Ventures India, founded in October 2020, is a retail jewellery firm involved in the sale of diamond jewellery made using natural diamonds and precious and semi-precious gemstones, as well as gold, platinum, and silver. The company operates its business under the brand Omara, serving a wide range of customers. Its product range consists of diamond jewellery, which includes necklaces, earrings, rings, bracelets, and other jewellery products for different customers, age groups, and occasions. Moreover, Omara offers wedding jewellery, special occasion jewellery, festive jewellery, and contemporary daily-wear jewellery across various price ranges. Moreover, the company also offers customisation services, allowing customers to design jewellery as per their requirements.",
       "financials": [
         {
           "period": "2024",
@@ -1212,7 +1362,7 @@
       "dateText": "29-5 Oct",
       "status": "Upcoming",
       "lastUpdated": "",
-      "about": "To be updated soon",
+      "about": "Founded in April 2017, EverestIMS Technologies is a software company that provides both Software as a Service (SaaS) solutions and on-premises products and services. The firm helps businesses manage their IT systems using digital technology and artificial intelligence (AI) to improve efficiency and enhance user experiences. The firm also has a platform called “Infraon Infinity” through which it helps businesses to monitor critical network devices, servers, and applications, reducing downtime and improving IT operations. Its product range and services include Information Technology Service Management (ITSM) IT Infrastructure Management (ITIM) Network Configuration and Change Management (NCCM) AI For IT Operations (AIOPS) IT Asset Management (ITAM) Operations Support System (OSS) Moreover, EverestIMS also works with international and domestic partners, distributors, and sales agents in India for software product sales and service sales.",
       "financials": [
         {
           "period": "2024",
@@ -1330,7 +1480,7 @@
       "dateText": "29-1 Oct",
       "status": "Upcoming",
       "lastUpdated": "",
-      "about": "To be updated soon",
+      "about": "VANS Electroengineerings Limited, incorporated in February 2022, manufactures and supplies components used in railway electrification, metro systems, and renewable energy projects. Moreover, its main customers include Indian Railways and railway contractors. The company has its registered office and manufacturing facility in Salem, Tamil Nadu. The company manufactures Single Pole and Double Pole Vacuum Circuit Breakers (VCBs) and Vacuum Interrupters (VIs) used in railway electrification systems, including traction substations, sectioning posts and feeding posts. Its products are approved by RDSO, and some products have also received “Approved Vendor” status from CORE.",
       "financials": [
         {
           "period": "2024",
@@ -1427,6 +1577,76 @@
       "freshCr": 44.09
     },
     {
+      "name": "Shree TNB Polymers",
+      "segment": "sme",
+      "detailUrl": "https://ipowatch.in/shree-tnb-polymers-ipo/",
+      "slug": "shree-tnb-polymers-ipo",
+      "gmp": 0,
+      "gmpText": "₹0",
+      "trend": "flat",
+      "priceBandUpper": 52,
+      "priceBandText": "₹52",
+      "estListing": 52,
+      "estGainPct": 0,
+      "dateText": "28-5 Oct",
+      "status": "Upcoming",
+      "lastUpdated": "",
+      "about": "Shree TNB Polymers, founded on March 7, 2007, is one of the leading polymer manufacturing firms, focusing on piping systems and plastic solutions. Its product range consists of HDPE pipes & fittings, PP (Polypropylene) and PPH (Polypropylene Homopolymer) pipes & fittings, Double Wall Corrugated (DWC) pipes, sprinkler pipes, drip irrigation systems, solid industrial sheets, and well pack sheets. Its products are mainly used in diverse critical applications such as irrigation and agriculture, potable water supply schemes, sewerage and drainage systems, telecom cable protection, construction, and industrial usage. Shree TNB Polymers operates 2 manufacturing facilities at Silvassa across 23,028 sq. mtrs, backed by in-house quality testing laboratories and BIS/ISO certifications.",
+      "financials": [
+        {
+          "period": "2024",
+          "revenue": 207.97,
+          "expense": 201.48,
+          "pat": 5.03,
+          "assets": 105.03
+        },
+        {
+          "period": "2025",
+          "revenue": 175.7,
+          "expense": 168.85,
+          "pat": 5.77,
+          "assets": 127.38
+        },
+        {
+          "period": "2026",
+          "revenue": 198.31,
+          "expense": 188.15,
+          "pat": 7.13,
+          "assets": 145.26
+        }
+      ],
+      "revenueTrend": "down",
+      "patTrend": "up",
+      "fundamentals": {
+        "roe": 13.69,
+        "ronw": 13.69,
+        "ebitdaMargin": 9.69,
+        "patMargin": 3.6,
+        "debtEquity": 0.8,
+        "eps": 4.65,
+        "pe": null,
+        "nav": 36.29
+      },
+      "issuePE": null,
+      "peers": [
+        {
+          "name": "Captain Pipes Limited",
+          "pe": 40.37
+        },
+        {
+          "name": "Texmo Pipes and Products Limited",
+          "pe": 15.69
+        },
+        {
+          "name": "Malpani Pipes and Fittings Limited",
+          "pe": 7.7
+        }
+      ],
+      "peerMedianPE": 15.69,
+      "promoterPostPct": null,
+      "freshCr": 31.2
+    },
+    {
       "name": "Acme Universal",
       "segment": "sme",
       "detailUrl": "https://ipowatch.in/acme-universal-ipo/",
@@ -1441,7 +1661,7 @@
       "dateText": "28-30 Sep",
       "status": "Upcoming",
       "lastUpdated": "",
-      "about": "To be updated soon",
+      "about": "Founded in November 2016, Acme Universal Safezone 9 operates in the Personal Protective Equipment (PPE) segment, manufacturing safety shoes and industrial footwear that protect workers from compression, penetration, electrical shock, static electricity, heat and fire, chemicals, and slipping. Its products cater to a wide range of industries, including construction, oil and gas, mining, heavy engineering, automotive, pharmaceuticals, chemical processing, foundry, and power generation. Acme Universal provides 15 different types of products across EVA rubber, nitrile rubber, and PVC sole types. The company operates its 4 manufacturing facilities in Madhya Pradesh and Uttar Pradesh. Moreover, it supplies its products through direct institutional sales, distributors and dealers, and e-commerce channels. Furthermore, the company also exports its products to the UAE, Bahrain, Saudi Arabia, Nigeria, Israel, the Netherlands, Hong Kong, Cameroon and Mauritius.",
       "financials": [
         {
           "period": "2024",
@@ -1511,7 +1731,7 @@
       "dateText": "28-30 Sep",
       "status": "Upcoming",
       "lastUpdated": "",
-      "about": "To be updated soon",
+      "about": "Pind Hospitality, founded on June 15, 2021, operates in the hospitality sector, mainly running hotels, restaurants, and delivery services. The firm is recognized as one of the established restaurant partners in Pune and has completed over 5 lakh food deliveries to customers through third-party food delivery apps. Since 2016, the company has run 6 restaurants in Pune, Maharashtra. It delivers to customers through its food delivery apps, its own mobile app, and online booking. The firm also provides outdoor catering services for special events and workplace canteens. Pind Hospitality mostly tries to attract upper-middle-class consumers by promoting fresh and affordable food items. Moreover, it uses media, including the internet, print, direct marketing, and social media, to expand brand visibility. Furthermore, the company purchases its raw materials from local vendors, including perishable items like dairy, vegetables, and meat.",
       "financials": [
         {
           "period": "2024",
@@ -1577,7 +1797,7 @@
       "dateText": "28-30 Sep",
       "status": "Upcoming",
       "lastUpdated": "",
-      "about": "To be updated soon",
+      "about": "Set up in September 2021, Shivchem Agro is an agrochemical firm that manufactures, distributes, and sells agricultural formulations. Its product range includes insecticides, fungicides, herbicides, plant growth regulators, rodenticides, and fertilizers. As of today, the firm has made 176 agrochemical products, including 88 insecticides, 40 fungicides, 37 herbicides, 8 plant growth regulators, and 3 rodenticides. The company holds the license to sell and distribute products across 8 states in India, with 685 distributors in five godowns. Its manufacturing facility is situated in Jhajjar, which includes machinery for agrochemical production, an Effluent Treatment Plant, and a Wet Scrubber Unit for managing wastewater and air emissions. Moreover, Shivchem Agro distributes its products in 2 ways: first, by visiting farmers and showing them how to use the products, and second, by using distributors to distribute its products in different areas.",
       "financials": [
         {
           "period": "2024",
@@ -1702,87 +1922,17 @@
       "freshCr": 11
     },
     {
-      "name": "Shree TNB Polymers",
-      "segment": "sme",
-      "detailUrl": "https://ipowatch.in/shree-tnb-polymers-ipo/",
-      "slug": "shree-tnb-polymers-ipo",
-      "gmp": 5,
-      "gmpText": "₹5",
-      "trend": "up",
-      "priceBandUpper": 52,
-      "priceBandText": "₹52",
-      "estListing": 57,
-      "estGainPct": 9.62,
-      "dateText": "25-29 Sep",
-      "status": "Open",
-      "lastUpdated": "",
-      "about": "Shree TNB Polymers, founded on March 7, 2007, is one of the leading polymer manufacturing firms, focusing on piping systems and plastic solutions. Its product range consists of HDPE pipes & fittings, PP (Polypropylene) and PPH (Polypropylene Homopolymer) pipes & fittings, Double Wall Corrugated (DWC) pipes, sprinkler pipes, drip irrigation systems, solid industrial sheets, and well pack sheets. Its products are mainly used in diverse critical applications such as irrigation and agriculture, potable water supply schemes, sewerage and drainage systems, telecom cable protection, construction, and industrial usage. Shree TNB Polymers operates 2 manufacturing facilities at Silvassa across 23,028 sq. mtrs, backed by in-house quality testing laboratories and BIS/ISO certifications.",
-      "financials": [
-        {
-          "period": "2024",
-          "revenue": 207.97,
-          "expense": 201.48,
-          "pat": 5.03,
-          "assets": 105.03
-        },
-        {
-          "period": "2025",
-          "revenue": 175.7,
-          "expense": 168.85,
-          "pat": 5.77,
-          "assets": 127.38
-        },
-        {
-          "period": "2026",
-          "revenue": 198.31,
-          "expense": 188.15,
-          "pat": 7.13,
-          "assets": 145.26
-        }
-      ],
-      "revenueTrend": "down",
-      "patTrend": "up",
-      "fundamentals": {
-        "roe": 13.69,
-        "ronw": 13.69,
-        "ebitdaMargin": 9.69,
-        "patMargin": 3.6,
-        "debtEquity": 0.8,
-        "eps": 4.65,
-        "pe": null,
-        "nav": 36.29
-      },
-      "issuePE": null,
-      "peers": [
-        {
-          "name": "Captain Pipes Limited",
-          "pe": 40.37
-        },
-        {
-          "name": "Texmo Pipes and Products Limited",
-          "pe": 15.69
-        },
-        {
-          "name": "Malpani Pipes and Fittings Limited",
-          "pe": 7.7
-        }
-      ],
-      "peerMedianPE": 15.69,
-      "promoterPostPct": null,
-      "freshCr": 31.2
-    },
-    {
       "name": "Bench Mark Infotech",
       "segment": "sme",
       "detailUrl": "https://ipowatch.in/bench-mark-infotech-services-ipo/",
       "slug": "bench-mark-infotech-services-ipo",
-      "gmp": 12,
-      "gmpText": "₹12",
+      "gmp": 16,
+      "gmpText": "₹16",
       "trend": "up",
       "priceBandUpper": 110,
       "priceBandText": "₹110",
-      "estListing": 122,
-      "estGainPct": 10.91,
+      "estListing": 126,
+      "estGainPct": 14.55,
       "dateText": "25-29 Sep",
       "status": "Open",
       "lastUpdated": "",
@@ -2114,13 +2264,13 @@
       "segment": "sme",
       "detailUrl": "https://ipowatch.in/roopa-screen-ipo/",
       "slug": "roopa-screen-ipo",
-      "gmp": 8,
-      "gmpText": "₹8",
-      "trend": "down",
+      "gmp": 0,
+      "gmpText": "₹0",
+      "trend": "flat",
       "priceBandUpper": 64,
       "priceBandText": "₹64",
-      "estListing": 72,
-      "estGainPct": 12.5,
+      "estListing": 64,
+      "estGainPct": 0,
       "dateText": "24-28 Sep",
       "status": "Open",
       "lastUpdated": "",
@@ -2184,7 +2334,7 @@
       "estListing": 78,
       "estGainPct": 0,
       "dateText": "23-25 Sep",
-      "status": "Open",
+      "status": "Closed",
       "lastUpdated": "",
       "about": "CoreIntegra Consulting Services, founded in 2009, is one of the leading companies that provide Human Resources (HR) services to businesses. The firm offers staffing, payroll outsourcing, labour law compliance, HR advisory, vendor management, and proprietary HR-Tech and RegTech technologies under one platform. Core Integra offers HR services to help businesses hire employees, manage payroll, and handle HR-related legal requirements to ensure businesses comply with regulatory requirements. The firm provides in-house, tech-driven solutions to let HR work faster and easier through its proprietary platforms CoreX and Core Pay under HR Tech, and Ctrl-F and Core-PFT under RegTech. Furthermore, the company has successfully delivered a wide range of services to more than 600 customers across more than 30 industries, spanning a presence in 23 states and 4 union territories, serving more than 1500 clients.",
       "financials": [
@@ -2250,7 +2400,7 @@
       "estListing": 88,
       "estGainPct": 0,
       "dateText": "23-25 Sep",
-      "status": "Open",
+      "status": "Closed",
       "lastUpdated": "",
       "about": "Unitec Fibres, founded in February 2005, is one of the leading manufacturers of Recycled Polyester Staple Fibre (RPSF). The firm makes sustainable polyester fibres from recycled PET flakes, PET chips, and other polyester waste. The company supplies RPSF to various industries such as automobiles, home furnishings, and textiles, where it is used in carpets, roof liners, trunks, sofas, curtains, and spinning applications. Unitec Fibers operates its 2 manufacturing facilities in Maharashtra and is planning to set up its third facility in Valsad, Gujarat. Moreover, the company follows strict quality standards and holds Global Recycled Standard (GRS) certifications to showcase its commitment to offering quality, sustainable, and recycled products.",
       "financials": [
@@ -2323,7 +2473,7 @@
       "estListing": 125,
       "estGainPct": 0,
       "dateText": "23-25 Sep",
-      "status": "Open",
+      "status": "Closed",
       "lastUpdated": "",
       "about": "Q-Line Biotech Ltd. (QBL) is engaged in the business of developing, manufacturing and marketing of diverse range of reagents (including kits and POC devices) & consumables and manufacturing, importing, distribution/supply of diagnostic equipment for different diagnostic healthcare needs. The company supplies diagnostic equipment and IVD products for different diagnostic healthcare needs since 2013 directly or through its distributor/s majorly to diagnostic service providers, hospitals and medical colleges. The company has established its brands over a period of 12 years through its experience, R & D, manufacturing capabilities and quality assurance. The core segments of operations of the Company in IVD Industry include Clinical Chemistry, Haematology, Immunodiagnostics, Molecular Diagnostics and Others (POC Devices & Rapids). QBL’s key manufacturing segments include indigenous manufacturing of reagents including Clinical Chemistry, Haematology, Immunodiagnostics, Molecular Diagnostics and Others (POC Devices & Rapids) and supplying/ manufacturing of in-vitro diagnostics (IVD), Pathology equipment’s & devices. Further during the Covid-19 pandemic, the company diversified its focus…",
       "financials": [
@@ -2404,15 +2554,15 @@
       "segment": "sme",
       "detailUrl": "https://ipowatch.in/liqvd-digital-ipo/",
       "slug": "liqvd-digital-ipo",
-      "gmp": 3,
-      "gmpText": "₹3",
-      "trend": "up",
+      "gmp": 0,
+      "gmpText": "₹0",
+      "trend": "flat",
       "priceBandUpper": 54,
       "priceBandText": "₹54",
-      "estListing": 57,
-      "estGainPct": 5.56,
+      "estListing": 54,
+      "estGainPct": 0,
       "dateText": "23-25 Sep",
-      "status": "Open",
+      "status": "Closed",
       "lastUpdated": "",
       "about": "Liqvd Digital is one of the leading companies in terms of digital marketing, helping brands build their online presence and drive business growth. Further, their services include social media, media buying, SEO, content creation, influencer campaigns, and website/app development. The agency serves clients of all sizes, from direct-to-consumer startups to large enterprises across industries like FMCG, IT, finance, and healthcare. Headquartered in India with offices in Mumbai and Gurgaon and a Mumbai content studio, they also maintain a US presence through a partnership with AdLift Inc. Further, the key strength is End-to-end digital marketing capabilities, an experienced management team, a diversified client base, and many more.",
       "financials": [
@@ -2486,7 +2636,7 @@
       "estListing": 115,
       "estGainPct": 0,
       "dateText": "23-25 Sep",
-      "status": "Open",
+      "status": "Closed",
       "lastUpdated": "",
       "about": "Founded in 2011, Pooja Logistics is a temperature-controlled logistics service provider for perishable goods, operating refrigerated trucks across India. The firm helps businesses safely transport perishable goods, such as confectionery and bakery products, Dairy Products, QSR items, pharmaceuticals and healthcare products, and e-commerce and retail products, to other locations using its temperature-controlled logistics. Its cold-chain logistics services serve a diverse range of industries. As of March 2026, the firm is equipped with over 424 in-house GPS-enabled vehicles for the transportation of temperature-sensitive goods. Pooja Logistics is known for transporting temperature-sensitive products while maintaining operational systems follows required laws and regulations.",
       "financials": [
@@ -2750,13 +2900,13 @@
       "segment": "sme",
       "detailUrl": "https://ipowatch.in/robokidz-eduventures-ipo/",
       "slug": "robokidz-eduventures-ipo",
-      "gmp": 70,
-      "gmpText": "₹70",
+      "gmp": 77,
+      "gmpText": "₹77",
       "trend": "up",
       "priceBandUpper": 106,
       "priceBandText": "₹106",
-      "estListing": 176,
-      "estGainPct": 66.04,
+      "estListing": 183,
+      "estGainPct": 72.64,
       "dateText": "21-23 Sep",
       "status": "Closed",
       "lastUpdated": "",
@@ -2805,13 +2955,13 @@
       "segment": "sme",
       "detailUrl": "https://ipowatch.in/fx-multitech-ipo/",
       "slug": "fx-multitech-ipo",
-      "gmp": 4,
-      "gmpText": "₹4",
+      "gmp": 6,
+      "gmpText": "₹6",
       "trend": "up",
       "priceBandUpper": 116,
       "priceBandText": "₹116",
-      "estListing": 120,
-      "estGainPct": 3.45,
+      "estListing": 126,
+      "estGainPct": 5.17,
       "dateText": "21-23 Sep",
       "status": "Closed",
       "lastUpdated": "",
@@ -2854,72 +3004,6 @@
       "issuePE": null,
       "promoterPostPct": 72.84,
       "freshCr": 41.2
-    },
-    {
-      "name": "Axiom Gas Engineering",
-      "segment": "sme",
-      "detailUrl": "https://ipowatch.in/axiom-gas-engineering-ipo-details/",
-      "slug": "axiom-gas-engineering-ipo-details",
-      "gmp": 0,
-      "gmpText": "₹0",
-      "trend": "flat",
-      "priceBandUpper": 53,
-      "priceBandText": "₹53",
-      "estListing": 53,
-      "estGainPct": 0,
-      "dateText": "18-22 Sep",
-      "status": "Closed",
-      "lastUpdated": "",
-      "about": "Axiom Gas Engineering, founded in 2007, is one of the leading green energy engineering solutions providers. The firm offers Auto LPG, CNG, and LNG solutions to retail and industrial sectors. The company provides various services: Gas and Pipe Engineering, Turnkey Services, Technical Consultancy, Maintenance, Operation, Training, and Manufacturing Pressure Vessels. The company operates 20+ Auto LPG Dispensing Stations (ALDS) under the name “PRIMEFUEL” across multiple states in India, including Telangana, Karnataka, and Maharashtra.",
-      "financials": [
-        {
-          "period": "2024",
-          "revenue": 74.54,
-          "expense": 66.85,
-          "pat": 5.74,
-          "assets": 52.37
-        },
-        {
-          "period": "2025",
-          "revenue": 89.85,
-          "expense": 79.49,
-          "pat": 7.75,
-          "assets": 60.83
-        },
-        {
-          "period": "2026",
-          "revenue": 100.78,
-          "expense": 88.13,
-          "pat": 9.45,
-          "assets": 69.38
-        }
-      ],
-      "revenueTrend": "up",
-      "patTrend": "up",
-      "fundamentals": {
-        "roe": 28.4,
-        "ronw": 28.4,
-        "ebitdaMargin": 15.36,
-        "patMargin": 9.38,
-        "debtEquity": 0.48,
-        "eps": 3.64,
-        "pe": null,
-        "nav": 12.83
-      },
-      "issuePE": null,
-      "peers": [
-        {
-          "name": "Confidence Petroleum India Limited",
-          "pe": 26.7
-        },
-        {
-          "name": "Aegis Logistics Limited",
-          "pe": 52.81
-        }
-      ],
-      "peerMedianPE": 39.76,
-      "promoterPostPct": 72.15,
-      "freshCr": 50.75
     }
   ]
 }
