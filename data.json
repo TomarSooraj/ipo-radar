@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T17:49:20.379Z",
+  "generatedAt": "2026-09-28T20:09:27.414Z",
   "source": "https://ipowatch.in/ipo-grey-market-premium-latest-ipo-gmp/",
   "disclaimer": "GMP (Grey Market Premium) is an unofficial, speculative indicator from the unregulated grey market and can change daily. Nothing here is investment advice.",
   "trackRecord": {
@@ -86,13 +86,13 @@
       "segment": "mainboard",
       "detailUrl": "https://ipowatch.in/nityas-gems-jewellery-ipo/",
       "slug": "nityas-gems-jewellery-ipo",
-      "gmp": 0,
-      "gmpText": "₹0",
-      "trend": "flat",
+      "gmp": 5,
+      "gmpText": "₹5",
+      "trend": "up",
       "priceBandUpper": 75,
       "priceBandText": "₹75",
-      "estListing": 75,
-      "estGainPct": 0,
+      "estListing": 80,
+      "estGainPct": 6.67,
       "dateText": "30-5 Oct",
       "status": "Upcoming",
       "lastUpdated": "",
@@ -163,15 +163,15 @@
       "segment": "mainboard",
       "detailUrl": "https://ipowatch.in/srit-india-ipo/",
       "slug": "srit-india-ipo",
-      "gmp": 32,
-      "gmpText": "₹32",
+      "gmp": 30,
+      "gmpText": "₹30",
       "trend": "up",
       "priceBandUpper": 130,
       "priceBandText": "₹130",
-      "estListing": 162,
-      "estGainPct": 24.62,
+      "estListing": 160,
+      "estGainPct": 23.07,
       "dateText": "28-30 Sep",
-      "status": "Upcoming",
+      "status": "Open",
       "lastUpdated": "",
       "about": "SRIT India, founded in September 1999, is an IT and IT-enabled Services (IT/ITeS) solutions firm that offers digital solutions, custom application development, and system integration services. The firm has over 26 years of experience in designing, implementing, and operating digital platforms for government entities and organizations in India as well as international markets. The service offering includes healthcare information systems, digital health platforms, e-governance solutions, cybersecurity, enterprise software, networking, connectivity, fibre optic infrastructure, system integration, automation, and managed services. In the last 10 years, SRIT India has executed more than 103 projects for government and enterprise customers. Its projects consist of healthcare platforms, nationwide banking connectivity, state-wide fibre networks, AI-driven traffic management, and power transformer monitoring solutions.",
       "financials": [
@@ -249,7 +249,7 @@
       "estListing": 179,
       "estGainPct": 7.19,
       "dateText": "28-30 Sep",
-      "status": "Upcoming",
+      "status": "Open",
       "lastUpdated": "",
       "about": "Shah Investor’s Home Ltd is one of the leading retail brokering companies in providing equity brokerage services and derivatives brokerage services. Further, the company provides services that help people buy and sell financial products like stocks, IPOs, mutual funds, and other securities. It has around 100,000 demat accounts, including more than 37,810 active clients, and works with over 184 authorised partners, as of March 31, 2025. The company operates through 11 branches across India, including in Mumbai, Ahmedabad, Vadodara, Junagadh, Gandhinagar, and Rajkot. Financially, Shah Investor’s Home Ltd.’s revenue grew by 19%, and its profit after tax increased by 30% from March 31, 2024, to March 31, 2025.",
       "financials": [
@@ -380,13 +380,13 @@
       "segment": "mainboard",
       "detailUrl": "https://ipowatch.in/german-green-steel-ipo/",
       "slug": "german-green-steel-ipo",
-      "gmp": 28,
-      "gmpText": "₹28",
+      "gmp": 29,
+      "gmpText": "₹29",
       "trend": "up",
       "priceBandUpper": 139,
       "priceBandText": "₹139",
-      "estListing": 167,
-      "estGainPct": 20.14,
+      "estListing": 168,
+      "estGainPct": 20.86,
       "dateText": "25-29 Sep",
       "status": "Open",
       "lastUpdated": "",
@@ -458,13 +458,13 @@
       "segment": "mainboard",
       "detailUrl": "https://ipowatch.in/runwal-enterprises-ipo/",
       "slug": "runwal-enterprises-ipo",
-      "gmp": 30,
-      "gmpText": "₹30",
-      "trend": "up",
+      "gmp": 10,
+      "gmpText": "₹10",
+      "trend": "down",
       "priceBandUpper": 305,
       "priceBandText": "₹305",
-      "estListing": 335,
-      "estGainPct": 9.84,
+      "estListing": 315,
+      "estGainPct": 3.28,
       "dateText": "25-29 Sep",
       "status": "Open",
       "lastUpdated": "",
@@ -726,13 +726,13 @@
       "segment": "mainboard",
       "detailUrl": "https://ipowatch.in/a-one-steels-ipo/",
       "slug": "a-one-steels-ipo",
-      "gmp": 51,
-      "gmpText": "₹51",
+      "gmp": 40,
+      "gmpText": "₹40",
       "trend": "down",
       "priceBandUpper": 405,
       "priceBandText": "₹405",
-      "estListing": 456,
-      "estGainPct": 12.59,
+      "estListing": 445,
+      "estGainPct": 9.88,
       "dateText": "24-28 Sep",
       "status": "Open",
       "lastUpdated": "",
@@ -796,13 +796,13 @@
       "segment": "mainboard",
       "detailUrl": "https://ipowatch.in/adroit-industries-ipo/",
       "slug": "adroit-industries-ipo",
-      "gmp": 47,
-      "gmpText": "₹47",
+      "gmp": 58,
+      "gmpText": "₹58",
       "trend": "up",
       "priceBandUpper": 134,
       "priceBandText": "₹134",
-      "estListing": 181,
-      "estGainPct": 35.07,
+      "estListing": 192,
+      "estGainPct": 43.28,
       "dateText": "23-25 Sep",
       "status": "Closed",
       "lastUpdated": "",
@@ -868,7 +868,7 @@
       "slug": "swastika-infra-ipo",
       "gmp": 5,
       "gmpText": "₹5",
-      "trend": "up",
+      "trend": "down",
       "priceBandUpper": 185,
       "priceBandText": "₹185",
       "estListing": 190,
@@ -932,13 +932,13 @@
       "segment": "mainboard",
       "detailUrl": "https://ipowatch.in/elevate-campuses-ipo/",
       "slug": "elevate-campuses-ipo",
-      "gmp": 4,
-      "gmpText": "₹4",
+      "gmp": 10,
+      "gmpText": "₹10",
       "trend": "down",
       "priceBandUpper": 362,
       "priceBandText": "₹362",
-      "estListing": 366,
-      "estGainPct": 1.1,
+      "estListing": 372,
+      "estGainPct": 2.76,
       "dateText": "23-25 Sep",
       "status": "Closed",
       "lastUpdated": "",
@@ -987,13 +987,13 @@
       "segment": "mainboard",
       "detailUrl": "https://ipowatch.in/armee-infotech-ipo/",
       "slug": "armee-infotech-ipo",
-      "gmp": 8,
-      "gmpText": "₹8",
-      "trend": "up",
+      "gmp": 5,
+      "gmpText": "₹5",
+      "trend": "down",
       "priceBandUpper": 375,
       "priceBandText": "₹375",
-      "estListing": 383,
-      "estGainPct": 2.13,
+      "estListing": 380,
+      "estGainPct": 1.33,
       "dateText": "23-25 Sep",
       "status": "Closed",
       "lastUpdated": "",
@@ -1131,6 +1131,127 @@
       "freshCr": 320
     },
     {
+      "name": "TNA Solutions",
+      "segment": "sme",
+      "detailUrl": "https://ipowatch.in/tna-solutions-ipo/",
+      "slug": "tna-solutions-ipo",
+      "gmp": 5,
+      "gmpText": "₹5",
+      "trend": "up",
+      "priceBandUpper": 70,
+      "priceBandText": "₹70",
+      "estListing": 75,
+      "estGainPct": 7.14,
+      "dateText": "30-6 Oct",
+      "status": "Upcoming",
+      "lastUpdated": "",
+      "about": "TNA Solutions, founded in September 2021, has been involved in the manufacturing of home textile products for domestic and international clients. Its product portfolio includes a wide range of home textile products such as sheet sets, pillow shells and covers, towels, and top-of-bed products such as comforters, quilts, dohars, and mattress protectors. The firm supplies its products to e-commerce marketplaces, wholesalers, and retailers, and has its own brand, “Ambra Linens”, launched in 2022. The firm handles the entire production of home textile products, from buying greige fabric from weavers to ready- or partly processed fabric. Third parties handle processes such as weaving, dyeing, and printing, while TNA Solutions carries out cutting, stitching, embroidery, finishing, quality assurance, packaging, and dispatch at its Indore facility.",
+      "financials": [
+        {
+          "period": "2024",
+          "revenue": 36.32,
+          "expense": 32.18,
+          "pat": 2.69,
+          "assets": 24.33
+        },
+        {
+          "period": "2025",
+          "revenue": 84.13,
+          "expense": 74.75,
+          "pat": 6.66,
+          "assets": 57.47
+        },
+        {
+          "period": "2026",
+          "revenue": 110.45,
+          "expense": 97.56,
+          "pat": 9.58,
+          "assets": 94.21
+        }
+      ],
+      "revenueTrend": "up",
+      "patTrend": "up",
+      "fundamentals": {
+        "roe": 32.6,
+        "ronw": 32.6,
+        "ebitdaMargin": 12.12,
+        "patMargin": null,
+        "debtEquity": null,
+        "eps": 6.41,
+        "pe": null,
+        "nav": 119.8
+      },
+      "issuePE": null,
+      "peers": [
+        {
+          "name": "VTM Limited",
+          "pe": 41.84
+        },
+        {
+          "name": "Faze Three Limited",
+          "pe": 37.35
+        }
+      ],
+      "peerMedianPE": 39.59,
+      "promoterPostPct": 46.56,
+      "freshCr": 37.86
+    },
+    {
+      "name": "Acme India Industries",
+      "segment": "sme",
+      "detailUrl": "https://ipowatch.in/acme-india-industries-ipo/",
+      "slug": "acme-india-industries-ipo",
+      "gmp": 30,
+      "gmpText": "₹30",
+      "trend": "up",
+      "priceBandUpper": 196,
+      "priceBandText": "₹196",
+      "estListing": 226,
+      "estGainPct": 15.31,
+      "dateText": "30-6 Oct",
+      "status": "Upcoming",
+      "lastUpdated": "",
+      "about": "Founded in December 2021, Acme India Industries has been involved in the Indian railway rolling stock sector, and it designs, manufactures, supplies, installs, and provides warranty maintenance for railway coach interiors and components. The firm offers end-to-end furnishing solutions for new railway coaches, refurbishment, upgradation and conversion of old coaches, and modernization of toilet facilities. Its product range includes Braille signage, FRP products, sanitary ware, epoxy flooring, decorative glass FRP, toilet and compartment doors, seats and berths, fire barrier coatings, and hygiene-related products for indian railway. Since 2017, Acme India Industries has completed 28 turnkey projects, including 1,610 coaches, while it has refurbished and upgraded 1,888 coaches and completed 10,948 toilet upgrades as of June 30, 2026. Moreover, the firm operates across 16 railway zones and has 3 production units and 2 mid-life rehabilitation units.",
+      "financials": [
+        {
+          "period": "2024",
+          "revenue": 215.02,
+          "expense": 189.08,
+          "pat": 19.21,
+          "assets": 217.6
+        },
+        {
+          "period": "2025",
+          "revenue": 213.45,
+          "expense": 189.32,
+          "pat": 16.46,
+          "assets": 272.45
+        },
+        {
+          "period": "2026",
+          "revenue": 267.89,
+          "expense": 234.67,
+          "pat": 24.36,
+          "assets": 382.79
+        }
+      ],
+      "revenueTrend": "up",
+      "patTrend": "up",
+      "fundamentals": {
+        "roe": 23.52,
+        "ronw": 23.52,
+        "ebitdaMargin": 15.1,
+        "patMargin": 9.24,
+        "debtEquity": 0.82,
+        "eps": 14.1,
+        "pe": null,
+        "nav": 59.94
+      },
+      "issuePE": null,
+      "promoterPostPct": 64.46,
+      "freshCr": 105.98
+    },
+    {
       "name": "Paramount Syntex",
       "segment": "sme",
       "detailUrl": "https://ipowatch.in/paramount-syntex-ipo/",
@@ -1145,7 +1266,7 @@
       "dateText": "30-6 Oct",
       "status": "Upcoming",
       "lastUpdated": "",
-      "about": "To be updated soon",
+      "about": "Paramount Syntex, founded in 1996, is one of the leading manufacturers of synthetic fibres, dyed fibres, and various other types of yarns such as acrylic, polyester, wool, nylon, and blended yarns. The firm handles the entire production process in-house, from fibre processing, tow dyeing, hank dyeing, spinning, bulking, and packing facilities, backed by an in-house research and quality control team. Moreover, Paramount Syntex also manufactures recycled acrylic fibre from waste materials to ensure sustainable operations. Over time, the company has established a strong presence in the textile and apparel industry by supplying high-quality yarns to a wide range of customers in India. Moreover, its manufacturing facilities are situated at Village Mangarh, Machiwara Road, Kohara, Ludhiana, Punjab, with a combined area of approximately 7,268.73 sq. yards.",
       "financials": [
         {
           "period": "2024",
@@ -1201,77 +1322,59 @@
       "freshCr": 82
     },
     {
-      "name": "Dove Soft",
+      "name": "Sollfege Smart Electronics",
       "segment": "sme",
-      "detailUrl": "https://ipowatch.in/dove-soft-ipo/",
-      "slug": "dove-soft-ipo",
+      "detailUrl": "https://ipowatch.in/sollfege-smart-electronics-ipo/",
+      "slug": "sollfege-smart-electronics-ipo",
       "gmp": 0,
       "gmpText": "₹0",
       "trend": "flat",
-      "priceBandUpper": 111,
-      "priceBandText": "₹111",
-      "estListing": 111,
+      "priceBandUpper": 55,
+      "priceBandText": "₹55",
+      "estListing": 55,
       "estGainPct": 0,
       "dateText": "30-5 Oct",
       "status": "Upcoming",
       "lastUpdated": "",
-      "about": "Incorporated in August 2011, Dove Soft Limited provides cloud-based communication solutions that help businesses connect with customers through channels such as SMS, RCS, Voice, WhatsApp, Email, and other digital platforms. The company offers services including SMS solutions, WhatsApp messaging, voice communication, IVR, automated calling, email services, and digital products to enterprises and OTT platforms. Dove Soft serves clients across multiple sectors, including telecom, IT, travel, entertainment, media, advertising, retail, real estate, healthcare, BFSI, automobile, e-commerce, and food & beverage. Its solutions help businesses improve customer communication and simplify their operational processes.",
+      "about": "Founded in 2012, Sollfege Smart Electronics provides premium technology solutions such as audio, video, home automation, smart living, lifestyle electronics, and wellness solutions to make your home/buildings smarter and more luxurious. Over the years, the company has transformed from a traditional audio-video distributor into a provider of a wide range of technology solutions. Its product portfolio includes home theatre systems, audio solutions, video solutions, smart home automation, lighting control, climate control, lifestyle electronics, and connected living solutions. Moreover, Sollfege also gives its customers a real-life experience of its products before they purchase them. The company maintains a strong relationship with globally recognized brands, national distributors, architects, interior designers, builders, and project partners to strengthen its market presence.",
       "financials": [
         {
-          "period": "2023",
-          "revenue": 73.77,
-          "expense": 67.3,
-          "pat": 4.82,
-          "assets": 46.51
-        },
-        {
           "period": "2024",
-          "revenue": 119.79,
-          "expense": 106.06,
-          "pat": 10.27,
-          "assets": 85.56
+          "revenue": 19.84,
+          "expense": 17.23,
+          "pat": 1.76,
+          "assets": 12.3
         },
         {
           "period": "2025",
-          "revenue": 188.26,
-          "expense": 166.07,
-          "pat": 16.54,
-          "assets": 108.99
+          "revenue": 21.28,
+          "expense": 18.41,
+          "pat": 2.13,
+          "assets": 24.83
         },
         {
-          "period": "2026",
-          "revenue": 274.74,
-          "expense": 244.51,
-          "pat": 23.4,
-          "assets": 164.4
+          "period": "Oct 2025",
+          "revenue": 10.76,
+          "expense": 9.33,
+          "pat": 1.05,
+          "assets": 31.71
         }
       ],
-      "revenueTrend": "up",
-      "patTrend": "up",
+      "revenueTrend": "down",
+      "patTrend": "down",
       "fundamentals": {
-        "roe": 29.89,
-        "ronw": 29.79,
-        "ebitdaMargin": 11.96,
-        "patMargin": 8.54,
-        "debtEquity": 0.1,
-        "eps": 12.01,
-        "pe": null,
-        "nav": 47.43
+        "roe": null,
+        "ronw": 22.56,
+        "ebitdaMargin": null,
+        "patMargin": null,
+        "debtEquity": null,
+        "eps": 3.52,
+        "pe": 15.62,
+        "nav": 15.61
       },
-      "issuePE": null,
-      "peers": [
-        {
-          "name": "Route Mobile Ltd",
-          "pe": 13.21
-        },
-        {
-          "name": "Tanla Platforms Ltd",
-          "pe": 13.58
-        }
-      ],
-      "peerMedianPE": 13.39,
-      "promoterPostPct": 52.86,
-      "freshCr": 59.14
+      "issuePE": 15.62,
+      "promoterPostPct": null,
+      "freshCr": 21.78
     },
     {
       "name": "Omara Ventures",
@@ -1348,17 +1451,212 @@
       "freshCr": 42
     },
     {
+      "name": "SJP Ultrasonics",
+      "segment": "sme",
+      "detailUrl": "https://ipowatch.in/sjp-ultrasonic-ipo/",
+      "slug": "sjp-ultrasonic-ipo",
+      "gmp": 0,
+      "gmpText": "₹0",
+      "trend": "flat",
+      "priceBandUpper": 67,
+      "priceBandText": "₹67",
+      "estListing": 67,
+      "estGainPct": 0,
+      "dateText": "30-5 Oct",
+      "status": "Upcoming",
+      "lastUpdated": "",
+      "about": "Since its setup in 2012, SJP Ultrasonics has been involved in providing a complete plastic joining and automation solution. Its product range includes Plastic joining solutions, industrial automation, and Laser technology solutions for the automotive industry and industries related to Medical, Electrical, Electronics, Textile, FMCG, Toys, Gift & Stationery, Food & Packaging, defence, and educational institutes. The firm operates its business in a B2B model where they sell products and services mainly to manufacturers involved in various industries. Moreover, its manufacturing facility is located in Maharashtra, India, which they are planning to enhance by purchasing Milling Machines, CNC Lathe Machine, Compressor, CNC Bandsaw Machine, Overhead Crane, 6 Axis Robot, Co2 Laser Cutting Unit, Computers, NX Softwares, Solid Works Software, Diesel Generator, CMM Machine, Vibration Welders, Laser Plastic Welder to improve production.",
+      "financials": [
+        {
+          "period": "2024",
+          "revenue": 15.22,
+          "expense": 10.48,
+          "pat": 3.4,
+          "assets": 16.97
+        },
+        {
+          "period": "2025",
+          "revenue": 21.15,
+          "expense": 15.65,
+          "pat": 4.17,
+          "assets": 27.06
+        },
+        {
+          "period": "2026",
+          "revenue": 26.63,
+          "expense": 19.58,
+          "pat": 5.24,
+          "assets": 35.2
+        }
+      ],
+      "revenueTrend": "up",
+      "patTrend": "up",
+      "fundamentals": {
+        "roe": 30.01,
+        "ronw": 26.1,
+        "ebitdaMargin": 31.02,
+        "patMargin": 19.74,
+        "debtEquity": 0.64,
+        "eps": 5.55,
+        "pe": 12.07,
+        "nav": 21.28
+      },
+      "issuePE": 12.07,
+      "peers": [],
+      "promoterPostPct": 58,
+      "freshCr": 23.45
+    },
+    {
+      "name": "Eventions",
+      "segment": "sme",
+      "detailUrl": "https://ipowatch.in/eventions-ipo/",
+      "slug": "eventions-ipo",
+      "gmp": 0,
+      "gmpText": "₹0",
+      "trend": "flat",
+      "priceBandUpper": 118,
+      "priceBandText": "₹118",
+      "estListing": 118,
+      "estGainPct": 0,
+      "dateText": "30-5 Oct",
+      "status": "Upcoming",
+      "lastUpdated": "",
+      "about": "Founded in December 2020, Eventions has been involved in the Meetings, Incentives, Conferences, and Exhibitions (“MICE”) and event management segment. The firm offers services for planning, coordination, and execution of corporate events, conferences, and related activities, serving corporate and institutional clients. The firm provides a wide range of services, including MICE services, corporate events, conferences, incentive travel programs, virtual events, Free Independent Travel (“FIT”) services, and brand and marketing activations. Eventions follows an asset-light model and partners with hospitality providers, destination management companies, logistics partners, and event production vendors to execute tasks and events across different locations. Moreover, so far, the firm has executed events in India and international destinations in Europe, the Middle East, and Asia-Pacific, including Spain, France, the Netherlands, Switzerland, Hungary, the UAE, Azerbaijan, Singapore, and Indonesia.",
+      "financials": [
+        {
+          "period": "2024",
+          "revenue": 87.29,
+          "expense": 82.86,
+          "pat": 3.29,
+          "assets": 29
+        },
+        {
+          "period": "2025",
+          "revenue": 88.02,
+          "expense": 81,
+          "pat": 5.13,
+          "assets": 23.77
+        },
+        {
+          "period": "2026",
+          "revenue": 100.62,
+          "expense": 90.4,
+          "pat": 7.72,
+          "assets": 50.63
+        }
+      ],
+      "revenueTrend": "up",
+      "patTrend": "up",
+      "fundamentals": {
+        "roe": 52.07,
+        "ronw": 55.16,
+        "ebitdaMargin": 10.22,
+        "patMargin": 7.67,
+        "debtEquity": null,
+        "eps": 8.9,
+        "pe": null,
+        "nav": 20.92
+      },
+      "issuePE": null,
+      "peers": [
+        {
+          "name": "Mach Conferences & Events Limited",
+          "pe": 22.44
+        },
+        {
+          "name": "E-Factor Experiences Limited",
+          "pe": 10.98
+        }
+      ],
+      "peerMedianPE": 16.71,
+      "promoterPostPct": 73.46,
+      "freshCr": 38.12
+    },
+    {
+      "name": "Dove Soft",
+      "segment": "sme",
+      "detailUrl": "https://ipowatch.in/dove-soft-ipo/",
+      "slug": "dove-soft-ipo",
+      "gmp": 0,
+      "gmpText": "₹0",
+      "trend": "flat",
+      "priceBandUpper": 111,
+      "priceBandText": "₹111",
+      "estListing": 111,
+      "estGainPct": 0,
+      "dateText": "30-5 Oct",
+      "status": "Upcoming",
+      "lastUpdated": "",
+      "about": "Incorporated in August 2011, Dove Soft Limited provides cloud-based communication solutions that help businesses connect with customers through channels such as SMS, RCS, Voice, WhatsApp, Email, and other digital platforms. The company offers services including SMS solutions, WhatsApp messaging, voice communication, IVR, automated calling, email services, and digital products to enterprises and OTT platforms. Dove Soft serves clients across multiple sectors, including telecom, IT, travel, entertainment, media, advertising, retail, real estate, healthcare, BFSI, automobile, e-commerce, and food & beverage. Its solutions help businesses improve customer communication and simplify their operational processes.",
+      "financials": [
+        {
+          "period": "2023",
+          "revenue": 73.77,
+          "expense": 67.3,
+          "pat": 4.82,
+          "assets": 46.51
+        },
+        {
+          "period": "2024",
+          "revenue": 119.79,
+          "expense": 106.06,
+          "pat": 10.27,
+          "assets": 85.56
+        },
+        {
+          "period": "2025",
+          "revenue": 188.26,
+          "expense": 166.07,
+          "pat": 16.54,
+          "assets": 108.99
+        },
+        {
+          "period": "2026",
+          "revenue": 274.74,
+          "expense": 244.51,
+          "pat": 23.4,
+          "assets": 164.4
+        }
+      ],
+      "revenueTrend": "up",
+      "patTrend": "up",
+      "fundamentals": {
+        "roe": 29.89,
+        "ronw": 29.79,
+        "ebitdaMargin": 11.96,
+        "patMargin": 8.54,
+        "debtEquity": 0.1,
+        "eps": 12.01,
+        "pe": null,
+        "nav": 47.43
+      },
+      "issuePE": null,
+      "peers": [
+        {
+          "name": "Route Mobile Ltd",
+          "pe": 13.21
+        },
+        {
+          "name": "Tanla Platforms Ltd",
+          "pe": 13.58
+        }
+      ],
+      "peerMedianPE": 13.39,
+      "promoterPostPct": 52.86,
+      "freshCr": 59.14
+    },
+    {
       "name": "EverestIMS Technologies",
       "segment": "sme",
       "detailUrl": "https://ipowatch.in/everestims-technologies-ipo/",
       "slug": "everestims-technologies-ipo",
-      "gmp": 0,
-      "gmpText": "₹0",
-      "trend": "flat",
+      "gmp": 20,
+      "gmpText": "₹20",
+      "trend": "up",
       "priceBandUpper": 85,
       "priceBandText": "₹85",
-      "estListing": 85,
-      "estGainPct": 0,
+      "estListing": 105,
+      "estGainPct": 23.53,
       "dateText": "29-5 Oct",
       "status": "Upcoming",
       "lastUpdated": "",
@@ -1470,13 +1768,13 @@
       "segment": "sme",
       "detailUrl": "https://ipowatch.in/vans-electroengineerings-ipo/",
       "slug": "vans-electroengineerings-ipo",
-      "gmp": 0,
-      "gmpText": "₹0",
-      "trend": "flat",
+      "gmp": 45,
+      "gmpText": "₹45",
+      "trend": "up",
       "priceBandUpper": 118,
       "priceBandText": "₹118",
-      "estListing": 118,
-      "estGainPct": 0,
+      "estListing": 163,
+      "estGainPct": 38.14,
       "dateText": "29-1 Oct",
       "status": "Upcoming",
       "lastUpdated": "",
@@ -1589,7 +1887,7 @@
       "estListing": 52,
       "estGainPct": 0,
       "dateText": "28-5 Oct",
-      "status": "Upcoming",
+      "status": "Open",
       "lastUpdated": "",
       "about": "Shree TNB Polymers, founded on March 7, 2007, is one of the leading polymer manufacturing firms, focusing on piping systems and plastic solutions. Its product range consists of HDPE pipes & fittings, PP (Polypropylene) and PPH (Polypropylene Homopolymer) pipes & fittings, Double Wall Corrugated (DWC) pipes, sprinkler pipes, drip irrigation systems, solid industrial sheets, and well pack sheets. Its products are mainly used in diverse critical applications such as irrigation and agriculture, potable water supply schemes, sewerage and drainage systems, telecom cable protection, construction, and industrial usage. Shree TNB Polymers operates 2 manufacturing facilities at Silvassa across 23,028 sq. mtrs, backed by in-house quality testing laboratories and BIS/ISO certifications.",
       "financials": [
@@ -1659,7 +1957,7 @@
       "estListing": 71,
       "estGainPct": 0,
       "dateText": "28-30 Sep",
-      "status": "Upcoming",
+      "status": "Open",
       "lastUpdated": "",
       "about": "Founded in November 2016, Acme Universal Safezone 9 operates in the Personal Protective Equipment (PPE) segment, manufacturing safety shoes and industrial footwear that protect workers from compression, penetration, electrical shock, static electricity, heat and fire, chemicals, and slipping. Its products cater to a wide range of industries, including construction, oil and gas, mining, heavy engineering, automotive, pharmaceuticals, chemical processing, foundry, and power generation. Acme Universal provides 15 different types of products across EVA rubber, nitrile rubber, and PVC sole types. The company operates its 4 manufacturing facilities in Madhya Pradesh and Uttar Pradesh. Moreover, it supplies its products through direct institutional sales, distributors and dealers, and e-commerce channels. Furthermore, the company also exports its products to the UAE, Bahrain, Saudi Arabia, Nigeria, Israel, the Netherlands, Hong Kong, Cameroon and Mauritius.",
       "financials": [
@@ -1729,7 +2027,7 @@
       "estListing": 99,
       "estGainPct": 0,
       "dateText": "28-30 Sep",
-      "status": "Upcoming",
+      "status": "Open",
       "lastUpdated": "",
       "about": "Pind Hospitality, founded on June 15, 2021, operates in the hospitality sector, mainly running hotels, restaurants, and delivery services. The firm is recognized as one of the established restaurant partners in Pune and has completed over 5 lakh food deliveries to customers through third-party food delivery apps. Since 2016, the company has run 6 restaurants in Pune, Maharashtra. It delivers to customers through its food delivery apps, its own mobile app, and online booking. The firm also provides outdoor catering services for special events and workplace canteens. Pind Hospitality mostly tries to attract upper-middle-class consumers by promoting fresh and affordable food items. Moreover, it uses media, including the internet, print, direct marketing, and social media, to expand brand visibility. Furthermore, the company purchases its raw materials from local vendors, including perishable items like dairy, vegetables, and meat.",
       "financials": [
@@ -1787,15 +2085,15 @@
       "segment": "sme",
       "detailUrl": "https://ipowatch.in/shivchem-agro-ipo/",
       "slug": "shivchem-agro-ipo",
-      "gmp": 0,
-      "gmpText": "₹0",
-      "trend": "flat",
+      "gmp": 6,
+      "gmpText": "₹6",
+      "trend": "up",
       "priceBandUpper": 62,
       "priceBandText": "₹62",
-      "estListing": 62,
-      "estGainPct": 0,
+      "estListing": 68,
+      "estGainPct": 9.68,
       "dateText": "28-30 Sep",
-      "status": "Upcoming",
+      "status": "Open",
       "lastUpdated": "",
       "about": "Set up in September 2021, Shivchem Agro is an agrochemical firm that manufactures, distributes, and sells agricultural formulations. Its product range includes insecticides, fungicides, herbicides, plant growth regulators, rodenticides, and fertilizers. As of today, the firm has made 176 agrochemical products, including 88 insecticides, 40 fungicides, 37 herbicides, 8 plant growth regulators, and 3 rodenticides. The company holds the license to sell and distribute products across 8 states in India, with 685 distributors in five godowns. Its manufacturing facility is situated in Jhajjar, which includes machinery for agrochemical production, an Effluent Treatment Plant, and a Wet Scrubber Unit for managing wastewater and air emissions. Moreover, Shivchem Agro distributes its products in 2 ways: first, by visiting farmers and showing them how to use the products, and second, by using distributors to distribute its products in different areas.",
       "financials": [
@@ -1926,13 +2224,13 @@
       "segment": "sme",
       "detailUrl": "https://ipowatch.in/bench-mark-infotech-services-ipo/",
       "slug": "bench-mark-infotech-services-ipo",
-      "gmp": 16,
-      "gmpText": "₹16",
+      "gmp": 18,
+      "gmpText": "₹18",
       "trend": "up",
       "priceBandUpper": 110,
       "priceBandText": "₹110",
-      "estListing": 126,
-      "estGainPct": 14.55,
+      "estListing": 128,
+      "estGainPct": 16.36,
       "dateText": "25-29 Sep",
       "status": "Open",
       "lastUpdated": "",
@@ -2264,13 +2562,13 @@
       "segment": "sme",
       "detailUrl": "https://ipowatch.in/roopa-screen-ipo/",
       "slug": "roopa-screen-ipo",
-      "gmp": 0,
-      "gmpText": "₹0",
-      "trend": "flat",
+      "gmp": 32,
+      "gmpText": "₹32",
+      "trend": "up",
       "priceBandUpper": 64,
       "priceBandText": "₹64",
-      "estListing": 64,
-      "estGainPct": 0,
+      "estListing": 96,
+      "estGainPct": 50,
       "dateText": "24-28 Sep",
       "status": "Open",
       "lastUpdated": "",
@@ -2828,182 +3126,6 @@
       "peerMedianPE": 63.69,
       "promoterPostPct": 68.13,
       "freshCr": 26.5
-    },
-    {
-      "name": "Vivekanand Cotspin",
-      "segment": "sme",
-      "detailUrl": "https://ipowatch.in/vivekanand-cotspin-ipo/",
-      "slug": "vivekanand-cotspin-ipo",
-      "gmp": 0,
-      "gmpText": "₹0",
-      "trend": "flat",
-      "priceBandUpper": 37,
-      "priceBandText": "₹37",
-      "estListing": 37,
-      "estGainPct": 0,
-      "dateText": "21-23 Sep",
-      "status": "Closed",
-      "lastUpdated": "",
-      "about": "Incorporated in July 2015, Vivekanand Cotspin Limited is engaged in cotton processing and yarn manufacturing through cotton ginning, spinning, and trading activities. The company produces a range of products, including cotton bales, cotton seeds, and various types of yarn. Vivekanand Cotspin operates primarily in two segments: cotton ginning and cotton spinning. The company specialises in converting clean cotton fibres into quality yarn for domestic and international markets. Its product portfolio includes carded and combed cotton yarn, which is supplied to industries involved in fabric manufacturing. With modern spinning facilities and efficient machinery, the company focuses on maintaining quality standards while serving both Indian and export markets.",
-      "financials": [
-        {
-          "period": "2024",
-          "revenue": 358.02,
-          "expense": 352.77,
-          "pat": 3.35,
-          "assets": 84.83
-        },
-        {
-          "period": "2025",
-          "revenue": 290.94,
-          "expense": 287.55,
-          "pat": 4.07,
-          "assets": 87.53
-        },
-        {
-          "period": "2026",
-          "revenue": 409.32,
-          "expense": 404.19,
-          "pat": 3.69,
-          "assets": 84.85
-        }
-      ],
-      "revenueTrend": "up",
-      "patTrend": "up",
-      "fundamentals": {
-        "roe": 15.96,
-        "ronw": 15.96,
-        "ebitdaMargin": 3.7,
-        "patMargin": 0.9,
-        "debtEquity": 1.56,
-        "eps": 2.45,
-        "pe": null,
-        "nav": 17.81
-      },
-      "issuePE": null,
-      "peers": [
-        {
-          "name": "Deepak Spinners Limited",
-          "pe": 22.11
-        },
-        {
-          "name": "Lagnam Spintex Limited",
-          "pe": 9.52
-        }
-      ],
-      "peerMedianPE": 15.81,
-      "promoterPostPct": 71.43,
-      "freshCr": 24.05
-    },
-    {
-      "name": "Robokidz Eduventures",
-      "segment": "sme",
-      "detailUrl": "https://ipowatch.in/robokidz-eduventures-ipo/",
-      "slug": "robokidz-eduventures-ipo",
-      "gmp": 77,
-      "gmpText": "₹77",
-      "trend": "up",
-      "priceBandUpper": 106,
-      "priceBandText": "₹106",
-      "estListing": 183,
-      "estGainPct": 72.64,
-      "dateText": "21-23 Sep",
-      "status": "Closed",
-      "lastUpdated": "",
-      "about": "Founded in December 2014, Robokidz Eduventures is an education technology company that offers learning and skill development solutions for K-12 students in Robotics, Artificial Intelligence (AI), Coding, Electronics, and STEM (Science, Technology, Engineering, and Mathematics). The company offers complete educational laboratory setup solutions, including subscription-based learning programs, teacher training, digital learning platforms, educational kits, and technical support to schools, educational institutions, and government organizations across India. Robokidz Eduventures runs its business with models such as Educational Laboratory Setup Projects, subscription-based Young Engineers Garage (YEG) programs, STEM workshops, boot camps, and franchise-based Young Engineers Academy (YEA) activity centres. Furthermore, as of March 2026, the firm has hired 24 professionals across various management roles.",
-      "financials": [
-        {
-          "period": "2024 (Standalone)",
-          "revenue": 38.31,
-          "expense": 35.05,
-          "pat": 2.42,
-          "assets": 30.11
-        },
-        {
-          "period": "2025 (Standalone)",
-          "revenue": 59.16,
-          "expense": 52.44,
-          "pat": 4.98,
-          "assets": 34.16
-        },
-        {
-          "period": "2026 (Consolidated)",
-          "revenue": 93.72,
-          "expense": 80.08,
-          "pat": 10.06,
-          "assets": 95.22
-        }
-      ],
-      "revenueTrend": "up",
-      "patTrend": "up",
-      "fundamentals": {
-        "roe": 56.46,
-        "ronw": 48.66,
-        "ebitdaMargin": 17.77,
-        "patMargin": 10.79,
-        "debtEquity": 1.19,
-        "eps": 14.37,
-        "pe": null,
-        "nav": 35.74
-      },
-      "issuePE": null,
-      "promoterPostPct": 52.8,
-      "freshCr": 31.09
-    },
-    {
-      "name": "FX Multitech",
-      "segment": "sme",
-      "detailUrl": "https://ipowatch.in/fx-multitech-ipo/",
-      "slug": "fx-multitech-ipo",
-      "gmp": 6,
-      "gmpText": "₹6",
-      "trend": "up",
-      "priceBandUpper": 116,
-      "priceBandText": "₹116",
-      "estListing": 126,
-      "estGainPct": 5.17,
-      "dateText": "21-23 Sep",
-      "status": "Closed",
-      "lastUpdated": "",
-      "about": "Since its foundation in March 2008, FX Multitech has mainly sold and distributed various types of products used in HVAC (Heating, Ventilation, and Air Conditioning) and industrial refrigeration industries. The firm provides a wide range of engineering and refrigeration products, including compressors, refrigeration and air-conditioning controls, industrial refrigeration controls, variable frequency drives and automation products, specialized components and tools, heat exchangers, cold room evaporators, refrigerants and ancillary products. FX Multitech sources its products from various global suppliers and has a diversified distribution network with its headquarters in Ahmedabad, Gujarat, and warehouses in Hyderabad, Thane, Kolkata and Bangalore. Moreover, the firm is also exporting its products, trying to expand its presence in international markets.",
-      "financials": [
-        {
-          "period": "2024",
-          "revenue": 68.74,
-          "expense": 63.12,
-          "pat": 4.18,
-          "assets": 32.66
-        },
-        {
-          "period": "2025",
-          "revenue": 102.34,
-          "expense": 89.42,
-          "pat": 9.64,
-          "assets": 61.12
-        },
-        {
-          "period": "2026",
-          "revenue": 111.9,
-          "expense": 96.41,
-          "pat": 11.54,
-          "assets": 73.05
-        }
-      ],
-      "revenueTrend": "up",
-      "patTrend": "up",
-      "fundamentals": {
-        "roe": 37.63,
-        "ronw": 31.8,
-        "ebitdaMargin": 15.35,
-        "patMargin": 9.6,
-        "debtEquity": null,
-        "eps": 10.92,
-        "pe": null,
-        "nav": 35.22
-      },
-      "issuePE": null,
-      "promoterPostPct": 72.84,
-      "freshCr": 41.2
     }
   ]
 }
