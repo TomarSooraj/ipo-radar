@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T18:01:10.675Z",
+  "generatedAt": "2026-10-21T18:07:56.167Z",
   "source": "https://ipowatch.in/ipo-grey-market-premium-latest-ipo-gmp/",
   "disclaimer": "GMP (Grey Market Premium) is an unofficial, speculative indicator from the unregulated grey market and can change daily. Nothing here is investment advice.",
   "trackRecord": null,
@@ -7,27 +7,89 @@
     {
       "name": "SFC Environmental Technologies",
       "segment": "mainboard",
-      "detailUrl": "https://ipowatch.in/#",
-      "slug": null,
+      "detailUrl": "https://ipowatch.in/sfc-environmental-technologies-ipo-gmp-grey-market-premium/",
+      "slug": "sfc-environmental-technologies-ipo-gmp-grey-market-premium",
       "gmp": 0,
       "gmpText": "₹0",
       "trend": "flat",
-      "priceBandUpper": null,
-      "priceBandText": "₹-",
+      "priceBandUpper": 330,
+      "priceBandText": "₹330",
       "estListing": 0,
       "estGainPct": 0,
       "dateText": "27-29 Oct",
       "status": "Upcoming",
-      "lastUpdated": ""
+      "lastUpdated": "",
+      "about": "EAAA India Alternatives, founded on May 14, 2008, is an alternative investment management platform that manages investments in India’s real estate and private credit markets. It manages investment funds and offers alternative investment solutions to domestic and global institutional investors, high-net-worth individuals (“HNIs”), ultra-high-net-worth individuals (“UHNIs”), and family offices. Moreover, the firm operates in two investment areas: Real Assets and Private Credit. It also provides portfolio management services and other investment solutions. Its Real Assets division invests in infrastructure, commercial properties, energy transition projects, and other long-term investment opportunities. Its private credit offer financing solutions across performing credit, special situations, real estate credit and investment-grade credit. Moreover, its product portfolio includes 10 active Real Assets funds, including two Infrastructure Investment Trusts (“InvITs”), and 16 active Private Credit funds. As of June 30, 2026, EAAA India Alternatives has assets under management (“AUM”) of ₹95,344.88 crore.",
+      "financials": [
+        {
+          "period": "31 Mar 2024",
+          "revenue": 676.74,
+          "expense": 485.7,
+          "pat": 144.17,
+          "assets": 904.94
+        },
+        {
+          "period": "31 Mar 2025",
+          "revenue": 726.96,
+          "expense": 521.59,
+          "pat": 152.01,
+          "assets": 999.47
+        },
+        {
+          "period": "31 Mar 2026",
+          "revenue": 821.27,
+          "expense": 610.53,
+          "pat": 160.21,
+          "assets": 1323.43
+        },
+        {
+          "period": "30 Jun 2026",
+          "revenue": 137.9,
+          "expense": 135.96,
+          "pat": 1.48,
+          "assets": 1224.56
+        }
+      ],
+      "revenueTrend": "down",
+      "patTrend": "down",
+      "fundamentals": {
+        "roe": 21.55,
+        "ronw": 21.25,
+        "ebitdaMargin": 29.34,
+        "patMargin": 19.94,
+        "debtEquity": 0.24,
+        "eps": 16.52,
+        "pe": null,
+        "nav": 86.09
+      },
+      "issuePE": null,
+      "peers": [
+        {
+          "name": "Thermax Limited",
+          "pe": 58.13
+        },
+        {
+          "name": "Praj Industries Limited",
+          "pe": 34.57
+        },
+        {
+          "name": "Ion Exchange (India) Limited",
+          "pe": 24.61
+        }
+      ],
+      "peerMedianPE": 34.57,
+      "promoterPostPct": 41.18,
+      "freshCr": 150,
+      "ofsCr": 518
     },
     {
       "name": "BLS Polymers",
       "segment": "mainboard",
       "detailUrl": "https://ipowatch.in/bls-polymers-ipo-gmp-grey-market-premium/",
       "slug": "bls-polymers-ipo-gmp-grey-market-premium",
-      "gmp": 20,
-      "gmpText": "₹20",
-      "trend": "up",
+      "gmp": 30,
+      "gmpText": "₹30",
+      "trend": "flat",
       "priceBandUpper": 150,
       "priceBandText": "₹150",
       "estListing": 170,
@@ -100,33 +162,118 @@
     {
       "name": "EAAA India Alternatives",
       "segment": "mainboard",
-      "detailUrl": "https://ipowatch.in/#",
-      "slug": null,
+      "detailUrl": "https://ipowatch.in/eaaa-india-alternatives-ipo-gmp-today/",
+      "slug": "eaaa-india-alternatives-ipo-gmp-today",
       "gmp": 0,
       "gmpText": "₹0",
       "trend": "flat",
-      "priceBandUpper": null,
-      "priceBandText": "₹-",
+      "priceBandUpper": 1665,
+      "priceBandText": "₹1,665",
       "estListing": 0,
       "estGainPct": 0,
       "dateText": "26-28 Oct",
       "status": "Upcoming",
-      "lastUpdated": ""
+      "lastUpdated": "",
+      "about": "Founded in March 2005, SFC Environmental Technologies is a prominent environmental technology firm providing solutions for the design, engineering, manufacturing, supply, installation, and commissioning of wastewater treatment (“WWT”), wastewater recycling and reuse (“WRR”), and solid waste treatment (“SWT”). The firm uses its own C-tech technology and an advanced sequencing batch reactor (“SBR”) process to clean wastewater from sewage and industrial activities. The firm offers technology packages, equipment, automation systems, installation, commissioning, and related services for wastewater treatment. Moreover, so far, the firm has installed and started operating 728 wastewater treatment systems and helped treat around 17.51 billion litres of wastewater every day. From design and engineering to construction, equipment supply, commissioning, and operations and maintenance, SFC Environmental offers end-to-end solutions.",
+      "financials": [
+        {
+          "period": "2024",
+          "revenue": 584.25,
+          "expense": 371.56,
+          "pat": 175.16,
+          "assets": 1769.66
+        },
+        {
+          "period": "2025",
+          "revenue": 786.54,
+          "expense": 502.22,
+          "pat": 229.78,
+          "assets": 2085.07
+        },
+        {
+          "period": "2026",
+          "revenue": 963.76,
+          "expense": 615.24,
+          "pat": 265.2,
+          "assets": 2170.28
+        },
+        {
+          "period": "Jun 2026",
+          "revenue": 336.13,
+          "expense": 230.33,
+          "pat": 80.71,
+          "assets": 2101.84
+        }
+      ],
+      "revenueTrend": "down",
+      "patTrend": "down",
+      "fundamentals": {
+        "roe": 25.97,
+        "ronw": 25.97,
+        "ebitdaMargin": null,
+        "patMargin": 27.52,
+        "debtEquity": 0.41,
+        "eps": 41.26,
+        "pe": null,
+        "nav": 163.69
+      },
+      "issuePE": null,
+      "peers": [
+        {
+          "name": "360 One WAM Limited",
+          "pe": 35.67
+        },
+        {
+          "name": "Aditya Birla Sun Life AMC Limited",
+          "pe": 29.84
+        },
+        {
+          "name": "Anand Rathi Wealth Limited",
+          "pe": 90.69
+        },
+        {
+          "name": "HDFC Asset Management Company Limited",
+          "pe": 33.76
+        },
+        {
+          "name": "Gaja Alternative Asset Management Limited",
+          "pe": 16.47
+        },
+        {
+          "name": "Nippon Life India Asset Management Limited",
+          "pe": 43.99
+        },
+        {
+          "name": "Nuvama Wealth Management Limited",
+          "pe": 30.99
+        },
+        {
+          "name": "UTI Asset Management Company Limited",
+          "pe": 27.93
+        },
+        {
+          "name": "ICICI Prudential Asset Management Company Limited",
+          "pe": 45.95
+        }
+      ],
+      "peerMedianPE": 33.76,
+      "promoterPostPct": 83.88,
+      "ofsCr": 1200
     },
     {
       "name": "Jio Platforms",
       "segment": "mainboard",
       "detailUrl": "https://ipowatch.in/jio-platforms-ipo-gmp-grey-market-premium/",
       "slug": "jio-platforms-ipo-gmp-grey-market-premium",
-      "gmp": 260,
-      "gmpText": "₹260",
-      "trend": "flat",
+      "gmp": 255,
+      "gmpText": "₹255",
+      "trend": "down",
       "priceBandUpper": 1119,
       "priceBandText": "₹1,119",
-      "estListing": 1379,
-      "estGainPct": 23.24,
+      "estListing": 1374,
+      "estGainPct": 22.79,
       "dateText": "21-23 Oct",
-      "status": "Upcoming",
+      "status": "Open",
       "lastUpdated": "",
       "about": "Founded in 2019, Jio Platforms is a leading digital service provider and a subsidiary of Reliance Industries. MyJio, JioCinema, JioSaavn, and Reliance Jio Infocomm are some of the digital service applications offered by Jio Platforms. Over the years, Jio Platforms has served over 524 million people with its advanced connectivity and digital services. Its main aim is to offer affordable internet connectivity, digital entertainment, gaming, cloud storage, smart home solutions, and AI-enabled digital services to every household. Jio offers high-quality digital solutions at an affordable price point. Its ecosystem includes platforms such as MyJio, JioTV+, JioSaavn, JioGames, and JioAICloud. Moreover, the firm also offers services like enterprise connectivity, cloud solutions, IoT services, unified communications platforms, managed services, security solutions, and private 5G offerings serving enterprise customers, including banking, utilities, transportation, manufacturing, government, and information technology sectors.",
       "financials": [
@@ -191,15 +338,15 @@
       "segment": "mainboard",
       "detailUrl": "https://ipowatch.in/paras-healthcare-ipo-gmp-grey-market-premium/",
       "slug": "paras-healthcare-ipo-gmp-grey-market-premium",
-      "gmp": 50,
-      "gmpText": "₹50",
+      "gmp": 40,
+      "gmpText": "₹40",
       "trend": "down",
       "priceBandUpper": 693,
       "priceBandText": "₹693",
-      "estListing": 743,
-      "estGainPct": 7.22,
+      "estListing": 733,
+      "estGainPct": 5.77,
       "dateText": "21-23 Oct",
-      "status": "Upcoming",
+      "status": "Open",
       "lastUpdated": "",
       "about": "Paras Healthcare Limited, founded in 1987, is the fifth-largest healthcare provider across North India, Bihar, and Jharkhand. As of now, the company runs 8 hospitals under the Paras Health brand in North India, including Gurugram, Haryana, Patna, Bihar, Uttar Pradesh, Udaipur, Rajasthan, Jharkhand, and Jammu and Kashmir. The main goal of the company is to offer high-quality and affordable healthcare in tier 2 and tier 3 cities. Heart care, cancer treatment, brain and nerve care, digestive health, and bone and joint replacement are the variety of medical services the company offers. Paras Healthcare has established its presence among customers by having 18 years of experience in the healthcare industry. In March 2022, the company had a bed capacity of 1250 beds, which expanded to 2135 in March 2024. Moreover, the company consists of a dedicated team of 1091 doctors and 1509 nurses throughout its hospitals as of March 31, 2024.",
       "financials": [
@@ -292,15 +439,15 @@
       "segment": "mainboard",
       "detailUrl": "https://ipowatch.in/bonfiglioli-transmissions-ipo-gmp-today/",
       "slug": "bonfiglioli-transmissions-ipo-gmp-today",
-      "gmp": 130,
-      "gmpText": "₹130",
-      "trend": "flat",
+      "gmp": 137,
+      "gmpText": "₹137",
+      "trend": "up",
       "priceBandUpper": 586,
       "priceBandText": "₹586",
-      "estListing": 716,
-      "estGainPct": 22.18,
+      "estListing": 721,
+      "estGainPct": 23.38,
       "dateText": "15-19 Oct",
-      "status": "Open",
+      "status": "Closed",
       "lastUpdated": "",
       "about": "Bonfiglioli Transmissions is one of the leading Indian companies providing mechanical and electro-mechanical power transmission solutions. The company makes and sells high-precision, mission-critical gearboxes and drive systems serving various industries. Its product portfolio includes low, medium and heavy-duty gear motors and gearboxes in torque capacities ranging from 13 Nm to 1,400 kNm; helical, bevel, planetary, and worm gearboxes and gear motors; electric motors; variable frequency drives, servo motors, and drives; and precision drives for robotics & automation solutions. Its products are used widely in Industry and Automation Solutions, Off-Highway Mobility, and the wind industry. Bonfiglioli Transmissions serves 3 main market segments, including Industry and Automation Solutions, Off-Highway Mobility, and the Wind Industry. Moreover, the firm operates 3 manufacturing facilities: two in Tamil Nadu and one in Maharashtra, together producing over 330,000 gear motors and gearboxes.",
       "financials": [
@@ -380,7 +527,7 @@
       "estListing": 1215,
       "estGainPct": 73.57,
       "dateText": "15-19 Oct",
-      "status": "Open",
+      "status": "Closed",
       "lastUpdated": "",
       "about": "Tonbo Imaging India, founded in December 2003, is a growing global defence electronics original equipment manufacturer (OEM). The firm is involved in the design, development, and manufacturing of advanced electro-optic, infrared (EO/IR), embedded vision, communication, guidance, and surveillance systems for defence and security use. Its product portfolio includes thermal imaging systems, weapon sights, missile seekers, fire control systems, missile guidance systems, targeting systems, and handheld thermal imaging devices. Its products cater to defence and security organizations across 24 countries with over 28,000 field-deployed systems. Moreover, it is India’s largest manufacturer of thermal imaging systems for government and defence agencies. Furthermore, its products are developed using its own technology and are free from ITAR (International Traffic in Arms Regulations) restrictions.",
       "freshCr": 852.2
@@ -398,7 +545,7 @@
       "estListing": 153,
       "estGainPct": 1.32,
       "dateText": "15-19 Oct",
-      "status": "Open",
+      "status": "Closed",
       "lastUpdated": "",
       "about": "Incorporated in 2018, Zetwerk is one of the growing Indian B2B (business-to-business) manufacturing companies that uses technology to supply various types of industrial products to various industries such as electronics, renewable energy, aerospace and defence, capital goods, and precision manufacturing. It is a Bengaluru-based firm that follows an asset-light model and offers end-to-end solutions, such as design, supplier matching, quality control, and logistics. The firm basically helps businesses get their electronics industrial products manufactured, filling the gap between businesses and manufacturers. The firm has a presence in over 25 countries and a network of 10,000+ suppliers and 1,100+ customers. Moreover, Zetwerk operates 20+ manufacturing facilities across India, the United States, and Mexico.",
       "financials": [
@@ -452,15 +599,15 @@
       "segment": "mainboard",
       "detailUrl": "https://ipowatch.in/sahajanand-medical-technologies-ipo-gmp-grey-market-premium/",
       "slug": "sahajanand-medical-technologies-ipo-gmp-grey-market-premium",
-      "gmp": 25,
-      "gmpText": "₹25",
-      "trend": "flat",
+      "gmp": 24,
+      "gmpText": "₹24",
+      "trend": "down",
       "priceBandUpper": 344,
       "priceBandText": "₹344",
-      "estListing": 369,
-      "estGainPct": 7.27,
+      "estListing": 368,
+      "estGainPct": 6.98,
       "dateText": "15-19 Oct",
-      "status": "Open",
+      "status": "Closed",
       "lastUpdated": "",
       "about": "Incorporated in 2001, Sahajanand Medical Technologies is a medical device firm that focuses on Class III and Class C/D devices, mainly working in the fields of vascular and structural heart intervention. The company was the first globally to achieve CE certification for a drug-eluting stent (DES) with a biodegradable polymer, Infinnium. Its product range is divided into 3 main categories: Vascular Intervention (VI), Structural Heart (SH), and other products. Sahajanand operates two R&D centers, one in India & one in Thailand, backed by a team of 102 professionals such as biomedical engineers and clinical research specialists. Moreover, its key products such as Supraflex Cruz (DES), Hydra (TAVI), and Cocoon (Occluders) are backed by 72 clinical studies and are widely known in over 76 countries across Europe, Asia, and other regions.",
       "financials": [
@@ -524,13 +671,13 @@
       "segment": "mainboard",
       "detailUrl": "https://ipowatch.in/fusion-cx-ipo-gmp-grey-market-premium/",
       "slug": "fusion-cx-ipo-gmp-grey-market-premium",
-      "gmp": 20,
-      "gmpText": "₹20",
-      "trend": "flat",
+      "gmp": 15,
+      "gmpText": "₹15",
+      "trend": "down",
       "priceBandUpper": 289,
       "priceBandText": "₹289",
-      "estListing": 309,
-      "estGainPct": 6.92,
+      "estListing": 304,
+      "estGainPct": 5.19,
       "dateText": "14-16 Oct",
       "status": "Closed",
       "lastUpdated": "",
@@ -609,90 +756,6 @@
       "freshCr": 500
     },
     {
-      "name": "HD Fire Protect",
-      "segment": "mainboard",
-      "detailUrl": "https://ipowatch.in/hd-fire-protect-ipo-gmp-grey-market-premium/",
-      "slug": "hd-fire-protect-ipo-gmp-grey-market-premium",
-      "gmp": 60,
-      "gmpText": "₹60",
-      "trend": "down",
-      "priceBandUpper": 271,
-      "priceBandText": "₹271",
-      "estListing": 331,
-      "estGainPct": 22.14,
-      "dateText": "13-15 Oct",
-      "status": "Closed",
-      "lastUpdated": "",
-      "about": "Founded in April 1997, HD Fire Protect is one of the leading manufacturers and suppliers of fire protection equipment and systems, including Water-based, Foam-based, and Gas-based fire suppression solutions. The firm provides a wide range of fire-protection products and systems, divided into 8 main categories, including sprinklers, alarm valves and accessories, deluge valves and systems, foam equipment and suppression systems, monitors and nozzles, water spray nozzles, custom-engineered systems, and gas suppression systems. Its product range serves a wide range of industries such as industrial, residential, and commercial applications, including oil and gas, refining and petrochemicals, power and energy, heavy engineering, aerospace, pharmaceuticals, data centres, hospitality, healthcare, and other sectors. The firm has over 30 years of experience exporting its products to over 90 countries. HD Fire Protect operates its manufacturing facilities in Jalgaon and Thane, Maharashtra, spanning 8.50 acres of land.",
-      "financials": [
-        {
-          "period": "2024",
-          "revenue": 392.02,
-          "expense": 275.67,
-          "pat": 87.92,
-          "assets": 392.63
-        },
-        {
-          "period": "2025",
-          "revenue": 450.68,
-          "expense": 303.96,
-          "pat": 109.55,
-          "assets": 4500.82
-        },
-        {
-          "period": "2026",
-          "revenue": 505.12,
-          "expense": 349.14,
-          "pat": 116.79,
-          "assets": 432.03
-        },
-        {
-          "period": "June 2026",
-          "revenue": 114.07,
-          "expense": 81.56,
-          "pat": 23.87,
-          "assets": 477.6
-        }
-      ],
-      "revenueTrend": "down",
-      "patTrend": "down",
-      "fundamentals": {
-        "roe": 30.17,
-        "ronw": 31.07,
-        "ebitdaMargin": 30.75,
-        "patMargin": 23.12,
-        "debtEquity": null,
-        "eps": 6.66,
-        "pe": null,
-        "nav": 21.45
-      },
-      "issuePE": null,
-      "peers": [
-        {
-          "name": "Azad Engineering Limited",
-          "pe": 145.65
-        },
-        {
-          "name": "KSB Limited",
-          "pe": 55.68
-        },
-        {
-          "name": "Kirloskar Pneumatic Company Limited",
-          "pe": 17.18
-        },
-        {
-          "name": "Elgi Equipment Limited",
-          "pe": 44.7
-        },
-        {
-          "name": "Ingersoll-Rand (India) Limited",
-          "pe": 51.39
-        }
-      ],
-      "peerMedianPE": 51.39,
-      "promoterPostPct": 86.96
-    },
-    {
       "name": "Core4 Engineers",
       "segment": "sme",
       "detailUrl": "https://ipowatch.in/core4-engineers-ipo-gmp-grey-market-premium/",
@@ -705,7 +768,7 @@
       "estListing": 93,
       "estGainPct": 0,
       "dateText": "23-27 Oct",
-      "status": "Open",
+      "status": "Upcoming",
       "lastUpdated": "",
       "about": "Founded in 2022, Core4 Engineers is an EPCC company that offers integrated infrastructure solutions for railway infrastructure, power transmission & distribution, and water & wastewater treatment sectors. The company undertakes end-to-end project execution, from design, engineering, procurement, erection, testing, commissioning, and operation & maintenance (O&M). Its business verticals include railway electrification, railway infrastructure, power transmission and distribution, water and wastewater treatment, automation and SCADA systems, and HT/LT electrical panel manufacturing. The company undertakes infrastructure projects for Indian Railways, government-owned companies (PSUs), and other infrastructure contractors. Core4 Engineers operates its own in-house manufacturing facility for High-Tension (HT) and Low-Tension (LT) electrical panels and compact substations.",
       "financials": [
@@ -766,15 +829,15 @@
       "segment": "sme",
       "detailUrl": "https://ipowatch.in/shellz-india-ipo-gmp-grey-market-premium/",
       "slug": "shellz-india-ipo-gmp-grey-market-premium",
-      "gmp": 35,
-      "gmpText": "₹35",
-      "trend": "flat",
+      "gmp": 25,
+      "gmpText": "₹25",
+      "trend": "down",
       "priceBandUpper": 179,
       "priceBandText": "₹179",
-      "estListing": 214,
-      "estGainPct": 19.55,
+      "estListing": 204,
+      "estGainPct": 13.97,
       "dateText": "15-19 Oct",
-      "status": "Open",
+      "status": "Closed",
       "lastUpdated": "",
       "about": "Shellz India is one of the leading manufacturers, marketers, and suppliers of a wide range of confectionery products, food, and bakery ingredients in India. Its product range includes a total of 250 types of products across various categories, such as chocolate-based products, jellies, baked treats, and other confectionery formats. Moreover, the firm also manufactures and supplies food and bakery ingredients serving urban and semi-urban markets, as well as smaller towns and rural areas. Shellz markets its products under 2 brands: Hugs and Tosca. Its Hugs brand offers 4 major product categories: baked treats, chocolate-based confectionery, jellies, and pan-and-sugar confectionery. While the Tosca brand offers premium products at a high price, it mostly serves urban consumers.",
       "financials": [
@@ -835,13 +898,13 @@
       "segment": "sme",
       "detailUrl": "https://ipowatch.in/ravita-engineering-services-ipo-gmp-grey-market-premium/",
       "slug": "ravita-engineering-services-ipo-gmp-grey-market-premium",
-      "gmp": 2,
-      "gmpText": "₹2",
+      "gmp": 1,
+      "gmpText": "₹1",
       "trend": "down",
       "priceBandUpper": 112,
       "priceBandText": "₹112",
-      "estListing": 114,
-      "estGainPct": 1.79,
+      "estListing": 113,
+      "estGainPct": 0.89,
       "dateText": "14-16 Oct",
       "status": "Closed",
       "lastUpdated": "",
@@ -891,79 +954,6 @@
       "issuePE": null,
       "promoterPostPct": null,
       "freshCr": 116.05
-    },
-    {
-      "name": "Vaibhav Vyapaar",
-      "segment": "sme",
-      "detailUrl": "https://ipowatch.in/vaibhav-vyapaar-ipo-gmp-grey-market-premium/",
-      "slug": "vaibhav-vyapaar-ipo-gmp-grey-market-premium",
-      "gmp": 3,
-      "gmpText": "₹3",
-      "trend": "down",
-      "priceBandUpper": 54,
-      "priceBandText": "₹54",
-      "estListing": 57,
-      "estGainPct": 5.56,
-      "dateText": "13-15 Oct",
-      "status": "Closed",
-      "lastUpdated": "",
-      "about": "Founded in 2009, Vaibhav Vyapaar is a non-banking financial company (NBFC) that offers a wide range of financial services to salaried and self-employed individuals via its digital lending platform. Its product range includes unsecured personal loans through its mobile app, LoanFront – Personal Loan App. The app offers complete digital loan origination, underwriting, documentation, disbursement, and repayment. Along with lending services, Vaibhav Vyapaar also earns revenue by offering application and technology services to other NBFCs. Its main target audiences are retail borrowers, including first-time borrowers and lower-income salaried professionals across urban and semi-urban regions of India.",
-      "financials": [
-        {
-          "period": "2024",
-          "revenue": 25.46,
-          "expense": 24.86,
-          "pat": 0.45,
-          "assets": 61.18
-        },
-        {
-          "period": "2025",
-          "revenue": 25.34,
-          "expense": 24.32,
-          "pat": 1.48,
-          "assets": 55.04
-        },
-        {
-          "period": "2026",
-          "revenue": 37.64,
-          "expense": 34.48,
-          "pat": 1.97,
-          "assets": 84.23
-        },
-        {
-          "period": "Jul 2026",
-          "revenue": 18.15,
-          "expense": 13.91,
-          "pat": 3.01,
-          "assets": 96.16
-        }
-      ],
-      "revenueTrend": "down",
-      "patTrend": "up",
-      "fundamentals": {
-        "roe": 6.99,
-        "ronw": 6.75,
-        "ebitdaMargin": 29.47,
-        "patMargin": 5.36,
-        "debtEquity": 1.6,
-        "eps": 1.22,
-        "pe": null,
-        "nav": 18.13
-      },
-      "issuePE": null,
-      "peers": [
-        {
-          "name": "Paisalo Digital Limited",
-          "pe": 30.53
-        },
-        {
-          "name": "Apollo Finvest (India) Limited",
-          "pe": 22
-        }
-      ],
-      "peerMedianPE": 26.27,
-      "promoterPostPct": 72.34,
-      "freshCr": 42
     }
   ]
 }
