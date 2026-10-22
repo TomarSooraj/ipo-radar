@@ -1,25 +1,102 @@
 {
-  "generatedAt": "2026-10-21T18:07:56.167Z",
+  "generatedAt": "2026-10-22T18:02:55.804Z",
   "source": "https://ipowatch.in/ipo-grey-market-premium-latest-ipo-gmp/",
   "disclaimer": "GMP (Grey Market Premium) is an unofficial, speculative indicator from the unregulated grey market and can change daily. Nothing here is investment advice.",
   "trackRecord": null,
   "ipos": [
     {
+      "name": "Bombay Coated and Special Steels",
+      "segment": "mainboard",
+      "detailUrl": "https://ipowatch.in/bombay-coated-special-steels-ipo-gmp-grey-market-premium/",
+      "slug": "bombay-coated-special-steels-ipo-gmp-grey-market-premium",
+      "gmp": 0,
+      "gmpText": "₹0",
+      "trend": "flat",
+      "priceBandUpper": null,
+      "priceBandText": "₹[.]",
+      "estListing": 0,
+      "estGainPct": 0,
+      "dateText": "29-2 Nov",
+      "status": "Upcoming",
+      "lastUpdated": "",
+      "about": "Founded in 1992, Bombay Coated & Special Steels is one of the leading steel producers. Its business is focused on transforming steel coils into high-quality steel products like slit coils, blanks, and sheets. Its products are used by OEMs and ODMs across industries, such as home and commercial appliances and general engineering. Its processing units are situated in Wada, Bhiwandi, Ghiloth, and Sricity, covering 42,209 sq. meters. The firm is involved in precision slitting, cut-to-length processing, shearing, and embossing of steel coils to manufacture slit coils, embossed slit coils, blanks, embossed blanks, and sheared blanks. Its products cater to a wide range of industries such as home and commercial appliances, automotive and auto components, electrical equipment, pharmaceutical cleanroom infrastructure, ventilation systems, and general engineering. Along with steel coil processing, the firm also offers logistics and inventory management services",
+      "financials": [
+        {
+          "period": "2024",
+          "revenue": 765.41,
+          "expense": 737.21,
+          "pat": 21.19,
+          "assets": 350.21
+        },
+        {
+          "period": "2025",
+          "revenue": 1058.65,
+          "expense": 1021.48,
+          "pat": 28.67,
+          "assets": 458.21
+        },
+        {
+          "period": "2026",
+          "revenue": 1269.83,
+          "expense": 1229.04,
+          "pat": 30.54,
+          "assets": 571.47
+        },
+        {
+          "period": "June 2026",
+          "revenue": 397.55,
+          "expense": 376.9,
+          "pat": 15.08,
+          "assets": 526.11
+        }
+      ],
+      "revenueTrend": "down",
+      "patTrend": "down",
+      "fundamentals": {
+        "roe": 29.92,
+        "ronw": 25.12,
+        "ebitdaMargin": 6.04,
+        "patMargin": 2.41,
+        "debtEquity": 2.78,
+        "eps": 7.64,
+        "pe": null,
+        "nav": 30.41
+      },
+      "issuePE": null,
+      "peers": [
+        {
+          "name": "BMW Industries Limited",
+          "pe": 14.98
+        },
+        {
+          "name": "Manaksia Coated Metals & Industries Limited",
+          "pe": 31.03
+        },
+        {
+          "name": "Shiv Aum Steels Limited",
+          "pe": 98.54
+        }
+      ],
+      "peerMedianPE": 31.03,
+      "promoterPostPct": null,
+      "freshCr": 183.06
+    },
+    {
       "name": "SFC Environmental Technologies",
       "segment": "mainboard",
       "detailUrl": "https://ipowatch.in/sfc-environmental-technologies-ipo-gmp-grey-market-premium/",
       "slug": "sfc-environmental-technologies-ipo-gmp-grey-market-premium",
-      "gmp": 0,
-      "gmpText": "₹0",
-      "trend": "flat",
+      "gmp": 21,
+      "gmpText": "₹21",
+      "trend": "down",
       "priceBandUpper": 330,
       "priceBandText": "₹330",
-      "estListing": 0,
-      "estGainPct": 0,
+      "estListing": 351,
+      "estGainPct": 6.36,
       "dateText": "27-29 Oct",
       "status": "Upcoming",
       "lastUpdated": "",
-      "about": "EAAA India Alternatives, founded on May 14, 2008, is an alternative investment management platform that manages investments in India’s real estate and private credit markets. It manages investment funds and offers alternative investment solutions to domestic and global institutional investors, high-net-worth individuals (“HNIs”), ultra-high-net-worth individuals (“UHNIs”), and family offices. Moreover, the firm operates in two investment areas: Real Assets and Private Credit. It also provides portfolio management services and other investment solutions. Its Real Assets division invests in infrastructure, commercial properties, energy transition projects, and other long-term investment opportunities. Its private credit offer financing solutions across performing credit, special situations, real estate credit and investment-grade credit. Moreover, its product portfolio includes 10 active Real Assets funds, including two Infrastructure Investment Trusts (“InvITs”), and 16 active Private Credit funds. As of June 30, 2026, EAAA India Alternatives has assets under management (“AUM”) of ₹95,344.88 crore.",
+      "about": "Founded in March 2005, SFC Environmental Technologies is a prominent environmental technology firm providing solutions for the design, engineering, manufacturing, supply, installation, and commissioning of wastewater treatment (“WWT”), wastewater recycling and reuse (“WRR”), and solid waste treatment (“SWT”). The firm uses its own C-tech technology and an advanced sequencing batch reactor (“SBR”) process to clean wastewater from sewage and industrial activities. The firm offers technology packages, equipment, automation systems, installation, commissioning, and related services for wastewater treatment. Moreover, so far, the firm has installed and started operating 728 wastewater treatment systems and helped treat around 17.51 billion litres of wastewater every day. From design and engineering to construction, equipment supply, commissioning, and operations and maintenance, SFC Environmental offers end-to-end solutions.",
       "financials": [
         {
           "period": "31 Mar 2024",
@@ -87,13 +164,13 @@
       "segment": "mainboard",
       "detailUrl": "https://ipowatch.in/bls-polymers-ipo-gmp-grey-market-premium/",
       "slug": "bls-polymers-ipo-gmp-grey-market-premium",
-      "gmp": 30,
-      "gmpText": "₹30",
-      "trend": "flat",
+      "gmp": 35,
+      "gmpText": "₹35",
+      "trend": "up",
       "priceBandUpper": 150,
       "priceBandText": "₹150",
-      "estListing": 170,
-      "estGainPct": 20,
+      "estListing": 185,
+      "estGainPct": 23.33,
       "dateText": "27-29 Oct",
       "status": "Upcoming",
       "lastUpdated": "",
@@ -169,12 +246,12 @@
       "trend": "flat",
       "priceBandUpper": 1665,
       "priceBandText": "₹1,665",
-      "estListing": 0,
+      "estListing": 1665,
       "estGainPct": 0,
       "dateText": "26-28 Oct",
       "status": "Upcoming",
       "lastUpdated": "",
-      "about": "Founded in March 2005, SFC Environmental Technologies is a prominent environmental technology firm providing solutions for the design, engineering, manufacturing, supply, installation, and commissioning of wastewater treatment (“WWT”), wastewater recycling and reuse (“WRR”), and solid waste treatment (“SWT”). The firm uses its own C-tech technology and an advanced sequencing batch reactor (“SBR”) process to clean wastewater from sewage and industrial activities. The firm offers technology packages, equipment, automation systems, installation, commissioning, and related services for wastewater treatment. Moreover, so far, the firm has installed and started operating 728 wastewater treatment systems and helped treat around 17.51 billion litres of wastewater every day. From design and engineering to construction, equipment supply, commissioning, and operations and maintenance, SFC Environmental offers end-to-end solutions.",
+      "about": "EAAA India Alternatives, founded on May 14, 2008, is an alternative investment management platform that manages investments in India’s real estate and private credit markets. It manages investment funds and offers alternative investment solutions to domestic and global institutional investors, high-net-worth individuals (“HNIs”), ultra-high-net-worth individuals (“UHNIs”), and family offices. Moreover, the firm operates in two investment areas: Real Assets and Private Credit. It also provides portfolio management services and other investment solutions. Its Real Assets division invests in infrastructure, commercial properties, energy transition projects, and other long-term investment opportunities. Its private credit offer financing solutions across performing credit, special situations, real estate credit and investment-grade credit. Moreover, its product portfolio includes 10 active Real Assets funds, including two Infrastructure Investment Trusts (“InvITs”), and 16 active Private Credit funds. As of June 30, 2026, EAAA India Alternatives has assets under management (“AUM”) of ₹95,344.88 crore.",
       "financials": [
         {
           "period": "2024",
@@ -265,13 +342,13 @@
       "segment": "mainboard",
       "detailUrl": "https://ipowatch.in/jio-platforms-ipo-gmp-grey-market-premium/",
       "slug": "jio-platforms-ipo-gmp-grey-market-premium",
-      "gmp": 255,
-      "gmpText": "₹255",
+      "gmp": 245,
+      "gmpText": "₹245",
       "trend": "down",
       "priceBandUpper": 1119,
       "priceBandText": "₹1,119",
-      "estListing": 1374,
-      "estGainPct": 22.79,
+      "estListing": 1364,
+      "estGainPct": 21.89,
       "dateText": "21-23 Oct",
       "status": "Open",
       "lastUpdated": "",
@@ -338,13 +415,13 @@
       "segment": "mainboard",
       "detailUrl": "https://ipowatch.in/paras-healthcare-ipo-gmp-grey-market-premium/",
       "slug": "paras-healthcare-ipo-gmp-grey-market-premium",
-      "gmp": 40,
-      "gmpText": "₹40",
+      "gmp": 15,
+      "gmpText": "₹15",
       "trend": "down",
       "priceBandUpper": 693,
       "priceBandText": "₹693",
-      "estListing": 733,
-      "estGainPct": 5.77,
+      "estListing": 708,
+      "estGainPct": 2.16,
       "dateText": "21-23 Oct",
       "status": "Open",
       "lastUpdated": "",
@@ -439,13 +516,13 @@
       "segment": "mainboard",
       "detailUrl": "https://ipowatch.in/bonfiglioli-transmissions-ipo-gmp-today/",
       "slug": "bonfiglioli-transmissions-ipo-gmp-today",
-      "gmp": 137,
-      "gmpText": "₹137",
-      "trend": "up",
+      "gmp": 80,
+      "gmpText": "₹80",
+      "trend": "down",
       "priceBandUpper": 586,
       "priceBandText": "₹586",
-      "estListing": 721,
-      "estGainPct": 23.38,
+      "estListing": 666,
+      "estGainPct": 13.65,
       "dateText": "15-19 Oct",
       "status": "Closed",
       "lastUpdated": "",
@@ -519,13 +596,13 @@
       "segment": "mainboard",
       "detailUrl": "https://ipowatch.in/tonbo-imaging-ipo-gmp-grey-market-premium/",
       "slug": "tonbo-imaging-ipo-gmp-grey-market-premium",
-      "gmp": 515,
-      "gmpText": "₹515",
+      "gmp": 440,
+      "gmpText": "₹440",
       "trend": "down",
       "priceBandUpper": 700,
       "priceBandText": "₹700",
-      "estListing": 1215,
-      "estGainPct": 73.57,
+      "estListing": 1140,
+      "estGainPct": 62.86,
       "dateText": "15-19 Oct",
       "status": "Closed",
       "lastUpdated": "",
@@ -537,13 +614,13 @@
       "segment": "mainboard",
       "detailUrl": "https://ipowatch.in/zetwerk-ipo-gmp-grey-market-premium/",
       "slug": "zetwerk-ipo-gmp-grey-market-premium",
-      "gmp": 2,
-      "gmpText": "₹2",
+      "gmp": 1,
+      "gmpText": "₹1",
       "trend": "down",
       "priceBandUpper": 151,
       "priceBandText": "₹151",
-      "estListing": 153,
-      "estGainPct": 1.32,
+      "estListing": 152,
+      "estGainPct": 0.66,
       "dateText": "15-19 Oct",
       "status": "Closed",
       "lastUpdated": "",
@@ -599,13 +676,13 @@
       "segment": "mainboard",
       "detailUrl": "https://ipowatch.in/sahajanand-medical-technologies-ipo-gmp-grey-market-premium/",
       "slug": "sahajanand-medical-technologies-ipo-gmp-grey-market-premium",
-      "gmp": 24,
-      "gmpText": "₹24",
+      "gmp": 15,
+      "gmpText": "₹15",
       "trend": "down",
       "priceBandUpper": 344,
       "priceBandText": "₹344",
-      "estListing": 368,
-      "estGainPct": 6.98,
+      "estListing": 359,
+      "estGainPct": 4.36,
       "dateText": "15-19 Oct",
       "status": "Closed",
       "lastUpdated": "",
@@ -667,93 +744,149 @@
       "promoterPostPct": 36.2
     },
     {
-      "name": "Fusion CX",
-      "segment": "mainboard",
-      "detailUrl": "https://ipowatch.in/fusion-cx-ipo-gmp-grey-market-premium/",
-      "slug": "fusion-cx-ipo-gmp-grey-market-premium",
-      "gmp": 15,
-      "gmpText": "₹15",
-      "trend": "down",
-      "priceBandUpper": 289,
-      "priceBandText": "₹289",
-      "estListing": 304,
-      "estGainPct": 5.19,
-      "dateText": "14-16 Oct",
-      "status": "Closed",
+      "name": "Carver Roboweld",
+      "segment": "sme",
+      "detailUrl": "https://ipowatch.in/carver-roboweld-ipo-gmp-grey-market-premium/",
+      "slug": "carver-roboweld-ipo-gmp-grey-market-premium",
+      "gmp": 0,
+      "gmpText": "₹0",
+      "trend": "flat",
+      "priceBandUpper": null,
+      "priceBandText": "₹[.]",
+      "estListing": 0,
+      "estGainPct": 0,
+      "dateText": "28-30 Oct",
+      "status": "Upcoming",
       "lastUpdated": "",
-      "about": "Fusion CX is one of the well-known customer experience (“CX”) service-providing companies. They are famous for offering high-end, complex, and integrated CX services across multiple channels, including voice, email, chat, social media, and messaging. Fusion CX offers a wide range of services, including customer acquisition, customer service, order fulfillment support, payment and collections services, customer retention, technical support, and digital solutions. Its services tailored to serve a wide range of industries such as telecom and utilities, healthcare and life sciences, hi-tech and technology (HTT), banking and finance (BFSI), and retail, and it has established a strong presence in these sectors. Moreover, as of 2024, the firm operates 40 delivery centers across 15 countries and provides services in 28 languages, supported by 10,520 CX professionals and a 12,323-strong field workforce.",
+      "about": "To be updated soon",
       "financials": [
         {
           "period": "2024",
-          "revenue": 1021.53,
-          "expense": 984.84,
-          "pat": 36.26,
-          "assets": 768.02
+          "revenue": 21.67,
+          "expense": 20.26,
+          "pat": 1.01,
+          "assets": 21.59
         },
         {
           "period": "2025",
-          "revenue": 1352.03,
-          "expense": 1274.29,
-          "pat": 74.31,
-          "assets": 1143.25
+          "revenue": 24.97,
+          "expense": 22.9,
+          "pat": 1.45,
+          "assets": 32.69
         },
         {
           "period": "2026",
-          "revenue": 1851.83,
-          "expense": 1662.53,
-          "pat": 169.84,
-          "assets": 1385.15
+          "revenue": 27.12,
+          "expense": 22.33,
+          "pat": 3.48,
+          "assets": 38.26
         },
         {
-          "period": "Jun 2026",
-          "revenue": 503.85,
-          "expense": 441.03,
-          "pat": 55.7,
-          "assets": 1367.85
+          "period": "June 2026",
+          "revenue": 7.71,
+          "expense": 5.67,
+          "pat": 1.49,
+          "assets": 39.45
         }
       ],
       "revenueTrend": "down",
       "patTrend": "up",
       "fundamentals": {
-        "roe": 30.3,
-        "ronw": 30.74,
-        "ebitdaMargin": 19.48,
-        "patMargin": 9.34,
-        "debtEquity": 1.25,
-        "eps": 13.47,
+        "roe": 33.63,
+        "ronw": 21.57,
+        "ebitdaMargin": 25.44,
+        "patMargin": 12.87,
+        "debtEquity": 0.97,
+        "eps": 3.78,
         "pe": null,
-        "nav": 43.73
+        "nav": null
       },
       "issuePE": null,
       "peers": [
         {
-          "name": "FirstSource Solutions Limited",
-          "pe": 22.27
+          "name": "Royal Arc Electrodes Limited",
+          "pe": 20.11
         },
         {
-          "name": "eClerx Services Limited",
-          "pe": 19.65
+          "name": "Diffusion Engineers Limited",
+          "pe": 33.53
         },
         {
-          "name": "Alldigi Tech Limited",
-          "pe": 14.12
-        },
-        {
-          "name": "Inventurus Knowledge Solutions Limited",
-          "pe": 31.41
-        },
-        {
-          "name": "Sagility India Limited",
-          "pe": 21.66
-        },
-        {
-          "name": "Hinduja Global Solutions Limited",
-          "pe": 51.07
+          "name": "Classic Electrodes (India) Limited",
+          "pe": 6.8
         }
       ],
-      "peerMedianPE": 21.96,
-      "promoterPostPct": 81.82,
-      "freshCr": 500
+      "peerMedianPE": 20.11,
+      "promoterPostPct": null
+    },
+    {
+      "name": "Wiscon Industries",
+      "segment": "sme",
+      "detailUrl": "https://ipowatch.in/wiscon-industries-ipo-gmp-grey-market-premium/",
+      "slug": "wiscon-industries-ipo-gmp-grey-market-premium",
+      "gmp": 0,
+      "gmpText": "₹0",
+      "trend": "flat",
+      "priceBandUpper": 204,
+      "priceBandText": "₹204",
+      "estListing": 0,
+      "estGainPct": 0,
+      "dateText": "27-29 Oct",
+      "status": "Upcoming",
+      "lastUpdated": "",
+      "about": "Wiscon Industries, established in September 2022, has been trading and supplying consumer electronic products across India. Its product range includes LED TVs, air coolers, washing machines, and air conditioners under its brand “Wiscon”. Furthermore, Wiscon also sells electric scooters sourced from a third-party brand. The company sells its products to both business customers (B2B) and individual consumers (B2C). Moreover, its products are distributed through an offline dealer and distributor network as well as its own online platform, through which it can reach its customers across the country. Financially, in FY24-25, the firm generated revenue of ₹14.49 crore and ₹73.39 crore in FY 2025–26, reflecting strong financial growth over the last 3 years.",
+      "financials": [
+        {
+          "period": "2024",
+          "revenue": 3.22,
+          "expense": 5.03,
+          "pat": 1.36,
+          "assets": 1.27
+        },
+        {
+          "period": "2025",
+          "revenue": 14.51,
+          "expense": 12.82,
+          "pat": 1.25,
+          "assets": 9.51
+        },
+        {
+          "period": "2026",
+          "revenue": 197.13,
+          "expense": 169.72,
+          "pat": 20.41,
+          "assets": 90.75
+        },
+        {
+          "period": "June 2026",
+          "revenue": 69.85,
+          "expense": 59.35,
+          "pat": 7.89,
+          "assets": 144.79
+        }
+      ],
+      "revenueTrend": "up",
+      "patTrend": "up",
+      "fundamentals": {
+        "roe": 117.37,
+        "ronw": 66.67,
+        "ebitdaMargin": 14.27,
+        "patMargin": 10.36,
+        "debtEquity": 0.83,
+        "eps": 13.56,
+        "pe": null,
+        "nav": 19.53
+      },
+      "issuePE": null,
+      "peers": [
+        {
+          "name": "Cellecor Gadgets Limited",
+          "pe": 19.44
+        }
+      ],
+      "peerMedianPE": 19.44,
+      "promoterPostPct": 68.46,
+      "freshCr": 88.01
     },
     {
       "name": "Core4 Engineers",
@@ -829,13 +962,13 @@
       "segment": "sme",
       "detailUrl": "https://ipowatch.in/shellz-india-ipo-gmp-grey-market-premium/",
       "slug": "shellz-india-ipo-gmp-grey-market-premium",
-      "gmp": 25,
-      "gmpText": "₹25",
+      "gmp": 5,
+      "gmpText": "₹5",
       "trend": "down",
       "priceBandUpper": 179,
       "priceBandText": "₹179",
-      "estListing": 204,
-      "estGainPct": 13.97,
+      "estListing": 184,
+      "estGainPct": 2.79,
       "dateText": "15-19 Oct",
       "status": "Closed",
       "lastUpdated": "",
@@ -892,68 +1025,6 @@
       "peerMedianPE": 8.66,
       "promoterPostPct": 63.64,
       "freshCr": 59.97
-    },
-    {
-      "name": "Ravita Engineering",
-      "segment": "sme",
-      "detailUrl": "https://ipowatch.in/ravita-engineering-services-ipo-gmp-grey-market-premium/",
-      "slug": "ravita-engineering-services-ipo-gmp-grey-market-premium",
-      "gmp": 1,
-      "gmpText": "₹1",
-      "trend": "down",
-      "priceBandUpper": 112,
-      "priceBandText": "₹112",
-      "estListing": 113,
-      "estGainPct": 0.89,
-      "dateText": "14-16 Oct",
-      "status": "Closed",
-      "lastUpdated": "",
-      "about": "Incorporated in December 2007, Ravita Engineering Services is an engineering solutions firm that is involved in the Engineering, Procurement, Installation and Commissioning (“EPIC”) of heating, ventilation and air-conditioning (“HVAC”) systems, central air-conditioning solutions, airflow systems, chiller plants, industrial compressors, cooling equipment and other related electromechanical equipment on a turnkey basis. The Company operates across three primary business segments: onshore, offshore, and data centre. The firm undertakes onshore activities across key regions including Gujarat, Maharashtra, Odisha, and Karnataka. Offshore operations occur at rigs, platforms, and marine installations in India’s territorial waters.",
-      "financials": [
-        {
-          "period": "2024",
-          "revenue": 13.53,
-          "expense": 11.44,
-          "pat": 1.51,
-          "assets": 9.8
-        },
-        {
-          "period": "2025",
-          "revenue": 109.3,
-          "expense": 93.49,
-          "pat": 11.83,
-          "assets": 9.08
-        },
-        {
-          "period": "2026",
-          "revenue": 277.82,
-          "expense": 240.35,
-          "pat": 28.04,
-          "assets": 58.24
-        },
-        {
-          "period": "June 2026",
-          "revenue": 97.45,
-          "expense": 83.92,
-          "pat": 10.13,
-          "assets": 146.68
-        }
-      ],
-      "revenueTrend": "up",
-      "patTrend": "up",
-      "fundamentals": {
-        "roe": 48.9,
-        "ronw": 48.9,
-        "ebitdaMargin": 14.43,
-        "patMargin": 10.09,
-        "debtEquity": 0.19,
-        "eps": 11.05,
-        "pe": null,
-        "nav": 36.44
-      },
-      "issuePE": null,
-      "promoterPostPct": null,
-      "freshCr": 116.05
     }
   ]
 }
