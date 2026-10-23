@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T18:02:55.804Z",
+  "generatedAt": "2026-10-23T17:54:06.886Z",
   "source": "https://ipowatch.in/ipo-grey-market-premium-latest-ipo-gmp/",
   "disclaimer": "GMP (Grey Market Premium) is an unofficial, speculative indicator from the unregulated grey market and can change daily. Nothing here is investment advice.",
   "trackRecord": null,
@@ -9,17 +9,17 @@
       "segment": "mainboard",
       "detailUrl": "https://ipowatch.in/bombay-coated-special-steels-ipo-gmp-grey-market-premium/",
       "slug": "bombay-coated-special-steels-ipo-gmp-grey-market-premium",
-      "gmp": 0,
-      "gmpText": "₹0",
-      "trend": "flat",
-      "priceBandUpper": null,
-      "priceBandText": "₹[.]",
-      "estListing": 0,
-      "estGainPct": 0,
+      "gmp": 5,
+      "gmpText": "₹5",
+      "trend": "up",
+      "priceBandUpper": 82,
+      "priceBandText": "₹82",
+      "estListing": 87,
+      "estGainPct": 6.1,
       "dateText": "29-2 Nov",
       "status": "Upcoming",
       "lastUpdated": "",
-      "about": "Founded in 1992, Bombay Coated & Special Steels is one of the leading steel producers. Its business is focused on transforming steel coils into high-quality steel products like slit coils, blanks, and sheets. Its products are used by OEMs and ODMs across industries, such as home and commercial appliances and general engineering. Its processing units are situated in Wada, Bhiwandi, Ghiloth, and Sricity, covering 42,209 sq. meters. The firm is involved in precision slitting, cut-to-length processing, shearing, and embossing of steel coils to manufacture slit coils, embossed slit coils, blanks, embossed blanks, and sheared blanks. Its products cater to a wide range of industries such as home and commercial appliances, automotive and auto components, electrical equipment, pharmaceutical cleanroom infrastructure, ventilation systems, and general engineering. Along with steel coil processing, the firm also offers logistics and inventory management services",
+      "about": "Founded in 1992, Bombay Coated & Special Steels is one of the leading steel producers. Its business is focused on transforming steel coils into high-quality steel products like slit coils, blanks, and sheets. Its products are used by OEMs and ODMs across industries, such as home and commercial appliances and general engineering. Its processing units are situated in Wada, Bhiwandi, Ghiloth, and Sricity, covering 42,209 sq. meters. The firm is involved in precision slitting, cut-to-length processing, shearing, and embossing of steel coils to manufacture slit coils, embossed slit coils, blanks, embossed blanks, and sheared blanks. Its products cater to a wide range of industries such as home and commercial appliances, automotive and auto components, electrical equipment, pharmaceutical cleanroom infrastructure, ventilation systems, and general engineering. Along with steel coil processing, the firm also offers logistics and inventory management services.",
       "financials": [
         {
           "period": "2024",
@@ -78,8 +78,89 @@
         }
       ],
       "peerMedianPE": 31.03,
-      "promoterPostPct": null,
+      "promoterPostPct": 63.03,
       "freshCr": 183.06
+    },
+    {
+      "name": "M.K.Sons Fine Jewels",
+      "segment": "mainboard",
+      "detailUrl": "https://ipowatch.in/mksons-fine-jewels-ipo-gmp-today/",
+      "slug": "mksons-fine-jewels-ipo-gmp-today",
+      "gmp": 0,
+      "gmpText": "₹0",
+      "trend": "flat",
+      "priceBandUpper": 162,
+      "priceBandText": "₹162",
+      "estListing": 162,
+      "estGainPct": 0,
+      "dateText": "28-30 Oct",
+      "status": "Upcoming",
+      "lastUpdated": "",
+      "about": "Established in 2012, M.K. Sons Fine Jewels is a jewellery retailer selling gold, diamond, and CZ jewellery through its showroom network in Mumbai and Ahmedabad. Its product range includes rings, necklaces, bangles, earrings, bracelets, Mangalsutras, solitaires, bridal jewellery, and customised jewellery under various brands: Pavitra, Rivaaz, Sitaare, NAQSH, Sunhere, and One & Only. Its product range caters to various occasions, including bridal, festive, and daily wear. Its product portfolio includes more than 19,442 pieces of jewellery designs, out of which 14,582 are gold jewellery, and 4,860 are diamond and precious stone jewellery designs. Moreover, M.K. Sons operates its 5 retail showrooms across Maharashtra and Gujarat in busy locations including Bandra, Andheri, Zaveri Bazaar, C.G. Road, and Sindhu Bhavan Road.",
+      "financials": [
+        {
+          "period": "2024",
+          "revenue": 217.4,
+          "expense": 206.56,
+          "pat": 8.17,
+          "assets": 95.21
+        },
+        {
+          "period": "2025",
+          "revenue": 351.32,
+          "expense": 319.29,
+          "pat": 23.26,
+          "assets": 219.64
+        },
+        {
+          "period": "2026",
+          "revenue": 538.86,
+          "expense": 467.33,
+          "pat": 51.8,
+          "assets": 283.21
+        },
+        {
+          "period": "June 2026",
+          "revenue": 101.45,
+          "expense": 81.16,
+          "pat": 15.02,
+          "assets": 305.68
+        }
+      ],
+      "revenueTrend": "down",
+      "patTrend": "up",
+      "fundamentals": {
+        "roe": 8.2,
+        "ronw": 30.83,
+        "ebitdaMargin": 23.09,
+        "patMargin": 14.8,
+        "debtEquity": 0.39,
+        "eps": 12.13,
+        "pe": null,
+        "nav": 39.36
+      },
+      "issuePE": null,
+      "peers": [
+        {
+          "name": "Motisons Jewellers Limited",
+          "pe": 27.78
+        },
+        {
+          "name": "Tribhovandas Bhimji Zaveri Limited",
+          "pe": 19.62
+        },
+        {
+          "name": "Senco Gold Limited",
+          "pe": 9.55
+        },
+        {
+          "name": "PNGS Reva Diamond Jewellery Limited",
+          "pe": 24.21
+        }
+      ],
+      "peerMedianPE": 21.91,
+      "promoterPostPct": 65.82,
+      "freshCr": 275.4
     },
     {
       "name": "SFC Environmental Technologies",
@@ -164,13 +245,13 @@
       "segment": "mainboard",
       "detailUrl": "https://ipowatch.in/bls-polymers-ipo-gmp-grey-market-premium/",
       "slug": "bls-polymers-ipo-gmp-grey-market-premium",
-      "gmp": 35,
-      "gmpText": "₹35",
+      "gmp": 38,
+      "gmpText": "₹38",
       "trend": "up",
       "priceBandUpper": 150,
       "priceBandText": "₹150",
-      "estListing": 185,
-      "estGainPct": 23.33,
+      "estListing": 188,
+      "estGainPct": 25.33,
       "dateText": "27-29 Oct",
       "status": "Upcoming",
       "lastUpdated": "",
@@ -342,13 +423,13 @@
       "segment": "mainboard",
       "detailUrl": "https://ipowatch.in/jio-platforms-ipo-gmp-grey-market-premium/",
       "slug": "jio-platforms-ipo-gmp-grey-market-premium",
-      "gmp": 245,
-      "gmpText": "₹245",
-      "trend": "down",
+      "gmp": 260,
+      "gmpText": "₹260",
+      "trend": "up",
       "priceBandUpper": 1119,
       "priceBandText": "₹1,119",
-      "estListing": 1364,
-      "estGainPct": 21.89,
+      "estListing": 1379,
+      "estGainPct": 23.24,
       "dateText": "21-23 Oct",
       "status": "Open",
       "lastUpdated": "",
@@ -415,13 +496,13 @@
       "segment": "mainboard",
       "detailUrl": "https://ipowatch.in/paras-healthcare-ipo-gmp-grey-market-premium/",
       "slug": "paras-healthcare-ipo-gmp-grey-market-premium",
-      "gmp": 15,
-      "gmpText": "₹15",
+      "gmp": 10,
+      "gmpText": "₹10",
       "trend": "down",
       "priceBandUpper": 693,
       "priceBandText": "₹693",
-      "estListing": 708,
-      "estGainPct": 2.16,
+      "estListing": 703,
+      "estGainPct": 1.44,
       "dateText": "21-23 Oct",
       "status": "Open",
       "lastUpdated": "",
@@ -512,242 +593,10 @@
       "ofsCr": 950
     },
     {
-      "name": "Bonfiglioli Transmissions",
-      "segment": "mainboard",
-      "detailUrl": "https://ipowatch.in/bonfiglioli-transmissions-ipo-gmp-today/",
-      "slug": "bonfiglioli-transmissions-ipo-gmp-today",
-      "gmp": 80,
-      "gmpText": "₹80",
-      "trend": "down",
-      "priceBandUpper": 586,
-      "priceBandText": "₹586",
-      "estListing": 666,
-      "estGainPct": 13.65,
-      "dateText": "15-19 Oct",
-      "status": "Closed",
-      "lastUpdated": "",
-      "about": "Bonfiglioli Transmissions is one of the leading Indian companies providing mechanical and electro-mechanical power transmission solutions. The company makes and sells high-precision, mission-critical gearboxes and drive systems serving various industries. Its product portfolio includes low, medium and heavy-duty gear motors and gearboxes in torque capacities ranging from 13 Nm to 1,400 kNm; helical, bevel, planetary, and worm gearboxes and gear motors; electric motors; variable frequency drives, servo motors, and drives; and precision drives for robotics & automation solutions. Its products are used widely in Industry and Automation Solutions, Off-Highway Mobility, and the wind industry. Bonfiglioli Transmissions serves 3 main market segments, including Industry and Automation Solutions, Off-Highway Mobility, and the Wind Industry. Moreover, the firm operates 3 manufacturing facilities: two in Tamil Nadu and one in Maharashtra, together producing over 330,000 gear motors and gearboxes.",
-      "financials": [
-        {
-          "period": "Dec 2023",
-          "revenue": 1701.8,
-          "expense": 1493.63,
-          "pat": 148.49,
-          "assets": 1414.72
-        },
-        {
-          "period": "Dec 2024",
-          "revenue": 1861.16,
-          "expense": 1616.16,
-          "pat": 195.16,
-          "assets": 1299.08
-        },
-        {
-          "period": "Dec 2025",
-          "revenue": 2023.59,
-          "expense": 1698.36,
-          "pat": 237.87,
-          "assets": 1439.46
-        },
-        {
-          "period": "June 2026",
-          "revenue": 1139.17,
-          "expense": 939.25,
-          "pat": 148.58,
-          "assets": 1495.82
-        }
-      ],
-      "revenueTrend": "down",
-      "patTrend": "up",
-      "fundamentals": {
-        "roe": 25.66,
-        "ronw": 23.9,
-        "ebitdaMargin": 18.41,
-        "patMargin": 11.76,
-        "debtEquity": null,
-        "eps": 12.65,
-        "pe": null,
-        "nav": 52.82
-      },
-      "issuePE": null,
-      "peers": [
-        {
-          "name": "Elecon Engineering Company Limited",
-          "pe": 31.63
-        },
-        {
-          "name": "Shanthi Gears Limited",
-          "pe": 63.39
-        },
-        {
-          "name": "Schaeffler India Limited",
-          "pe": 53.74
-        },
-        {
-          "name": "Timken India Limited",
-          "pe": 57.66
-        }
-      ],
-      "peerMedianPE": 55.7,
-      "promoterPostPct": 77
-    },
-    {
-      "name": "Tonbo Imaging",
-      "segment": "mainboard",
-      "detailUrl": "https://ipowatch.in/tonbo-imaging-ipo-gmp-grey-market-premium/",
-      "slug": "tonbo-imaging-ipo-gmp-grey-market-premium",
-      "gmp": 440,
-      "gmpText": "₹440",
-      "trend": "down",
-      "priceBandUpper": 700,
-      "priceBandText": "₹700",
-      "estListing": 1140,
-      "estGainPct": 62.86,
-      "dateText": "15-19 Oct",
-      "status": "Closed",
-      "lastUpdated": "",
-      "about": "Tonbo Imaging India, founded in December 2003, is a growing global defence electronics original equipment manufacturer (OEM). The firm is involved in the design, development, and manufacturing of advanced electro-optic, infrared (EO/IR), embedded vision, communication, guidance, and surveillance systems for defence and security use. Its product portfolio includes thermal imaging systems, weapon sights, missile seekers, fire control systems, missile guidance systems, targeting systems, and handheld thermal imaging devices. Its products cater to defence and security organizations across 24 countries with over 28,000 field-deployed systems. Moreover, it is India’s largest manufacturer of thermal imaging systems for government and defence agencies. Furthermore, its products are developed using its own technology and are free from ITAR (International Traffic in Arms Regulations) restrictions.",
-      "freshCr": 852.2
-    },
-    {
-      "name": "Zetwerk",
-      "segment": "mainboard",
-      "detailUrl": "https://ipowatch.in/zetwerk-ipo-gmp-grey-market-premium/",
-      "slug": "zetwerk-ipo-gmp-grey-market-premium",
-      "gmp": 1,
-      "gmpText": "₹1",
-      "trend": "down",
-      "priceBandUpper": 151,
-      "priceBandText": "₹151",
-      "estListing": 152,
-      "estGainPct": 0.66,
-      "dateText": "15-19 Oct",
-      "status": "Closed",
-      "lastUpdated": "",
-      "about": "Incorporated in 2018, Zetwerk is one of the growing Indian B2B (business-to-business) manufacturing companies that uses technology to supply various types of industrial products to various industries such as electronics, renewable energy, aerospace and defence, capital goods, and precision manufacturing. It is a Bengaluru-based firm that follows an asset-light model and offers end-to-end solutions, such as design, supplier matching, quality control, and logistics. The firm basically helps businesses get their electronics industrial products manufactured, filling the gap between businesses and manufacturers. The firm has a presence in over 25 countries and a network of 10,000+ suppliers and 1,100+ customers. Moreover, Zetwerk operates 20+ manufacturing facilities across India, the United States, and Mexico.",
-      "financials": [
-        {
-          "period": "2024",
-          "revenue": 12523.46,
-          "expense": 12847.55,
-          "pat": 917.95,
-          "assets": 10330.85
-        },
-        {
-          "period": "2025",
-          "revenue": 11492.23,
-          "expense": 11552.03,
-          "pat": 370.71,
-          "assets": 10355.43
-        },
-        {
-          "period": "2026",
-          "revenue": 16100.63,
-          "expense": 16141.73,
-          "pat": 1606.17,
-          "assets": 13384.63
-        },
-        {
-          "period": "June 2026",
-          "revenue": 4195.7,
-          "expense": 16100.63,
-          "pat": 732.98,
-          "assets": 12016.09
-        }
-      ],
-      "revenueTrend": "down",
-      "patTrend": "down",
-      "fundamentals": {
-        "roe": null,
-        "ronw": -21.11,
-        "ebitdaMargin": 2.65,
-        "patMargin": null,
-        "debtEquity": null,
-        "eps": -6.69,
-        "pe": null,
-        "nav": 31.26
-      },
-      "issuePE": null,
-      "promoterPostPct": 11.36,
-      "freshCr": 2830
-    },
-    {
-      "name": "Sahajanand Medical",
-      "segment": "mainboard",
-      "detailUrl": "https://ipowatch.in/sahajanand-medical-technologies-ipo-gmp-grey-market-premium/",
-      "slug": "sahajanand-medical-technologies-ipo-gmp-grey-market-premium",
-      "gmp": 15,
-      "gmpText": "₹15",
-      "trend": "down",
-      "priceBandUpper": 344,
-      "priceBandText": "₹344",
-      "estListing": 359,
-      "estGainPct": 4.36,
-      "dateText": "15-19 Oct",
-      "status": "Closed",
-      "lastUpdated": "",
-      "about": "Incorporated in 2001, Sahajanand Medical Technologies is a medical device firm that focuses on Class III and Class C/D devices, mainly working in the fields of vascular and structural heart intervention. The company was the first globally to achieve CE certification for a drug-eluting stent (DES) with a biodegradable polymer, Infinnium. Its product range is divided into 3 main categories: Vascular Intervention (VI), Structural Heart (SH), and other products. Sahajanand operates two R&D centers, one in India & one in Thailand, backed by a team of 102 professionals such as biomedical engineers and clinical research specialists. Moreover, its key products such as Supraflex Cruz (DES), Hydra (TAVI), and Cocoon (Occluders) are backed by 72 clinical studies and are widely known in over 76 countries across Europe, Asia, and other regions.",
-      "financials": [
-        {
-          "period": "2024",
-          "revenue": 908.59,
-          "expense": 875.5,
-          "pat": 7.35,
-          "assets": 970.58
-        },
-        {
-          "period": "2025",
-          "revenue": 1035.96,
-          "expense": 980.12,
-          "pat": 25.15,
-          "assets": 1094.9
-        },
-        {
-          "period": "2026",
-          "revenue": 1218.73,
-          "expense": 1138.43,
-          "pat": 69.08,
-          "assets": 1276.43
-        },
-        {
-          "period": "June 2026",
-          "revenue": 354.33,
-          "expense": 330.05,
-          "pat": 15.09,
-          "assets": 1308.1
-        }
-      ],
-      "revenueTrend": "down",
-      "patTrend": "up",
-      "fundamentals": {
-        "roe": null,
-        "ronw": 10.6,
-        "ebitdaMargin": 14.1,
-        "patMargin": 5.71,
-        "debtEquity": null,
-        "eps": 6.67,
-        "pe": null,
-        "nav": 62.76
-      },
-      "issuePE": null,
-      "peers": [
-        {
-          "name": "Poly Medicure Limited",
-          "pe": 51.4
-        },
-        {
-          "name": "Laxmi Dental Limited",
-          "pe": 36.35
-        }
-      ],
-      "peerMedianPE": 43.88,
-      "promoterPostPct": 36.2
-    },
-    {
       "name": "Carver Roboweld",
       "segment": "sme",
-      "detailUrl": "https://ipowatch.in/carver-roboweld-ipo-gmp-grey-market-premium/",
-      "slug": "carver-roboweld-ipo-gmp-grey-market-premium",
+      "detailUrl": "https://ipowatch.in/carver-roboweld-ipo-gmp-today/",
+      "slug": "carver-roboweld-ipo-gmp-today",
       "gmp": 0,
       "gmpText": "₹0",
       "trend": "flat",
@@ -758,7 +607,7 @@
       "dateText": "28-30 Oct",
       "status": "Upcoming",
       "lastUpdated": "",
-      "about": "To be updated soon",
+      "about": "Founded in August 2009, Carver Roboweld is one of the leading manufacturers of welding consumables, including metal-cored wires, Welding Rods, and Gauging Electrodes. The firm also supplies welding spare parts and accessories. Recently, the firm also expanded its offerings to provide engineering solutions to the forging industry, including forging die regeneration and welding robot rental services. Its engineering services include heavy-duty machining, structural fabrication, repair and refurbishment of hammers and components, and turnkey engineering projects. Moreover, Carver Roboweld also offers reconditioning and refurbishment services for plant and machinery across industries such as forging, casting, cement, steel, sugar, power, petroleum, automotive, and fabrication. Its manufacturing facility is situated in Bamanbore, Rajkot, Gujarat, while its additional service units are located in Pune, Hosur, and Ludhiana.",
       "financials": [
         {
           "period": "2024",
@@ -822,8 +671,8 @@
     {
       "name": "Wiscon Industries",
       "segment": "sme",
-      "detailUrl": "https://ipowatch.in/wiscon-industries-ipo-gmp-grey-market-premium/",
-      "slug": "wiscon-industries-ipo-gmp-grey-market-premium",
+      "detailUrl": "https://ipowatch.in/wiscon-industries-ipo-gmp-today/",
+      "slug": "wiscon-industries-ipo-gmp-today",
       "gmp": 0,
       "gmpText": "₹0",
       "trend": "flat",
@@ -901,7 +750,7 @@
       "estListing": 93,
       "estGainPct": 0,
       "dateText": "23-27 Oct",
-      "status": "Upcoming",
+      "status": "Open",
       "lastUpdated": "",
       "about": "Founded in 2022, Core4 Engineers is an EPCC company that offers integrated infrastructure solutions for railway infrastructure, power transmission & distribution, and water & wastewater treatment sectors. The company undertakes end-to-end project execution, from design, engineering, procurement, erection, testing, commissioning, and operation & maintenance (O&M). Its business verticals include railway electrification, railway infrastructure, power transmission and distribution, water and wastewater treatment, automation and SCADA systems, and HT/LT electrical panel manufacturing. The company undertakes infrastructure projects for Indian Railways, government-owned companies (PSUs), and other infrastructure contractors. Core4 Engineers operates its own in-house manufacturing facility for High-Tension (HT) and Low-Tension (LT) electrical panels and compact substations.",
       "financials": [
@@ -956,75 +805,6 @@
       "peerMedianPE": 4.95,
       "promoterPostPct": 58.69,
       "freshCr": 54.82
-    },
-    {
-      "name": "Shellz India",
-      "segment": "sme",
-      "detailUrl": "https://ipowatch.in/shellz-india-ipo-gmp-grey-market-premium/",
-      "slug": "shellz-india-ipo-gmp-grey-market-premium",
-      "gmp": 5,
-      "gmpText": "₹5",
-      "trend": "down",
-      "priceBandUpper": 179,
-      "priceBandText": "₹179",
-      "estListing": 184,
-      "estGainPct": 2.79,
-      "dateText": "15-19 Oct",
-      "status": "Closed",
-      "lastUpdated": "",
-      "about": "Shellz India is one of the leading manufacturers, marketers, and suppliers of a wide range of confectionery products, food, and bakery ingredients in India. Its product range includes a total of 250 types of products across various categories, such as chocolate-based products, jellies, baked treats, and other confectionery formats. Moreover, the firm also manufactures and supplies food and bakery ingredients serving urban and semi-urban markets, as well as smaller towns and rural areas. Shellz markets its products under 2 brands: Hugs and Tosca. Its Hugs brand offers 4 major product categories: baked treats, chocolate-based confectionery, jellies, and pan-and-sugar confectionery. While the Tosca brand offers premium products at a high price, it mostly serves urban consumers.",
-      "financials": [
-        {
-          "period": "2024",
-          "revenue": 162.81,
-          "expense": 154.84,
-          "pat": 5.25,
-          "assets": 147.04
-        },
-        {
-          "period": "2025",
-          "revenue": 187.39,
-          "expense": 174.77,
-          "pat": 8.3,
-          "assets": 167.36
-        },
-        {
-          "period": "2026",
-          "revenue": 193.18,
-          "expense": 173.89,
-          "pat": 13.37,
-          "assets": 213.72
-        },
-        {
-          "period": "June 2026",
-          "revenue": 47.43,
-          "expense": 41.6,
-          "pat": 4.08,
-          "assets": 229.36
-        }
-      ],
-      "revenueTrend": "down",
-      "patTrend": "down",
-      "fundamentals": {
-        "roe": 26.87,
-        "ronw": 22.68,
-        "ebitdaMargin": 15.65,
-        "patMargin": 6.94,
-        "debtEquity": 1.71,
-        "eps": 15.37,
-        "pe": null,
-        "nav": 67.63
-      },
-      "issuePE": null,
-      "peers": [
-        {
-          "name": "Annapurna Swadisht Limited",
-          "pe": 8.66
-        }
-      ],
-      "peerMedianPE": 8.66,
-      "promoterPostPct": 63.64,
-      "freshCr": 59.97
     }
   ]
 }
