@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T17:54:06.886Z",
+  "generatedAt": "2026-10-24T16:42:45.870Z",
   "source": "https://ipowatch.in/ipo-grey-market-premium-latest-ipo-gmp/",
   "disclaimer": "GMP (Grey Market Premium) is an unofficial, speculative indicator from the unregulated grey market and can change daily. Nothing here is investment advice.",
   "trackRecord": null,
@@ -9,12 +9,12 @@
       "segment": "mainboard",
       "detailUrl": "https://ipowatch.in/bombay-coated-special-steels-ipo-gmp-grey-market-premium/",
       "slug": "bombay-coated-special-steels-ipo-gmp-grey-market-premium",
-      "gmp": 5,
-      "gmpText": "₹5",
+      "gmp": 8,
+      "gmpText": "₹8",
       "trend": "up",
       "priceBandUpper": 82,
       "priceBandText": "₹82",
-      "estListing": 87,
+      "estListing": 90,
       "estGainPct": 6.1,
       "dateText": "29-2 Nov",
       "status": "Upcoming",
@@ -86,13 +86,13 @@
       "segment": "mainboard",
       "detailUrl": "https://ipowatch.in/mksons-fine-jewels-ipo-gmp-today/",
       "slug": "mksons-fine-jewels-ipo-gmp-today",
-      "gmp": 0,
-      "gmpText": "₹0",
-      "trend": "flat",
+      "gmp": 8,
+      "gmpText": "₹8",
+      "trend": "up",
       "priceBandUpper": 162,
       "priceBandText": "₹162",
-      "estListing": 162,
-      "estGainPct": 0,
+      "estListing": 170,
+      "estGainPct": 4.94,
       "dateText": "28-30 Oct",
       "status": "Upcoming",
       "lastUpdated": "",
@@ -167,13 +167,13 @@
       "segment": "mainboard",
       "detailUrl": "https://ipowatch.in/sfc-environmental-technologies-ipo-gmp-grey-market-premium/",
       "slug": "sfc-environmental-technologies-ipo-gmp-grey-market-premium",
-      "gmp": 21,
-      "gmpText": "₹21",
-      "trend": "down",
+      "gmp": 30,
+      "gmpText": "₹30",
+      "trend": "up",
       "priceBandUpper": 330,
       "priceBandText": "₹330",
-      "estListing": 351,
-      "estGainPct": 6.36,
+      "estListing": 360,
+      "estGainPct": 9.09,
       "dateText": "27-29 Oct",
       "status": "Upcoming",
       "lastUpdated": "",
@@ -245,13 +245,13 @@
       "segment": "mainboard",
       "detailUrl": "https://ipowatch.in/bls-polymers-ipo-gmp-grey-market-premium/",
       "slug": "bls-polymers-ipo-gmp-grey-market-premium",
-      "gmp": 38,
-      "gmpText": "₹38",
-      "trend": "up",
+      "gmp": 35,
+      "gmpText": "₹35",
+      "trend": "down",
       "priceBandUpper": 150,
       "priceBandText": "₹150",
-      "estListing": 188,
-      "estGainPct": 25.33,
+      "estListing": 185,
+      "estGainPct": 23.33,
       "dateText": "27-29 Oct",
       "status": "Upcoming",
       "lastUpdated": "",
@@ -322,13 +322,13 @@
       "segment": "mainboard",
       "detailUrl": "https://ipowatch.in/eaaa-india-alternatives-ipo-gmp-today/",
       "slug": "eaaa-india-alternatives-ipo-gmp-today",
-      "gmp": 0,
-      "gmpText": "₹0",
-      "trend": "flat",
+      "gmp": 80,
+      "gmpText": "₹80",
+      "trend": "down",
       "priceBandUpper": 1665,
       "priceBandText": "₹1,665",
-      "estListing": 1665,
-      "estGainPct": 0,
+      "estListing": 1745,
+      "estGainPct": 4.8,
       "dateText": "26-28 Oct",
       "status": "Upcoming",
       "lastUpdated": "",
@@ -423,15 +423,15 @@
       "segment": "mainboard",
       "detailUrl": "https://ipowatch.in/jio-platforms-ipo-gmp-grey-market-premium/",
       "slug": "jio-platforms-ipo-gmp-grey-market-premium",
-      "gmp": 260,
-      "gmpText": "₹260",
-      "trend": "up",
+      "gmp": 250,
+      "gmpText": "₹250",
+      "trend": "down",
       "priceBandUpper": 1119,
       "priceBandText": "₹1,119",
-      "estListing": 1379,
-      "estGainPct": 23.24,
+      "estListing": 1369,
+      "estGainPct": 22.34,
       "dateText": "21-23 Oct",
-      "status": "Open",
+      "status": "Closed",
       "lastUpdated": "",
       "about": "Founded in 2019, Jio Platforms is a leading digital service provider and a subsidiary of Reliance Industries. MyJio, JioCinema, JioSaavn, and Reliance Jio Infocomm are some of the digital service applications offered by Jio Platforms. Over the years, Jio Platforms has served over 524 million people with its advanced connectivity and digital services. Its main aim is to offer affordable internet connectivity, digital entertainment, gaming, cloud storage, smart home solutions, and AI-enabled digital services to every household. Jio offers high-quality digital solutions at an affordable price point. Its ecosystem includes platforms such as MyJio, JioTV+, JioSaavn, JioGames, and JioAICloud. Moreover, the firm also offers services like enterprise connectivity, cloud solutions, IoT services, unified communications platforms, managed services, security solutions, and private 5G offerings serving enterprise customers, including banking, utilities, transportation, manufacturing, government, and information technology sectors.",
       "financials": [
@@ -504,7 +504,7 @@
       "estListing": 703,
       "estGainPct": 1.44,
       "dateText": "21-23 Oct",
-      "status": "Open",
+      "status": "Closed",
       "lastUpdated": "",
       "about": "Paras Healthcare Limited, founded in 1987, is the fifth-largest healthcare provider across North India, Bihar, and Jharkhand. As of now, the company runs 8 hospitals under the Paras Health brand in North India, including Gurugram, Haryana, Patna, Bihar, Uttar Pradesh, Udaipur, Rajasthan, Jharkhand, and Jammu and Kashmir. The main goal of the company is to offer high-quality and affordable healthcare in tier 2 and tier 3 cities. Heart care, cancer treatment, brain and nerve care, digestive health, and bone and joint replacement are the variety of medical services the company offers. Paras Healthcare has established its presence among customers by having 18 years of experience in the healthcare industry. In March 2022, the company had a bed capacity of 1250 beds, which expanded to 2135 in March 2024. Moreover, the company consists of a dedicated team of 1091 doctors and 1509 nurses throughout its hospitals as of March 31, 2024.",
       "financials": [
@@ -593,6 +593,141 @@
       "ofsCr": 950
     },
     {
+      "name": "Antala Industries",
+      "segment": "sme",
+      "detailUrl": "https://ipowatch.in/antala-industries-ipo-gmp-today/",
+      "slug": "antala-industries-ipo-gmp-today",
+      "gmp": 0,
+      "gmpText": "₹0",
+      "trend": "flat",
+      "priceBandUpper": 67,
+      "priceBandText": "₹67",
+      "estListing": 67,
+      "estGainPct": 0,
+      "dateText": "29-2 Nov",
+      "status": "Upcoming",
+      "lastUpdated": "",
+      "about": "To be updated soon",
+      "financials": [
+        {
+          "period": "2024",
+          "revenue": 12.59,
+          "expense": 11.41,
+          "pat": 0.89,
+          "assets": 5.97
+        },
+        {
+          "period": "2025",
+          "revenue": 25.13,
+          "expense": 22.99,
+          "pat": 1.5,
+          "assets": 15.95
+        },
+        {
+          "period": "2026",
+          "revenue": 47.53,
+          "expense": 41.87,
+          "pat": 4.24,
+          "assets": 28.41
+        }
+      ],
+      "revenueTrend": "up",
+      "patTrend": "up",
+      "fundamentals": {
+        "roe": 24.88,
+        "ronw": 24.88,
+        "ebitdaMargin": 12.97,
+        "patMargin": 8.94,
+        "debtEquity": null,
+        "eps": 7.4,
+        "pe": null,
+        "nav": 20.67
+      },
+      "issuePE": null,
+      "peers": [
+        {
+          "name": "Knack Packaging Limited",
+          "pe": 24.62
+        },
+        {
+          "name": "Dhaval Packaging Limited",
+          "pe": 18.5
+        }
+      ],
+      "peerMedianPE": 21.56,
+      "promoterPostPct": null,
+      "freshCr": 23.33
+    },
+    {
+      "name": "Ajwa Projects",
+      "segment": "sme",
+      "detailUrl": "https://ipowatch.in/ajwa-projects-ipo-gmp-today/",
+      "slug": "ajwa-projects-ipo-gmp-today",
+      "gmp": 0,
+      "gmpText": "₹0",
+      "trend": "flat",
+      "priceBandUpper": 203,
+      "priceBandText": "₹203",
+      "estListing": 203,
+      "estGainPct": 0,
+      "dateText": "28-30 Oct",
+      "status": "Upcoming",
+      "lastUpdated": "",
+      "about": "To be updated soon",
+      "financials": [
+        {
+          "period": "2023",
+          "revenue": 28.8,
+          "expense": 27.81,
+          "pat": 0.61,
+          "assets": 19.29
+        },
+        {
+          "period": "2024",
+          "revenue": 34.38,
+          "expense": 30.27,
+          "pat": 2.95,
+          "assets": 25.67
+        },
+        {
+          "period": "2025",
+          "revenue": 36.87,
+          "expense": 31.46,
+          "pat": 3.28,
+          "assets": 26.29
+        },
+        {
+          "period": "June 2025",
+          "revenue": 12.15,
+          "expense": 10.29,
+          "pat": 1.38,
+          "assets": 26.64
+        }
+      ],
+      "revenueTrend": "down",
+      "patTrend": "up",
+      "fundamentals": {
+        "roe": null,
+        "ronw": 30.99,
+        "ebitdaMargin": 17.27,
+        "patMargin": 8.94,
+        "debtEquity": 0.65,
+        "eps": 8.21,
+        "pe": null,
+        "nav": null
+      },
+      "issuePE": null,
+      "peers": [
+        {
+          "name": "Atmastco Limited",
+          "pe": 28.17
+        }
+      ],
+      "peerMedianPE": 28.17,
+      "promoterPostPct": 65.12,
+      "freshCr": 30.45
+    },
+    {
       "name": "Carver Roboweld",
       "segment": "sme",
       "detailUrl": "https://ipowatch.in/carver-roboweld-ipo-gmp-today/",
@@ -600,9 +735,9 @@
       "gmp": 0,
       "gmpText": "₹0",
       "trend": "flat",
-      "priceBandUpper": null,
-      "priceBandText": "₹[.]",
-      "estListing": 0,
+      "priceBandUpper": 80,
+      "priceBandText": "₹80",
+      "estListing": 80,
       "estGainPct": 0,
       "dateText": "28-30 Oct",
       "status": "Upcoming",
@@ -666,7 +801,8 @@
         }
       ],
       "peerMedianPE": 20.11,
-      "promoterPostPct": null
+      "promoterPostPct": 65.77,
+      "freshCr": 28.29
     },
     {
       "name": "Wiscon Industries",
@@ -678,7 +814,7 @@
       "trend": "flat",
       "priceBandUpper": 204,
       "priceBandText": "₹204",
-      "estListing": 0,
+      "estListing": 204,
       "estGainPct": 0,
       "dateText": "27-29 Oct",
       "status": "Upcoming",
@@ -755,13 +891,6 @@
       "about": "Founded in 2022, Core4 Engineers is an EPCC company that offers integrated infrastructure solutions for railway infrastructure, power transmission & distribution, and water & wastewater treatment sectors. The company undertakes end-to-end project execution, from design, engineering, procurement, erection, testing, commissioning, and operation & maintenance (O&M). Its business verticals include railway electrification, railway infrastructure, power transmission and distribution, water and wastewater treatment, automation and SCADA systems, and HT/LT electrical panel manufacturing. The company undertakes infrastructure projects for Indian Railways, government-owned companies (PSUs), and other infrastructure contractors. Core4 Engineers operates its own in-house manufacturing facility for High-Tension (HT) and Low-Tension (LT) electrical panels and compact substations.",
       "financials": [
         {
-          "period": "2023",
-          "revenue": 13.18,
-          "expense": 12.01,
-          "pat": 0.84,
-          "assets": 14.61
-        },
-        {
           "period": "2024",
           "revenue": 33.63,
           "expense": 29.54,
@@ -773,36 +902,43 @@
           "revenue": 34.6,
           "expense": 29.24,
           "pat": 3.81,
-          "assets": 68.1
+          "assets": 67.12
         },
         {
-          "period": "Sep 2025",
-          "revenue": 47.31,
-          "expense": 39.19,
-          "pat": 6.05,
-          "assets": 77.35
+          "period": "2026",
+          "revenue": 91.79,
+          "expense": 75.25,
+          "pat": 12.37,
+          "assets": 116.32
+        },
+        {
+          "period": "June 2026",
+          "revenue": 45.77,
+          "expense": 37.48,
+          "pat": 6.17,
+          "assets": 145.43
         }
       ],
       "revenueTrend": "up",
       "patTrend": "up",
       "fundamentals": {
-        "roe": 30.31,
-        "ronw": 20.37,
-        "ebitdaMargin": 19.98,
-        "patMargin": 11.15,
-        "debtEquity": 0.99,
-        "eps": 2.59,
+        "roe": 49.7,
+        "ronw": 39.81,
+        "ebitdaMargin": 20.04,
+        "patMargin": 13.54,
+        "debtEquity": 1.02,
+        "eps": 8.36,
         "pe": null,
-        "nav": 12.72
+        "nav": 21.01
       },
       "issuePE": null,
       "peers": [
         {
           "name": "K2 Infragen Limited",
-          "pe": 4.95
+          "pe": 3.97
         }
       ],
-      "peerMedianPE": 4.95,
+      "peerMedianPE": 3.97,
       "promoterPostPct": 58.69,
       "freshCr": 54.82
     }
