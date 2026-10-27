@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T19:24:53.409Z",
+  "generatedAt": "2026-10-27T18:46:17.386Z",
   "source": "https://ipowatch.in/ipo-grey-market-premium-latest-ipo-gmp/",
   "disclaimer": "GMP (Grey Market Premium) is an unofficial, speculative indicator from the unregulated grey market and can change daily. Nothing here is investment advice.",
   "trackRecord": null,
@@ -9,13 +9,13 @@
       "segment": "mainboard",
       "detailUrl": "https://ipowatch.in/bombay-coated-special-steels-ipo-gmp-grey-market-premium/",
       "slug": "bombay-coated-special-steels-ipo-gmp-grey-market-premium",
-      "gmp": 8,
-      "gmpText": "₹8",
-      "trend": "flat",
+      "gmp": 9,
+      "gmpText": "₹9",
+      "trend": "up",
       "priceBandUpper": 82,
       "priceBandText": "₹82",
-      "estListing": 90,
-      "estGainPct": 6.1,
+      "estListing": 91,
+      "estGainPct": 10.98,
       "dateText": "29-2 Nov",
       "status": "Upcoming",
       "lastUpdated": "",
@@ -88,7 +88,7 @@
       "slug": "mksons-fine-jewels-ipo-gmp-today",
       "gmp": 8,
       "gmpText": "₹8",
-      "trend": "flat",
+      "trend": "up",
       "priceBandUpper": 162,
       "priceBandText": "₹162",
       "estListing": 170,
@@ -167,41 +167,41 @@
       "segment": "mainboard",
       "detailUrl": "https://ipowatch.in/sfc-environmental-technologies-ipo-gmp-grey-market-premium/",
       "slug": "sfc-environmental-technologies-ipo-gmp-grey-market-premium",
-      "gmp": 32,
-      "gmpText": "₹32",
+      "gmp": 22,
+      "gmpText": "₹22",
       "trend": "up",
       "priceBandUpper": 330,
       "priceBandText": "₹330",
-      "estListing": 362,
-      "estGainPct": 9.7,
+      "estListing": 352,
+      "estGainPct": 6.67,
       "dateText": "27-29 Oct",
-      "status": "Upcoming",
+      "status": "Open",
       "lastUpdated": "",
       "about": "Founded in March 2005, SFC Environmental Technologies is a prominent environmental technology firm providing solutions for the design, engineering, manufacturing, supply, installation, and commissioning of wastewater treatment (“WWT”), wastewater recycling and reuse (“WRR”), and solid waste treatment (“SWT”). The firm uses its own C-tech technology and an advanced sequencing batch reactor (“SBR”) process to clean wastewater from sewage and industrial activities. The firm offers technology packages, equipment, automation systems, installation, commissioning, and related services for wastewater treatment. Moreover, so far, the firm has installed and started operating 728 wastewater treatment systems and helped treat around 17.51 billion litres of wastewater every day. From design and engineering to construction, equipment supply, commissioning, and operations and maintenance, SFC Environmental offers end-to-end solutions.",
       "financials": [
         {
-          "period": "31 Mar 2024",
+          "period": "2024",
           "revenue": 676.74,
           "expense": 485.7,
           "pat": 144.17,
           "assets": 904.94
         },
         {
-          "period": "31 Mar 2025",
+          "period": "2025",
           "revenue": 726.96,
           "expense": 521.59,
           "pat": 152.01,
           "assets": 999.47
         },
         {
-          "period": "31 Mar 2026",
+          "period": "2026",
           "revenue": 821.27,
           "expense": 610.53,
           "pat": 160.21,
           "assets": 1323.43
         },
         {
-          "period": "30 Jun 2026",
+          "period": "Jun 2026",
           "revenue": 137.9,
           "expense": 135.96,
           "pat": 1.48,
@@ -236,7 +236,7 @@
         }
       ],
       "peerMedianPE": 34.57,
-      "promoterPostPct": 41.18,
+      "promoterPostPct": 29.94,
       "freshCr": 150,
       "ofsCr": 518
     },
@@ -245,15 +245,15 @@
       "segment": "mainboard",
       "detailUrl": "https://ipowatch.in/bls-polymers-ipo-gmp-grey-market-premium/",
       "slug": "bls-polymers-ipo-gmp-grey-market-premium",
-      "gmp": 38,
-      "gmpText": "₹38",
+      "gmp": 40,
+      "gmpText": "₹40",
       "trend": "up",
       "priceBandUpper": 150,
       "priceBandText": "₹150",
-      "estListing": 188,
-      "estGainPct": 25.33,
+      "estListing": 190,
+      "estGainPct": 26.67,
       "dateText": "27-29 Oct",
-      "status": "Upcoming",
+      "status": "Open",
       "lastUpdated": "",
       "about": "BLS Polymers is one of the leading firm that manufactures specialised polymer compounds used in wires, cables, and underground pipelines. Its product range consists of HDPE, MDPE, LLDPE, XLPE, PVC, HFFR, cable filling compounds, and adhesive coating compounds, serving a wide range of industries including power, telecommunications, railways, water, and oil and gas. Its manufacturing facility is situated in Goa, equipped with 11 machines and spread across approximately 24,220 sq. metres. Moreover, BLS Polymers has its own in-house lab, a quality control team, and an ISO certification. Furthermore, the firm also designs customised products to meet the needs of the customer’s requirements. As of now, BLS Polymers serves more than 190 customers and exports its products to countries including Bangladesh, Egypt, Saudi Arabia, the UAE, the USA, and Zambia.",
       "financials": [
@@ -322,13 +322,13 @@
       "segment": "mainboard",
       "detailUrl": "https://ipowatch.in/eaaa-india-alternatives-ipo-gmp-today/",
       "slug": "eaaa-india-alternatives-ipo-gmp-today",
-      "gmp": 50,
-      "gmpText": "₹50",
+      "gmp": 20,
+      "gmpText": "₹20",
       "trend": "down",
       "priceBandUpper": 1665,
       "priceBandText": "₹1,665",
-      "estListing": 1715,
-      "estGainPct": 3,
+      "estListing": 1685,
+      "estGainPct": 1.2,
       "dateText": "26-28 Oct",
       "status": "Open",
       "lastUpdated": "",
@@ -423,13 +423,13 @@
       "segment": "mainboard",
       "detailUrl": "https://ipowatch.in/jio-platforms-ipo-gmp-grey-market-premium/",
       "slug": "jio-platforms-ipo-gmp-grey-market-premium",
-      "gmp": 250,
-      "gmpText": "₹250",
-      "trend": "flat",
+      "gmp": 260,
+      "gmpText": "₹260",
+      "trend": "up",
       "priceBandUpper": 1119,
       "priceBandText": "₹1,119",
-      "estListing": 1369,
-      "estGainPct": 22.34,
+      "estListing": 1379,
+      "estGainPct": 23.23,
       "dateText": "21-23 Oct",
       "status": "Closed",
       "lastUpdated": "",
@@ -496,13 +496,13 @@
       "segment": "mainboard",
       "detailUrl": "https://ipowatch.in/paras-healthcare-ipo-gmp-grey-market-premium/",
       "slug": "paras-healthcare-ipo-gmp-grey-market-premium",
-      "gmp": 10,
-      "gmpText": "₹10",
-      "trend": "flat",
+      "gmp": 11,
+      "gmpText": "₹11",
+      "trend": "down",
       "priceBandUpper": 693,
       "priceBandText": "₹693",
-      "estListing": 703,
-      "estGainPct": 1.44,
+      "estListing": 704,
+      "estGainPct": 1.59,
       "dateText": "21-23 Oct",
       "status": "Closed",
       "lastUpdated": "",
@@ -593,6 +593,288 @@
       "ofsCr": 950
     },
     {
+      "name": "Johnsoncab Electricals",
+      "segment": "sme",
+      "detailUrl": "https://ipowatch.in/johnsoncab-electricals-ipo-gmp-today/",
+      "slug": "johnsoncab-electricals-ipo-gmp-today",
+      "gmp": 0,
+      "gmpText": "₹0",
+      "trend": "flat",
+      "priceBandUpper": 200,
+      "priceBandText": "₹200",
+      "estListing": 200,
+      "estGainPct": 0,
+      "dateText": "30-3 Nov",
+      "status": "Upcoming",
+      "lastUpdated": "",
+      "about": "Founded in November 2020, Johnsoncab Electricals is one of the leading manufacturers of low-voltage wires and cables up to 1.1 kV. Its product range includes control cables, power cables, industrial single- and multicore control cables, housing and building wires, welding cables, solar/photovoltaic cables, and submersible flat cables. The firm sells its products under the brand “JOHNSON CABLES,” serving both private and government customers. Its product range caters to power infrastructure, transmission and distribution, renewable energy, railways, and allied industrial applications. Johnsoncab operates its 2 manufacturing facilities in Mehsana, Gujarat, which are equipped with machinery for wire drawing, annealing, bunching, insulation, extrusion, testing, and packaging.",
+      "financials": [
+        {
+          "period": "2024",
+          "revenue": 88.95,
+          "expense": 85.65,
+          "pat": 2.52,
+          "assets": 48.44
+        },
+        {
+          "period": "2025",
+          "revenue": 140,
+          "expense": 132.63,
+          "pat": 5.46,
+          "assets": 64.28
+        },
+        {
+          "period": "2026",
+          "revenue": 211.34,
+          "expense": 193.4,
+          "pat": 13.42,
+          "assets": 126.64
+        }
+      ],
+      "revenueTrend": "up",
+      "patTrend": "up",
+      "fundamentals": {
+        "roe": 58.75,
+        "ronw": 42.68,
+        "ebitdaMargin": 11.43,
+        "patMargin": 6.38,
+        "debtEquity": 2.54,
+        "eps": 17.81,
+        "pe": null,
+        "nav": 40.47
+      },
+      "issuePE": null,
+      "peers": [
+        {
+          "name": "Prime Cable Industries Limited",
+          "pe": 27.31
+        },
+        {
+          "name": "JD Cables Ltd",
+          "pe": 14.78
+        },
+        {
+          "name": "Susan Electricals India Ltd",
+          "pe": 20.19
+        }
+      ],
+      "peerMedianPE": 20.19,
+      "promoterPostPct": null,
+      "freshCr": 56.02
+    },
+    {
+      "name": "HGS (India)",
+      "segment": "sme",
+      "detailUrl": "https://ipowatch.in/hgs-india-ipo-gmp-today/",
+      "slug": "hgs-india-ipo-gmp-today",
+      "gmp": 0,
+      "gmpText": "₹0",
+      "trend": "flat",
+      "priceBandUpper": 120,
+      "priceBandText": "₹120",
+      "estListing": 120,
+      "estGainPct": 0,
+      "dateText": "30-3 Nov",
+      "status": "Upcoming",
+      "lastUpdated": "",
+      "about": "HGS (India) Limited, established in 1986, is a company that makes specialised equipment used to study what lies beneath the Earth’s surface, especially for seismic and geoscience applications. The company was formed with technical and financial support from Geosource Inc., USA, and operates under the brand name “HG”. It manufactures products like geophones, seismic cables, connectors, and other accessories used to detect and record ground movements. These tools are widely used in areas such as oil and gas exploration, mineral discovery, earthquake research, defence studies, and monitoring the safety of large infrastructure projects. As of September 30, 2025, the company has built a presence in 21 countries and works with 146 clients in India and abroad. It also has a team of 161 permanent employees.",
+      "financials": [
+        {
+          "period": "2024",
+          "revenue": 37.93,
+          "expense": 33.25,
+          "pat": 4,
+          "assets": 113.7
+        },
+        {
+          "period": "2025",
+          "revenue": 53.45,
+          "expense": 39.63,
+          "pat": 10.51,
+          "assets": 104.04
+        },
+        {
+          "period": "2026",
+          "revenue": 48.91,
+          "expense": 33.5,
+          "pat": 11.64,
+          "assets": 110.12
+        },
+        {
+          "period": "April 2026",
+          "revenue": 3.79,
+          "expense": 2.33,
+          "pat": 1.11,
+          "assets": 111.9
+        }
+      ],
+      "revenueTrend": "down",
+      "patTrend": "down",
+      "fundamentals": {
+        "roe": 13.04,
+        "ronw": 13.04,
+        "ebitdaMargin": 37.4,
+        "patMargin": 25.77,
+        "debtEquity": null,
+        "eps": 13.64,
+        "pe": null,
+        "nav": 104.63
+      },
+      "issuePE": null,
+      "promoterPostPct": 63.5,
+      "freshCr": 27.91
+    },
+    {
+      "name": "Maxwell Engineering",
+      "segment": "sme",
+      "detailUrl": "https://ipowatch.in/maxwell-engineering-solutions-ipo-gmp-today/",
+      "slug": "maxwell-engineering-solutions-ipo-gmp-today",
+      "gmp": 0,
+      "gmpText": "₹0",
+      "trend": "flat",
+      "priceBandUpper": 158,
+      "priceBandText": "₹158",
+      "estListing": 158,
+      "estGainPct": 0,
+      "dateText": "30-3 Nov",
+      "status": "Upcoming",
+      "lastUpdated": "",
+      "about": "Since its establishment in September 2022, Maxwell Engineering Solutions has been a precision engineering firm involved in the manufacturing, trading, and servicing of critical components for underwater pelletizing systems. The company designs a diverse range of underwater pelletizing systems, including pelletizing die plates, pelletizing blades and knives, blade holders, cutter hubs, tapped driving bushes, and other spare parts. Its products are used in polymer compounding, masterbatches, engineering plastics, cable compounds, specialty polymers, and plastics recycling industries. Maxwell operates its own manufacturing units at Vadodara, Gujarat, equipped with precision machining and testing equipment such as VMC, CNC, milling, EDM, wire-cut, lathe, and surface-grinding machines. Further, the company supplies its products to both domestic and international markets, including the USA, Germany, the Netherlands, Israel, Saudi Arabia, Japan, Australia, Italy, and other countries.",
+      "financials": [
+        {
+          "period": "2024",
+          "revenue": 10.87,
+          "expense": 7.04,
+          "pat": 3.16,
+          "assets": 8.51
+        },
+        {
+          "period": "2025",
+          "revenue": 22.59,
+          "expense": 11.54,
+          "pat": 9.18,
+          "assets": 25.31
+        },
+        {
+          "period": "2026",
+          "revenue": 30.76,
+          "expense": 16.36,
+          "pat": 11.86,
+          "assets": 47.55
+        },
+        {
+          "period": "Jul 2026",
+          "revenue": 12.25,
+          "expense": 8.58,
+          "pat": 3.05,
+          "assets": 51.79
+        }
+      ],
+      "revenueTrend": "up",
+      "patTrend": "down",
+      "fundamentals": {
+        "roe": 62.63,
+        "ronw": 47.7,
+        "ebitdaMargin": 51.58,
+        "patMargin": 40.28,
+        "debtEquity": null,
+        "eps": 11.8,
+        "pe": null,
+        "nav": 24.74
+      },
+      "issuePE": null,
+      "peers": [
+        {
+          "name": "Omnitech Engineering Ltd",
+          "pe": 99
+        },
+        {
+          "name": "Sunita Tools Ltd.",
+          "pe": 100.65
+        }
+      ],
+      "peerMedianPE": 99.83,
+      "promoterPostPct": 71.36,
+      "freshCr": 57.64
+    },
+    {
+      "name": "Vectras Enprocon",
+      "segment": "sme",
+      "detailUrl": "https://ipowatch.in/vectras-enprocon-ipo-gmp-today/",
+      "slug": "vectras-enprocon-ipo-gmp-today",
+      "gmp": 0,
+      "gmpText": "₹0",
+      "trend": "flat",
+      "priceBandUpper": 105,
+      "priceBandText": "₹105",
+      "estListing": 105,
+      "estGainPct": 0,
+      "dateText": "30-3 Nov",
+      "status": "Upcoming",
+      "lastUpdated": "",
+      "about": "Vectras Enprocon is an EPC firm that operates in the midstream (Middle Stage) and downstream (Last stage) segments of the Oil & Gas industry. The company operates across three business verticals: Oil & Gas Station Works, providing mechanical, electrical, and civil work in Refineries, petrochemical complexes, Gas Processing Units, Oil & Gas Terminals, and petroleum depots; Pipeline Projects, covering midstream and downstream oil and gas pipelines; and Other Allied Services, including civil infrastructure, electrical, instrumentation, inspection, testing, and safety auditing services for the oil and gas industry. So far, Vectras Enprocon has completed over 3,34,000 inch diameter piping, 785 inch-kilometer pipelines, and 4 combined station projects. The company focuses on laying pipeline networks, building combined stations, and constructing related facilities across multiple states in India.",
+      "financials": [
+        {
+          "period": "2024",
+          "revenue": 54.37,
+          "expense": 46.25,
+          "pat": 5.81,
+          "assets": 21.47
+        },
+        {
+          "period": "2025",
+          "revenue": 80.53,
+          "expense": 66.97,
+          "pat": 10.17,
+          "assets": 46.5
+        },
+        {
+          "period": "2026",
+          "revenue": 119.9,
+          "expense": 99.06,
+          "pat": 15.43,
+          "assets": 74.94
+        },
+        {
+          "period": "Sep 2026",
+          "revenue": 72.2,
+          "expense": 59.98,
+          "pat": 9.1,
+          "assets": 90.91
+        }
+      ],
+      "revenueTrend": "up",
+      "patTrend": "up",
+      "fundamentals": {
+        "roe": 51.39,
+        "ronw": 51.39,
+        "ebitdaMargin": 20.04,
+        "patMargin": 12.88,
+        "debtEquity": 0.59,
+        "eps": 10.29,
+        "pe": null,
+        "nav": 25.17
+      },
+      "issuePE": null,
+      "peers": [
+        {
+          "name": "Pratham EPC Projects Limited",
+          "pe": 34.47
+        },
+        {
+          "name": "Desco Infratech Limited",
+          "pe": 8.35
+        },
+        {
+          "name": "Likhitha Infrastructure Limited",
+          "pe": 22.43
+        }
+      ],
+      "peerMedianPE": 22.43,
+      "promoterPostPct": null,
+      "freshCr": 42.59
+    },
+    {
       "name": "Antala Industries",
       "segment": "sme",
       "detailUrl": "https://ipowatch.in/antala-industries-ipo-gmp-today/",
@@ -663,13 +945,13 @@
       "segment": "sme",
       "detailUrl": "https://ipowatch.in/ajwa-projects-ipo-gmp-today/",
       "slug": "ajwa-projects-ipo-gmp-today",
-      "gmp": 0,
-      "gmpText": "₹0",
-      "trend": "flat",
+      "gmp": 10,
+      "gmpText": "₹10",
+      "trend": "up",
       "priceBandUpper": 203,
       "priceBandText": "₹203",
-      "estListing": 203,
-      "estGainPct": 0,
+      "estListing": 213,
+      "estGainPct": 4.93,
       "dateText": "28-30 Oct",
       "status": "Upcoming",
       "lastUpdated": "",
@@ -817,7 +1099,7 @@
       "estListing": 204,
       "estGainPct": 0,
       "dateText": "27-29 Oct",
-      "status": "Upcoming",
+      "status": "Open",
       "lastUpdated": "",
       "about": "Wiscon Industries, established in September 2022, has been trading and supplying consumer electronic products across India. Its product range includes LED TVs, air coolers, washing machines, and air conditioners under its brand “Wiscon”. Furthermore, Wiscon also sells electric scooters sourced from a third-party brand. The company sells its products to both business customers (B2B) and individual consumers (B2C). Moreover, its products are distributed through an offline dealer and distributor network as well as its own online platform, through which it can reach its customers across the country. Financially, in FY24-25, the firm generated revenue of ₹14.49 crore and ₹73.39 crore in FY 2025–26, reflecting strong financial growth over the last 3 years.",
       "financials": [
