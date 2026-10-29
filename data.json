@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T18:56:06.702Z",
+  "generatedAt": "2026-10-29T19:01:04.499Z",
   "source": "https://ipowatch.in/ipo-grey-market-premium-latest-ipo-gmp/",
   "disclaimer": "GMP (Grey Market Premium) is an unofficial, speculative indicator from the unregulated grey market and can change daily. Nothing here is investment advice.",
   "trackRecord": null,
@@ -17,7 +17,7 @@
       "estListing": 91,
       "estGainPct": 10.98,
       "dateText": "29-2 Nov",
-      "status": "Upcoming",
+      "status": "Open",
       "lastUpdated": "",
       "about": "Founded in 1992, Bombay Coated & Special Steels is one of the leading steel producers. Its business is focused on transforming steel coils into high-quality steel products like slit coils, blanks, and sheets. Its products are used by OEMs and ODMs across industries, such as home and commercial appliances and general engineering. Its processing units are situated in Wada, Bhiwandi, Ghiloth, and Sricity, covering 42,209 sq. meters. The firm is involved in precision slitting, cut-to-length processing, shearing, and embossing of steel coils to manufacture slit coils, embossed slit coils, blanks, embossed blanks, and sheared blanks. Its products cater to a wide range of industries such as home and commercial appliances, automotive and auto components, electrical equipment, pharmaceutical cleanroom infrastructure, ventilation systems, and general engineering. Along with steel coil processing, the firm also offers logistics and inventory management services.",
       "financials": [
@@ -86,13 +86,13 @@
       "segment": "mainboard",
       "detailUrl": "https://ipowatch.in/mksons-fine-jewels-ipo-gmp-today/",
       "slug": "mksons-fine-jewels-ipo-gmp-today",
-      "gmp": 10,
-      "gmpText": "₹10",
+      "gmp": 15,
+      "gmpText": "₹15",
       "trend": "up",
       "priceBandUpper": 162,
       "priceBandText": "₹162",
-      "estListing": 172,
-      "estGainPct": 6.17,
+      "estListing": 177,
+      "estGainPct": 9.26,
       "dateText": "28-30 Oct",
       "status": "Open",
       "lastUpdated": "",
@@ -167,13 +167,13 @@
       "segment": "mainboard",
       "detailUrl": "https://ipowatch.in/sfc-environmental-technologies-ipo-gmp-grey-market-premium/",
       "slug": "sfc-environmental-technologies-ipo-gmp-grey-market-premium",
-      "gmp": 18,
-      "gmpText": "₹18",
+      "gmp": 12,
+      "gmpText": "₹12",
       "trend": "down",
       "priceBandUpper": 330,
       "priceBandText": "₹330",
-      "estListing": 348,
-      "estGainPct": 5.45,
+      "estListing": 342,
+      "estGainPct": 3.64,
       "dateText": "27-29 Oct",
       "status": "Open",
       "lastUpdated": "",
@@ -245,13 +245,13 @@
       "segment": "mainboard",
       "detailUrl": "https://ipowatch.in/bls-polymers-ipo-gmp-grey-market-premium/",
       "slug": "bls-polymers-ipo-gmp-grey-market-premium",
-      "gmp": 44,
-      "gmpText": "₹44",
+      "gmp": 51,
+      "gmpText": "₹51",
       "trend": "up",
       "priceBandUpper": 150,
       "priceBandText": "₹150",
-      "estListing": 194,
-      "estGainPct": 29.33,
+      "estListing": 201,
+      "estGainPct": 34,
       "dateText": "27-29 Oct",
       "status": "Open",
       "lastUpdated": "",
@@ -322,15 +322,15 @@
       "segment": "mainboard",
       "detailUrl": "https://ipowatch.in/eaaa-india-alternatives-ipo-gmp-today/",
       "slug": "eaaa-india-alternatives-ipo-gmp-today",
-      "gmp": 12,
-      "gmpText": "₹12",
-      "trend": "down",
+      "gmp": 30,
+      "gmpText": "₹30",
+      "trend": "up",
       "priceBandUpper": 1665,
       "priceBandText": "₹1,665",
-      "estListing": 1677,
-      "estGainPct": 0.72,
+      "estListing": 1695,
+      "estGainPct": 1.8,
       "dateText": "26-28 Oct",
-      "status": "Open",
+      "status": "Closed",
       "lastUpdated": "",
       "about": "EAAA India Alternatives, founded on May 14, 2008, is an alternative investment management platform that manages investments in India’s real estate and private credit markets. It manages investment funds and offers alternative investment solutions to domestic and global institutional investors, high-net-worth individuals (“HNIs”), ultra-high-net-worth individuals (“UHNIs”), and family offices. Moreover, the firm operates in two investment areas: Real Assets and Private Credit. It also provides portfolio management services and other investment solutions. Its Real Assets division invests in infrastructure, commercial properties, energy transition projects, and other long-term investment opportunities. Its private credit offer financing solutions across performing credit, special situations, real estate credit and investment-grade credit. Moreover, its product portfolio includes 10 active Real Assets funds, including two Infrastructure Investment Trusts (“InvITs”), and 16 active Private Credit funds. As of June 30, 2026, EAAA India Alternatives has assets under management (“AUM”) of ₹95,344.88 crore.",
       "financials": [
@@ -419,180 +419,6 @@
       "ofsCr": 1200
     },
     {
-      "name": "Jio Platforms",
-      "segment": "mainboard",
-      "detailUrl": "https://ipowatch.in/jio-platforms-ipo-gmp-grey-market-premium/",
-      "slug": "jio-platforms-ipo-gmp-grey-market-premium",
-      "gmp": 247,
-      "gmpText": "₹247",
-      "trend": "down",
-      "priceBandUpper": 1119,
-      "priceBandText": "₹1,119",
-      "estListing": 1366,
-      "estGainPct": 22.07,
-      "dateText": "21-23 Oct",
-      "status": "Closed",
-      "lastUpdated": "",
-      "about": "Founded in 2019, Jio Platforms is a leading digital service provider and a subsidiary of Reliance Industries. MyJio, JioCinema, JioSaavn, and Reliance Jio Infocomm are some of the digital service applications offered by Jio Platforms. Over the years, Jio Platforms has served over 524 million people with its advanced connectivity and digital services. Its main aim is to offer affordable internet connectivity, digital entertainment, gaming, cloud storage, smart home solutions, and AI-enabled digital services to every household. Jio offers high-quality digital solutions at an affordable price point. Its ecosystem includes platforms such as MyJio, JioTV+, JioSaavn, JioGames, and JioAICloud. Moreover, the firm also offers services like enterprise connectivity, cloud solutions, IoT services, unified communications platforms, managed services, security solutions, and private 5G offerings serving enterprise customers, including banking, utilities, transportation, manufacturing, government, and information technology sectors.",
-      "financials": [
-        {
-          "period": "2024",
-          "revenue": 110175.4,
-          "expense": 81367.4,
-          "pat": 21434,
-          "assets": 539580.4
-        },
-        {
-          "period": "2025",
-          "revenue": 129333,
-          "expense": 94205.7,
-          "pat": 26120.3,
-          "assets": 581233.8
-        },
-        {
-          "period": "2026",
-          "revenue": 149759.1,
-          "expense": 109406,
-          "pat": 30052.7,
-          "assets": 615594
-        },
-        {
-          "period": "June 2026",
-          "revenue": 40197.9,
-          "expense": 29770.8,
-          "pat": 7764.1,
-          "assets": 622905.3
-        }
-      ],
-      "revenueTrend": "down",
-      "patTrend": "down",
-      "fundamentals": {
-        "roe": null,
-        "ronw": 9.42,
-        "ebitdaMargin": 51.91,
-        "patMargin": 20.46,
-        "debtEquity": null,
-        "eps": 33.63,
-        "pe": null,
-        "nav": 373.66
-      },
-      "issuePE": null,
-      "peers": [
-        {
-          "name": "Bharti Airtel Limited",
-          "pe": 40.71
-        },
-        {
-          "name": "Vodafone Idea Limited",
-          "pe": 3.99
-        }
-      ],
-      "peerMedianPE": 22.35,
-      "promoterPostPct": 64.48,
-      "freshCr": 30213
-    },
-    {
-      "name": "Paras Healthcare",
-      "segment": "mainboard",
-      "detailUrl": "https://ipowatch.in/paras-healthcare-ipo-gmp-grey-market-premium/",
-      "slug": "paras-healthcare-ipo-gmp-grey-market-premium",
-      "gmp": 13,
-      "gmpText": "₹13",
-      "trend": "down",
-      "priceBandUpper": 693,
-      "priceBandText": "₹693",
-      "estListing": 706,
-      "estGainPct": 1.88,
-      "dateText": "21-23 Oct",
-      "status": "Closed",
-      "lastUpdated": "",
-      "about": "Paras Healthcare Limited, founded in 1987, is the fifth-largest healthcare provider across North India, Bihar, and Jharkhand. As of now, the company runs 8 hospitals under the Paras Health brand in North India, including Gurugram, Haryana, Patna, Bihar, Uttar Pradesh, Udaipur, Rajasthan, Jharkhand, and Jammu and Kashmir. The main goal of the company is to offer high-quality and affordable healthcare in tier 2 and tier 3 cities. Heart care, cancer treatment, brain and nerve care, digestive health, and bone and joint replacement are the variety of medical services the company offers. Paras Healthcare has established its presence among customers by having 18 years of experience in the healthcare industry. In March 2022, the company had a bed capacity of 1250 beds, which expanded to 2135 in March 2024. Moreover, the company consists of a dedicated team of 1091 doctors and 1509 nurses throughout its hospitals as of March 31, 2024.",
-      "financials": [
-        {
-          "period": "2024",
-          "revenue": 1151.02,
-          "expense": 1144.39,
-          "pat": 15.33,
-          "assets": 14776.58
-        },
-        {
-          "period": "2025",
-          "revenue": 1314.21,
-          "expense": 1364.24,
-          "pat": 57.99,
-          "assets": 18104.51
-        },
-        {
-          "period": "2026",
-          "revenue": 1628.79,
-          "expense": 1552.75,
-          "pat": 43.83,
-          "assets": 20711.41
-        },
-        {
-          "period": "Jun 2026",
-          "revenue": 478.75,
-          "expense": 430.63,
-          "pat": 49.68,
-          "assets": 22028.78
-        }
-      ],
-      "revenueTrend": "down",
-      "patTrend": "up",
-      "fundamentals": {
-        "roe": 12.98,
-        "ronw": 12.98,
-        "ebitdaMargin": 20.6,
-        "patMargin": 2.69,
-        "debtEquity": 3.53,
-        "eps": 4.34,
-        "pe": null,
-        "nav": 39.11
-      },
-      "issuePE": null,
-      "peers": [
-        {
-          "name": "Aster DM Healthcare Limited",
-          "pe": 95.9
-        },
-        {
-          "name": "Apollo Hospitals Enterprise Limited",
-          "pe": 60.02
-        },
-        {
-          "name": "Fortis Healthcare Limited",
-          "pe": 67.31
-        },
-        {
-          "name": "Global Health Limited",
-          "pe": 56.55
-        },
-        {
-          "name": "Jupiter Lifeline Hospitals Limited",
-          "pe": 43.98
-        },
-        {
-          "name": "Krishna Institute of Medical Sciences Limited",
-          "pe": 124.98
-        },
-        {
-          "name": "Max Healthcare Institute Limited",
-          "pe": 63.59
-        },
-        {
-          "name": "Narayana Hrudayalaya Limited",
-          "pe": 48
-        },
-        {
-          "name": "Yatharth Hospital and Trauma Care Services Limited",
-          "pe": 43.56
-        }
-      ],
-      "peerMedianPE": 60.02,
-      "freshCr": 500,
-      "ofsCr": 950
-    },
-    {
       "name": "Vedant Poly Fabs",
       "segment": "sme",
       "detailUrl": "https://ipowatch.in/vedant-poly-fabs-ipo-gmp-today/",
@@ -607,7 +433,7 @@
       "dateText": "2-4 Nov",
       "status": "Upcoming",
       "lastUpdated": "",
-      "about": "To be updated soon",
+      "about": "Founded in December 2018, Vedant Poly Fabs is one of the growing manufacturers of flexible packaging materials in India. The company provides a wide range of packaging products such as 3-layer and 5-layer LD films, shrink films, barrier films, printed laminates, and milk and oil pouches, serving the food & beverage and other consumer goods industries. The firm operates an integrated manufacturing facility that covers raw material procurement, film extrusion, printing, lamination, slitting, quality control, packing, and dispatch. Since starting its business, Vedant Poly has expanded its portfolio and strengthened its manufacturing capabilities by hiring teams across sales, design, production, logistics, and dispatch. Moreover, in March 2026, it further enhanced its business by adding lamination, slitting, and pouching machines.",
       "financials": [
         {
           "period": "2024",
@@ -663,13 +489,13 @@
       "segment": "sme",
       "detailUrl": "https://ipowatch.in/johnsoncab-electricals-ipo-gmp-today/",
       "slug": "johnsoncab-electricals-ipo-gmp-today",
-      "gmp": 0,
-      "gmpText": "₹0",
-      "trend": "flat",
+      "gmp": 10,
+      "gmpText": "₹10",
+      "trend": "up",
       "priceBandUpper": 200,
       "priceBandText": "₹200",
-      "estListing": 200,
-      "estGainPct": 0,
+      "estListing": 210,
+      "estGainPct": 5,
       "dateText": "30-3 Nov",
       "status": "Upcoming",
       "lastUpdated": "",
@@ -695,6 +521,13 @@
           "expense": 193.4,
           "pat": 13.42,
           "assets": 126.64
+        },
+        {
+          "period": "Aug 2026",
+          "revenue": 113.33,
+          "expense": 101.77,
+          "pat": 8.63,
+          "assets": 132.07
         }
       ],
       "revenueTrend": "up",
@@ -725,7 +558,7 @@
         }
       ],
       "peerMedianPE": 20.19,
-      "promoterPostPct": null,
+      "promoterPostPct": 73.5,
       "freshCr": 56.02
     },
     {
@@ -795,13 +628,13 @@
       "segment": "sme",
       "detailUrl": "https://ipowatch.in/maxwell-engineering-solutions-ipo-gmp-today/",
       "slug": "maxwell-engineering-solutions-ipo-gmp-today",
-      "gmp": 27,
-      "gmpText": "₹27",
+      "gmp": 40,
+      "gmpText": "₹40",
       "trend": "up",
       "priceBandUpper": 158,
       "priceBandText": "₹158",
-      "estListing": 185,
-      "estGainPct": 17.09,
+      "estListing": 198,
+      "estGainPct": 25.32,
       "dateText": "30-3 Nov",
       "status": "Upcoming",
       "lastUpdated": "",
@@ -953,7 +786,7 @@
       "estListing": 67,
       "estGainPct": 0,
       "dateText": "29-2 Nov",
-      "status": "Upcoming",
+      "status": "Open",
       "lastUpdated": "",
       "about": "Founded in August 2024, Antala Industries is involved in the manufacturing, processing, printing, laminating, and supply of industrial and commercial packaging products. The company mainly makes BOPP bags, BOPP printing rolls, BOPP lamination rolls, PP woven bags, and PP woven lamination rolls, serving customers across industries such as food processing, fertilizers, chemicals, cement, and seeds. Antala Industries operates its manufacturing facility in Rajkot, which is equipped with extrusion, coating, and lamination, rotogravure printing, stitching, and finishing. The firm also provides customized packaging solutions with a focus on strength, durability, moisture resistance, high-quality printability, and enhanced product visibility. The company operates an integrated manufacturing unit where it performs end-to-end operations, from printing and lamination to cutting, stitching, finishing, and packaging, supporting quality control, production efficiency, and timely delivery.",
       "financials": [
@@ -977,6 +810,13 @@
           "expense": 41.87,
           "pat": 4.24,
           "assets": 28.41
+        },
+        {
+          "period": "Sep 2026",
+          "revenue": 30.2,
+          "expense": 24.72,
+          "pat": 4.19,
+          "assets": 34.88
         }
       ],
       "revenueTrend": "up",
@@ -1003,7 +843,7 @@
         }
       ],
       "peerMedianPE": 21.56,
-      "promoterPostPct": null,
+      "promoterPostPct": 52.04,
       "freshCr": 23.33
     },
     {
@@ -1011,25 +851,18 @@
       "segment": "sme",
       "detailUrl": "https://ipowatch.in/ajwa-projects-ipo-gmp-today/",
       "slug": "ajwa-projects-ipo-gmp-today",
-      "gmp": 38,
-      "gmpText": "₹38",
-      "trend": "up",
+      "gmp": 35,
+      "gmpText": "₹35",
+      "trend": "down",
       "priceBandUpper": 203,
       "priceBandText": "₹203",
-      "estListing": 241,
-      "estGainPct": 18.72,
+      "estListing": 238,
+      "estGainPct": 17.24,
       "dateText": "28-30 Oct",
       "status": "Open",
       "lastUpdated": "",
       "about": "Founded in 2011, Ajwa Projects provides a wide range of industrial services across fabrication, erection, piping, pressure equipment, prefabricated structures, civil construction, and maintenance. The company focuses on turning industrial project designs and plans into reality. Ajwa Projects manufactures important technological frameworks, industrial buildings, girders, heavy modules, platforms, and crane girders that are critical for plant construction and infrastructure projects. Moreover, the company also manufactures specialised metal components such as dish ends, crowns, petals, and customised parts, including diesel engine components for railway applications. Its products cater to a wide range of industries such as oil & gas, petrochemicals, refineries, power generation, steel, heavy metals, cement, nuclear power, bridges, metro rail, and bullet train infrastructure.",
       "financials": [
-        {
-          "period": "2023",
-          "revenue": 28.8,
-          "expense": 27.81,
-          "pat": 0.61,
-          "assets": 19.29
-        },
         {
           "period": "2024",
           "revenue": 34.38,
@@ -1045,33 +878,44 @@
           "assets": 26.29
         },
         {
-          "period": "June 2025",
-          "revenue": 12.15,
-          "expense": 10.29,
-          "pat": 1.38,
-          "assets": 26.64
+          "period": "2026",
+          "revenue": 48.56,
+          "expense": 41.11,
+          "pat": 5.42,
+          "assets": 36.37
+        },
+        {
+          "period": "June 2026",
+          "revenue": 12.44,
+          "expense": 10.34,
+          "pat": 1.56,
+          "assets": 41.97
         }
       ],
       "revenueTrend": "down",
-      "patTrend": "up",
+      "patTrend": "down",
       "fundamentals": {
-        "roe": null,
-        "ronw": 30.99,
-        "ebitdaMargin": 17.27,
-        "patMargin": 8.94,
-        "debtEquity": 0.65,
-        "eps": 8.21,
-        "pe": null,
-        "nav": null
+        "roe": 36.15,
+        "ronw": 36.15,
+        "ebitdaMargin": 18.66,
+        "patMargin": 11.2,
+        "debtEquity": 0.71,
+        "eps": 13.56,
+        "pe": 14.97,
+        "nav": 44.28
       },
-      "issuePE": null,
+      "issuePE": 14.97,
       "peers": [
         {
           "name": "Atmastco Limited",
-          "pe": 28.17
+          "pe": 15.97
+        },
+        {
+          "name": "Samay Project Services Limited",
+          "pe": 9.52
         }
       ],
-      "peerMedianPE": 28.17,
+      "peerMedianPE": 12.75,
       "promoterPostPct": 65.12,
       "freshCr": 30.45
     },
