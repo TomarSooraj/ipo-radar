@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T22:22:26.273Z",
+  "generatedAt": "2026-11-03T20:10:00.680Z",
   "source": "https://ipowatch.in/ipo-grey-market-premium-latest-ipo-gmp/",
   "disclaimer": "GMP (Grey Market Premium) is an unofficial, speculative indicator from the unregulated grey market and can change daily. Nothing here is investment advice.",
   "trackRecord": null,
@@ -17,7 +17,7 @@
       "estListing": 91,
       "estGainPct": 10.98,
       "dateText": "29-2 Nov",
-      "status": "Open",
+      "status": "Closed",
       "lastUpdated": "",
       "about": "Founded in 1992, Bombay Coated & Special Steels is one of the leading steel producers. Its business is focused on transforming steel coils into high-quality steel products like slit coils, blanks, and sheets. Its products are used by OEMs and ODMs across industries, such as home and commercial appliances and general engineering. Its processing units are situated in Wada, Bhiwandi, Ghiloth, and Sricity, covering 42,209 sq. meters. The firm is involved in precision slitting, cut-to-length processing, shearing, and embossing of steel coils to manufacture slit coils, embossed slit coils, blanks, embossed blanks, and sheared blanks. Its products cater to a wide range of industries such as home and commercial appliances, automotive and auto components, electrical equipment, pharmaceutical cleanroom infrastructure, ventilation systems, and general engineering. Along with steel coil processing, the firm also offers logistics and inventory management services.",
       "financials": [
@@ -86,13 +86,13 @@
       "segment": "mainboard",
       "detailUrl": "https://ipowatch.in/mksons-fine-jewels-ipo-gmp-today/",
       "slug": "mksons-fine-jewels-ipo-gmp-today",
-      "gmp": 5,
-      "gmpText": "₹5",
-      "trend": "down",
+      "gmp": 7,
+      "gmpText": "₹7",
+      "trend": "up",
       "priceBandUpper": 162,
       "priceBandText": "₹162",
-      "estListing": 167,
-      "estGainPct": 3.09,
+      "estListing": 169,
+      "estGainPct": 4.32,
       "dateText": "28-30 Oct",
       "status": "Closed",
       "lastUpdated": "",
@@ -167,13 +167,13 @@
       "segment": "mainboard",
       "detailUrl": "https://ipowatch.in/sfc-environmental-technologies-ipo-gmp-grey-market-premium/",
       "slug": "sfc-environmental-technologies-ipo-gmp-grey-market-premium",
-      "gmp": 26,
-      "gmpText": "₹26",
-      "trend": "up",
+      "gmp": 15,
+      "gmpText": "₹15",
+      "trend": "down",
       "priceBandUpper": 330,
       "priceBandText": "₹330",
-      "estListing": 356,
-      "estGainPct": 7.88,
+      "estListing": 345,
+      "estGainPct": 4.55,
       "dateText": "27-29 Oct",
       "status": "Closed",
       "lastUpdated": "",
@@ -318,107 +318,6 @@
       "freshCr": 255
     },
     {
-      "name": "EAAA India Alternatives",
-      "segment": "mainboard",
-      "detailUrl": "https://ipowatch.in/eaaa-india-alternatives-ipo-gmp-today/",
-      "slug": "eaaa-india-alternatives-ipo-gmp-today",
-      "gmp": 54,
-      "gmpText": "₹54",
-      "trend": "down",
-      "priceBandUpper": 1665,
-      "priceBandText": "₹1,665",
-      "estListing": 1719,
-      "estGainPct": 3.24,
-      "dateText": "26-28 Oct",
-      "status": "Closed",
-      "lastUpdated": "",
-      "about": "EAAA India Alternatives, founded on May 14, 2008, is an alternative investment management platform that manages investments in India’s real estate and private credit markets. It manages investment funds and offers alternative investment solutions to domestic and global institutional investors, high-net-worth individuals (“HNIs”), ultra-high-net-worth individuals (“UHNIs”), and family offices. Moreover, the firm operates in two investment areas: Real Assets and Private Credit. It also provides portfolio management services and other investment solutions. Its Real Assets division invests in infrastructure, commercial properties, energy transition projects, and other long-term investment opportunities. Its private credit offer financing solutions across performing credit, special situations, real estate credit and investment-grade credit. Moreover, its product portfolio includes 10 active Real Assets funds, including two Infrastructure Investment Trusts (“InvITs”), and 16 active Private Credit funds. As of June 30, 2026, EAAA India Alternatives has assets under management (“AUM”) of ₹95,344.88 crore.",
-      "financials": [
-        {
-          "period": "2024",
-          "revenue": 584.25,
-          "expense": 371.56,
-          "pat": 175.16,
-          "assets": 1769.66
-        },
-        {
-          "period": "2025",
-          "revenue": 786.54,
-          "expense": 502.22,
-          "pat": 229.78,
-          "assets": 2085.07
-        },
-        {
-          "period": "2026",
-          "revenue": 963.76,
-          "expense": 615.24,
-          "pat": 265.2,
-          "assets": 2170.28
-        },
-        {
-          "period": "Jun 2026",
-          "revenue": 336.13,
-          "expense": 230.33,
-          "pat": 80.71,
-          "assets": 2101.84
-        }
-      ],
-      "revenueTrend": "down",
-      "patTrend": "down",
-      "fundamentals": {
-        "roe": 25.97,
-        "ronw": 25.97,
-        "ebitdaMargin": null,
-        "patMargin": 27.52,
-        "debtEquity": 0.41,
-        "eps": 41.26,
-        "pe": null,
-        "nav": 163.69
-      },
-      "issuePE": null,
-      "peers": [
-        {
-          "name": "360 One WAM Limited",
-          "pe": 35.67
-        },
-        {
-          "name": "Aditya Birla Sun Life AMC Limited",
-          "pe": 29.84
-        },
-        {
-          "name": "Anand Rathi Wealth Limited",
-          "pe": 90.69
-        },
-        {
-          "name": "HDFC Asset Management Company Limited",
-          "pe": 33.76
-        },
-        {
-          "name": "Gaja Alternative Asset Management Limited",
-          "pe": 16.47
-        },
-        {
-          "name": "Nippon Life India Asset Management Limited",
-          "pe": 43.99
-        },
-        {
-          "name": "Nuvama Wealth Management Limited",
-          "pe": 30.99
-        },
-        {
-          "name": "UTI Asset Management Company Limited",
-          "pe": 27.93
-        },
-        {
-          "name": "ICICI Prudential Asset Management Company Limited",
-          "pe": 45.95
-        }
-      ],
-      "peerMedianPE": 33.76,
-      "promoterPostPct": 83.88,
-      "ofsCr": 1200
-    },
-    {
       "name": "Vedant Poly Fabs",
       "segment": "sme",
       "detailUrl": "https://ipowatch.in/vedant-poly-fabs-ipo-gmp-today/",
@@ -481,7 +380,7 @@
         }
       ],
       "peerMedianPE": 20.95,
-      "promoterPostPct": null,
+      "promoterPostPct": 70.08,
       "freshCr": 51.01
     },
     {
@@ -489,13 +388,13 @@
       "segment": "sme",
       "detailUrl": "https://ipowatch.in/johnsoncab-electricals-ipo-gmp-today/",
       "slug": "johnsoncab-electricals-ipo-gmp-today",
-      "gmp": 5,
-      "gmpText": "₹5",
-      "trend": "down",
+      "gmp": 10,
+      "gmpText": "₹10",
+      "trend": "up",
       "priceBandUpper": 200,
       "priceBandText": "₹200",
-      "estListing": 205,
-      "estGainPct": 2.5,
+      "estListing": 210,
+      "estGainPct": 5,
       "dateText": "30-3 Nov",
       "status": "Open",
       "lastUpdated": "",
@@ -628,13 +527,13 @@
       "segment": "sme",
       "detailUrl": "https://ipowatch.in/maxwell-engineering-solutions-ipo-gmp-today/",
       "slug": "maxwell-engineering-solutions-ipo-gmp-today",
-      "gmp": 70,
-      "gmpText": "₹70",
+      "gmp": 80,
+      "gmpText": "₹80",
       "trend": "up",
       "priceBandUpper": 158,
       "priceBandText": "₹158",
-      "estListing": 228,
-      "estGainPct": 44.3,
+      "estListing": 238,
+      "estGainPct": 50.63,
       "dateText": "30-3 Nov",
       "status": "Open",
       "lastUpdated": "",
@@ -770,7 +669,7 @@
         }
       ],
       "peerMedianPE": 22.43,
-      "promoterPostPct": null,
+      "promoterPostPct": 73.49,
       "freshCr": 42.59
     },
     {
@@ -781,12 +680,12 @@
       "gmp": 0,
       "gmpText": "₹0",
       "trend": "flat",
-      "priceBandUpper": 67,
-      "priceBandText": "₹67",
-      "estListing": 67,
+      "priceBandUpper": 66,
+      "priceBandText": "₹66",
+      "estListing": 66,
       "estGainPct": 0,
-      "dateText": "29-2 Nov",
-      "status": "Open",
+      "dateText": "29-5 Nov",
+      "status": "Closed",
       "lastUpdated": "",
       "about": "Founded in August 2024, Antala Industries is involved in the manufacturing, processing, printing, laminating, and supply of industrial and commercial packaging products. The company mainly makes BOPP bags, BOPP printing rolls, BOPP lamination rolls, PP woven bags, and PP woven lamination rolls, serving customers across industries such as food processing, fertilizers, chemicals, cement, and seeds. Antala Industries operates its manufacturing facility in Rajkot, which is equipped with extrusion, coating, and lamination, rotogravure printing, stitching, and finishing. The firm also provides customized packaging solutions with a focus on strength, durability, moisture resistance, high-quality printability, and enhanced product visibility. The company operates an integrated manufacturing unit where it performs end-to-end operations, from printing and lamination to cutting, stitching, finishing, and packaging, supporting quality control, production efficiency, and timely delivery.",
       "financials": [
@@ -799,9 +698,9 @@
         },
         {
           "period": "2025",
-          "revenue": 25.13,
+          "revenue": 31.98,
           "expense": 22.99,
-          "pat": 1.5,
+          "pat": 1.82,
           "assets": 15.95
         },
         {
@@ -844,7 +743,7 @@
       ],
       "peerMedianPE": 21.56,
       "promoterPostPct": 52.04,
-      "freshCr": 23.33
+      "freshCr": 22.98
     },
     {
       "name": "Ajwa Projects",
