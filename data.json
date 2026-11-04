@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T20:10:00.680Z",
+  "generatedAt": "2026-11-04T20:27:42.678Z",
   "source": "https://ipowatch.in/ipo-grey-market-premium-latest-ipo-gmp/",
   "disclaimer": "GMP (Grey Market Premium) is an unofficial, speculative indicator from the unregulated grey market and can change daily. Nothing here is investment advice.",
   "trackRecord": null,
@@ -86,13 +86,13 @@
       "segment": "mainboard",
       "detailUrl": "https://ipowatch.in/mksons-fine-jewels-ipo-gmp-today/",
       "slug": "mksons-fine-jewels-ipo-gmp-today",
-      "gmp": 7,
-      "gmpText": "₹7",
+      "gmp": 10,
+      "gmpText": "₹10",
       "trend": "up",
       "priceBandUpper": 162,
       "priceBandText": "₹162",
-      "estListing": 169,
-      "estGainPct": 4.32,
+      "estListing": 172,
+      "estGainPct": 6.17,
       "dateText": "28-30 Oct",
       "status": "Closed",
       "lastUpdated": "",
@@ -241,94 +241,17 @@
       "ofsCr": 518
     },
     {
-      "name": "BLS Polymers",
-      "segment": "mainboard",
-      "detailUrl": "https://ipowatch.in/bls-polymers-ipo-gmp-grey-market-premium/",
-      "slug": "bls-polymers-ipo-gmp-grey-market-premium",
-      "gmp": 70,
-      "gmpText": "₹70",
-      "trend": "up",
-      "priceBandUpper": 150,
-      "priceBandText": "₹150",
-      "estListing": 220,
-      "estGainPct": 46.67,
-      "dateText": "27-29 Oct",
-      "status": "Closed",
-      "lastUpdated": "",
-      "about": "BLS Polymers is one of the leading firm that manufactures specialised polymer compounds used in wires, cables, and underground pipelines. Its product range consists of HDPE, MDPE, LLDPE, XLPE, PVC, HFFR, cable filling compounds, and adhesive coating compounds, serving a wide range of industries including power, telecommunications, railways, water, and oil and gas. Its manufacturing facility is situated in Goa, equipped with 11 machines and spread across approximately 24,220 sq. metres. Moreover, BLS Polymers has its own in-house lab, a quality control team, and an ISO certification. Furthermore, the firm also designs customised products to meet the needs of the customer’s requirements. As of now, BLS Polymers serves more than 190 customers and exports its products to countries including Bangladesh, Egypt, Saudi Arabia, the UAE, the USA, and Zambia.",
-      "financials": [
-        {
-          "period": "2024",
-          "revenue": 301.5,
-          "expense": 291.81,
-          "pat": 7.52,
-          "assets": 168.49
-        },
-        {
-          "period": "2025",
-          "revenue": 336.7,
-          "expense": 308.43,
-          "pat": 21.14,
-          "assets": 179.14
-        },
-        {
-          "period": "2026",
-          "revenue": 354.41,
-          "expense": 318.43,
-          "pat": 27.01,
-          "assets": 206.13
-        },
-        {
-          "period": "June 2026",
-          "revenue": 107.81,
-          "expense": 94.13,
-          "pat": 10.23,
-          "assets": 231.34
-        }
-      ],
-      "revenueTrend": "down",
-      "patTrend": "up",
-      "fundamentals": {
-        "roe": 33.17,
-        "ronw": 28.45,
-        "ebitdaMargin": 13.33,
-        "patMargin": 7.73,
-        "debtEquity": 0.56,
-        "eps": 5.99,
-        "pe": 31.98,
-        "nav": 21.08
-      },
-      "issuePE": 31.98,
-      "peers": [
-        {
-          "name": "Kingfa Science & Technology (India)",
-          "pe": 46.25
-        },
-        {
-          "name": "DDev Plastiks Industries Limited",
-          "pe": 12.97
-        },
-        {
-          "name": "Plastiblends India Limited",
-          "pe": 14.53
-        }
-      ],
-      "peerMedianPE": 14.53,
-      "promoterPostPct": 71.53,
-      "freshCr": 255
-    },
-    {
       "name": "Vedant Poly Fabs",
       "segment": "sme",
       "detailUrl": "https://ipowatch.in/vedant-poly-fabs-ipo-gmp-today/",
       "slug": "vedant-poly-fabs-ipo-gmp-today",
-      "gmp": 15,
-      "gmpText": "₹15",
-      "trend": "up",
+      "gmp": 11,
+      "gmpText": "₹11",
+      "trend": "down",
       "priceBandUpper": 94,
       "priceBandText": "₹94",
-      "estListing": 109,
-      "estGainPct": 15.96,
+      "estListing": 105,
+      "estGainPct": 11.7,
       "dateText": "2-4 Nov",
       "status": "Open",
       "lastUpdated": "",
@@ -388,15 +311,15 @@
       "segment": "sme",
       "detailUrl": "https://ipowatch.in/johnsoncab-electricals-ipo-gmp-today/",
       "slug": "johnsoncab-electricals-ipo-gmp-today",
-      "gmp": 10,
-      "gmpText": "₹10",
-      "trend": "up",
+      "gmp": 8,
+      "gmpText": "₹8",
+      "trend": "down",
       "priceBandUpper": 200,
       "priceBandText": "₹200",
-      "estListing": 210,
-      "estGainPct": 5,
+      "estListing": 208,
+      "estGainPct": 4,
       "dateText": "30-3 Nov",
-      "status": "Open",
+      "status": "Closed",
       "lastUpdated": "",
       "about": "Founded in November 2020, Johnsoncab Electricals is one of the leading manufacturers of low-voltage wires and cables up to 1.1 kV. Its product range includes control cables, power cables, industrial single- and multicore control cables, housing and building wires, welding cables, solar/photovoltaic cables, and submersible flat cables. The firm sells its products under the brand “JOHNSON CABLES,” serving both private and government customers. Its product range caters to power infrastructure, transmission and distribution, renewable energy, railways, and allied industrial applications. Johnsoncab operates its 2 manufacturing facilities in Mehsana, Gujarat, which are equipped with machinery for wire drawing, annealing, bunching, insulation, extrusion, testing, and packaging.",
       "financials": [
@@ -465,15 +388,15 @@
       "segment": "sme",
       "detailUrl": "https://ipowatch.in/hgs-india-ipo-gmp-today/",
       "slug": "hgs-india-ipo-gmp-today",
-      "gmp": 30,
-      "gmpText": "₹30",
-      "trend": "up",
+      "gmp": 25,
+      "gmpText": "₹25",
+      "trend": "down",
       "priceBandUpper": 120,
       "priceBandText": "₹120",
-      "estListing": 150,
-      "estGainPct": 25,
+      "estListing": 145,
+      "estGainPct": 20.83,
       "dateText": "30-3 Nov",
-      "status": "Open",
+      "status": "Closed",
       "lastUpdated": "",
       "about": "HGS (India) Limited, established in 1986, is a company that makes specialised equipment used to study what lies beneath the Earth’s surface, especially for seismic and geoscience applications. The company was formed with technical and financial support from Geosource Inc., USA, and operates under the brand name “HG”. It manufactures products like geophones, seismic cables, connectors, and other accessories used to detect and record ground movements. These tools are widely used in areas such as oil and gas exploration, mineral discovery, earthquake research, defence studies, and monitoring the safety of large infrastructure projects. As of September 30, 2025, the company has built a presence in 21 countries and works with 146 clients in India and abroad. It also has a team of 161 permanent employees.",
       "financials": [
@@ -535,7 +458,7 @@
       "estListing": 238,
       "estGainPct": 50.63,
       "dateText": "30-3 Nov",
-      "status": "Open",
+      "status": "Closed",
       "lastUpdated": "",
       "about": "Since its establishment in September 2022, Maxwell Engineering Solutions has been a precision engineering firm involved in the manufacturing, trading, and servicing of critical components for underwater pelletizing systems. The company designs a diverse range of underwater pelletizing systems, including pelletizing die plates, pelletizing blades and knives, blade holders, cutter hubs, tapped driving bushes, and other spare parts. Its products are used in polymer compounding, masterbatches, engineering plastics, cable compounds, specialty polymers, and plastics recycling industries. Maxwell operates its own manufacturing units at Vadodara, Gujarat, equipped with precision machining and testing equipment such as VMC, CNC, milling, EDM, wire-cut, lathe, and surface-grinding machines. Further, the company supplies its products to both domestic and international markets, including the USA, Germany, the Netherlands, Israel, Saudi Arabia, Japan, Australia, Italy, and other countries.",
       "financials": [
@@ -608,7 +531,7 @@
       "estListing": 105,
       "estGainPct": 0,
       "dateText": "30-3 Nov",
-      "status": "Open",
+      "status": "Closed",
       "lastUpdated": "",
       "about": "Vectras Enprocon is an EPC firm that operates in the midstream (Middle Stage) and downstream (Last stage) segments of the Oil & Gas industry. The company operates across three business verticals: Oil & Gas Station Works, providing mechanical, electrical, and civil work in Refineries, petrochemical complexes, Gas Processing Units, Oil & Gas Terminals, and petroleum depots; Pipeline Projects, covering midstream and downstream oil and gas pipelines; and Other Allied Services, including civil infrastructure, electrical, instrumentation, inspection, testing, and safety auditing services for the oil and gas industry. So far, Vectras Enprocon has completed over 3,34,000 inch diameter piping, 785 inch-kilometer pipelines, and 4 combined station projects. The company focuses on laying pipeline networks, building combined stations, and constructing related facilities across multiple states in India.",
       "financials": [
@@ -685,7 +608,7 @@
       "estListing": 66,
       "estGainPct": 0,
       "dateText": "29-5 Nov",
-      "status": "Closed",
+      "status": "Open",
       "lastUpdated": "",
       "about": "Founded in August 2024, Antala Industries is involved in the manufacturing, processing, printing, laminating, and supply of industrial and commercial packaging products. The company mainly makes BOPP bags, BOPP printing rolls, BOPP lamination rolls, PP woven bags, and PP woven lamination rolls, serving customers across industries such as food processing, fertilizers, chemicals, cement, and seeds. Antala Industries operates its manufacturing facility in Rajkot, which is equipped with extrusion, coating, and lamination, rotogravure printing, stitching, and finishing. The firm also provides customized packaging solutions with a focus on strength, durability, moisture resistance, high-quality printability, and enhanced product visibility. The company operates an integrated manufacturing unit where it performs end-to-end operations, from printing and lamination to cutting, stitching, finishing, and packaging, supporting quality control, production efficiency, and timely delivery.",
       "financials": [
@@ -894,75 +817,6 @@
       "peerMedianPE": 20.11,
       "promoterPostPct": 65.77,
       "freshCr": 28.29
-    },
-    {
-      "name": "Wiscon Industries",
-      "segment": "sme",
-      "detailUrl": "https://ipowatch.in/wiscon-industries-ipo-gmp-today/",
-      "slug": "wiscon-industries-ipo-gmp-today",
-      "gmp": 0,
-      "gmpText": "₹0",
-      "trend": "flat",
-      "priceBandUpper": 204,
-      "priceBandText": "₹204",
-      "estListing": 204,
-      "estGainPct": 0,
-      "dateText": "27-29 Oct",
-      "status": "Closed",
-      "lastUpdated": "",
-      "about": "Wiscon Industries, established in September 2022, has been trading and supplying consumer electronic products across India. Its product range includes LED TVs, air coolers, washing machines, and air conditioners under its brand “Wiscon”. Furthermore, Wiscon also sells electric scooters sourced from a third-party brand. The company sells its products to both business customers (B2B) and individual consumers (B2C). Moreover, its products are distributed through an offline dealer and distributor network as well as its own online platform, through which it can reach its customers across the country. Financially, in FY24-25, the firm generated revenue of ₹14.49 crore and ₹73.39 crore in FY 2025–26, reflecting strong financial growth over the last 3 years.",
-      "financials": [
-        {
-          "period": "2024",
-          "revenue": 3.22,
-          "expense": 5.03,
-          "pat": 1.36,
-          "assets": 1.27
-        },
-        {
-          "period": "2025",
-          "revenue": 14.51,
-          "expense": 12.82,
-          "pat": 1.25,
-          "assets": 9.51
-        },
-        {
-          "period": "2026",
-          "revenue": 197.13,
-          "expense": 169.72,
-          "pat": 20.41,
-          "assets": 90.75
-        },
-        {
-          "period": "June 2026",
-          "revenue": 69.85,
-          "expense": 59.35,
-          "pat": 7.89,
-          "assets": 144.79
-        }
-      ],
-      "revenueTrend": "up",
-      "patTrend": "up",
-      "fundamentals": {
-        "roe": 117.37,
-        "ronw": 66.67,
-        "ebitdaMargin": 14.27,
-        "patMargin": 10.36,
-        "debtEquity": 0.83,
-        "eps": 13.56,
-        "pe": null,
-        "nav": 19.53
-      },
-      "issuePE": null,
-      "peers": [
-        {
-          "name": "Cellecor Gadgets Limited",
-          "pe": 19.44
-        }
-      ],
-      "peerMedianPE": 19.44,
-      "promoterPostPct": 68.46,
-      "freshCr": 88.01
     }
   ]
 }
