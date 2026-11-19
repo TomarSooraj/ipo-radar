@@ -1,24 +1,54 @@
 {
-  "generatedAt": "2026-11-18T21:28:41.408Z",
+  "generatedAt": "2026-11-19T21:40:30.062Z",
   "source": "https://ipowatch.in/ipo-grey-market-premium-latest-ipo-gmp/",
   "disclaimer": "GMP (Grey Market Premium) is an unofficial, speculative indicator from the unregulated grey market and can change daily. Nothing here is investment advice.",
   "trackRecord": null,
   "ipos": [
     {
+      "name": "Shree Siddhivinayak Greentech Industries",
+      "segment": "mainboard",
+      "detailUrl": "https://ipowatch.in/shree-siddhivinayak-greentech-industries-ipo-details/",
+      "slug": "shree-siddhivinayak-greentech-industries-ipo-details",
+      "gmp": 0,
+      "gmpText": "₹0",
+      "trend": "unknown",
+      "priceBandUpper": 142,
+      "priceBandText": "₹130 - ₹142",
+      "estListing": 142,
+      "estGainPct": null,
+      "dateText": "25 Nov - 27 Nov",
+      "status": "Shree Siddhivinayak Greentech Industries",
+      "lastUpdated": "19 Nov 2026",
+      "about": "Shree Siddhivinayak Greentech Industries IPO open date is November 25, 2026 and the IPO will close on November 27, 2026. Shree Siddhivinayak Greentech Industries IPO is a book-built issue. The company to raise around ₹94 crores via IPO that comprises fresh issue of ₹94 crores and offer for sale up to [.] equity shares with face value of ₹10 each. Shree Siddhivinayak Greentech Industries IPO price band is ₹130 to ₹142 per share. The retail quota is 49.47%, QIB is 1.05%, and HNI is 49.47%. Shree Siddhivinayak Greentech Industries IPO is to list on NSE on December 2, 2026. The allotment of Shree Siddhivinayak Greentech Industries IPO date is November 30, 2026.",
+      "peers": [
+        {
+          "name": "Dollex Agrotech Limited",
+          "pe": 16.39
+        },
+        {
+          "name": "Dhampure Speciality Sugars Limited",
+          "pe": 22.65
+        }
+      ],
+      "peerMedianPE": 19.52,
+      "freshCr": 94,
+      "ofsCr": 0
+    },
+    {
       "name": "Crystal Crop Protection",
       "segment": "mainboard",
       "detailUrl": "https://ipowatch.in/crystal-crop-protection-ipo-details/",
       "slug": "crystal-crop-protection-ipo-details",
-      "gmp": 19,
-      "gmpText": "+₹ 19",
+      "gmp": 17,
+      "gmpText": "+₹ 17",
       "trend": "unknown",
       "priceBandUpper": 272,
       "priceBandText": "₹259 - ₹272",
-      "estListing": 291,
-      "estGainPct": 6.99,
+      "estListing": 289,
+      "estGainPct": 6.25,
       "dateText": "18 Nov - 20 Nov",
       "status": "Crystal Crop Protection",
-      "lastUpdated": "18 Nov 2026",
+      "lastUpdated": "19 Nov 2026",
       "about": "Crystal Crop Protection IPO open date is November 18, 2026, and the IPO will close on November 20, 2026. Crystal Crop Protection IPO is a book-built issue. The company to raise around ₹455.71 crores via IPO that comprises fresh issue of 355 crores and offer for sale up to 37,02,694 equity shares with face value of ₹10 each. Crystal Crop Protection IPO price band is ₹259 to ₹272 per share. The retail quota is 35%, QIB is 50%, and HNI is 15%. Crystal Crop Protection IPO is to list on BSE and NSE on November 26, 2026. The allotment of Crystal Crop Protection IPO date is November 23, 2026. The company reported revenue of ₹3,180.98 crores in 2026 against ₹2,731.94 crores in 2025. The company reported a profit of ₹144.91 crores in 2026, up from ₹118.39 crores in 2025.",
       "peers": [
         {
@@ -46,10 +76,10 @@
       "freshCr": 355,
       "ofsCr": 100.71,
       "subscription": {
-        "qib": 191.54,
-        "nii": 24.24,
-        "retail": 211.43,
-        "overall": 464.63
+        "qib": 202.36,
+        "nii": 96.18,
+        "retail": 514.94,
+        "overall": 973.73
       }
     },
     {
@@ -57,35 +87,41 @@
       "segment": "mainboard",
       "detailUrl": "https://ipowatch.in/mahanadi-coalfields-ipo-details/",
       "slug": "mahanadi-coalfields-ipo-details",
-      "gmp": 3,
-      "gmpText": "+₹ 3",
+      "gmp": 2,
+      "gmpText": "+₹ 2",
       "trend": "unknown",
       "priceBandUpper": 136,
       "priceBandText": "₹129 - ₹136",
-      "estListing": 139,
-      "estGainPct": 2.21,
+      "estListing": 138,
+      "estGainPct": 1.47,
       "dateText": "19 Nov - 23 Nov",
       "status": "Mahanadi Coalfields",
-      "lastUpdated": "18 Nov 2026",
+      "lastUpdated": "19 Nov 2026",
       "about": "Founded in April 1992, Mahanadi Coalfields Limited (MCL) is India’s largest coal producer, mining and producing non-coking coal. The firm operates in two coal-producing areas in Odisha: Talcher and Ib Valley, and produces various grades of coal, such as washed and beneficiated coal. Its products cater to a wide range of industries, including cement, sponge iron, steel, aluminium, and paper. Mahanadi Coalfields is a wholly owned subsidiary of Coal India Limited and was started to increase the production of coal in India. It operates 17 mines, including 14 opencast mines and three underground mines. The firm uses a highly mechanised mining model where it uses surface miners for coal extraction, avoiding the use of explosives, ground vibration, dust, and noise. Furthermore, the company operates a coal washing facility that can wash up to 10 million tonnes of coal annually.",
       "freshCr": 0,
-      "ofsCr": 8981.12
+      "ofsCr": 8981.12,
+      "subscription": {
+        "qib": 1932.75,
+        "nii": 48.94,
+        "retail": 361.35,
+        "overall": 2542.78
+      }
     },
     {
       "name": "Watrana Rentals",
       "segment": "mainboard",
       "detailUrl": "https://ipowatch.in/watrana-rentals-ipo-details/",
       "slug": "watrana-rentals-ipo-details",
-      "gmp": 37,
-      "gmpText": "+₹ 37",
+      "gmp": 67,
+      "gmpText": "+₹ 67",
       "trend": "unknown",
       "priceBandUpper": 245,
       "priceBandText": "₹232 - ₹245",
-      "estListing": 282,
-      "estGainPct": 15.1,
+      "estListing": 312,
+      "estGainPct": 27.35,
       "dateText": "19 Nov - 23 Nov",
       "status": "Watrana Rentals",
-      "lastUpdated": "18 Nov 2026",
+      "lastUpdated": "19 Nov 2026",
       "about": "Watrana Rentals IPO open date is November 19, 2026 and the IPO will close on November 23, 2026. Watrana Rentals IPO is a Book built Issue. The company to raise around ₹120.10 crores via IPO that comprises fresh issue of ₹120.10 crores and offer for sale up to [.] equity shares with face value of ₹10 each. Watrana Rentals IPO price band is ₹232 to ₹245 per share. The retail quota is 35.05%, QIB is 49.94%, and HNI is 15.02%. Watrana Rentals IPO to list on NSE SME on November 27, 2026. The allotment of Watrana Rentals IPO date is November 25, 2026. The company reported revenue of ₹211.69 crores in 2026 against ₹179.66 crores in 2025. The company reported profit of ₹29.16 crores in 2026, up from ₹24.43 crores in 2025.",
       "peers": [
         {
@@ -99,7 +135,12 @@
       ],
       "peerMedianPE": 46.44,
       "freshCr": 120.1,
-      "ofsCr": 0
+      "ofsCr": 0,
+      "subscription": {
+        "nii": 20.55,
+        "retail": 201.95,
+        "overall": 298.73
+      }
     }
   ]
 }
