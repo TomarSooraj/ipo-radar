@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T22:26:34.019Z",
+  "generatedAt": "2026-11-27T22:08:05.692Z",
   "source": "https://ipowatch.in/ipo-grey-market-premium-latest-ipo-gmp/",
   "disclaimer": "GMP (Grey Market Premium) is an unofficial, speculative indicator from the unregulated grey market and can change daily. Nothing here is investment advice.",
   "trackRecord": null,
@@ -39,8 +39,8 @@
       "segment": "mainboard",
       "detailUrl": "https://ipowatch.in/shree-siddhivinayak-greentech-industries-ipo-details/",
       "slug": "shree-siddhivinayak-greentech-industries-ipo-details",
-      "gmp": 8,
-      "gmpText": "+₹ 8",
+      "gmp": 1,
+      "gmpText": "+₹ 1",
       "trend": "unknown",
       "priceBandUpper": 142,
       "priceBandText": "₹130 - ₹142",
@@ -48,7 +48,7 @@
       "estGainPct": null,
       "dateText": "25 Nov - 27 Nov",
       "status": "Shree Siddhivinayak Greentech Industries",
-      "lastUpdated": "26 Nov 2026",
+      "lastUpdated": "27 Nov 2026",
       "about": "Shree Siddhivinayak Greentech Industries IPO open date is November 25, 2026 and the IPO will close on November 27, 2026. Shree Siddhivinayak Greentech Industries IPO is a book-built issue. The company to raise around ₹94 crores via IPO that comprises fresh issue of ₹94 crores and offer for sale up to [.] equity shares with face value of ₹10 each. Shree Siddhivinayak Greentech Industries IPO price band is ₹130 to ₹142 per share. The retail quota is 49.47%, QIB is 1.05%, and HNI is 49.47%. Shree Siddhivinayak Greentech Industries IPO is to list on NSE on December 2, 2026. The allotment of Shree Siddhivinayak Greentech Industries IPO date is November 30, 2026.",
       "peers": [
         {
@@ -65,9 +65,9 @@
       "ofsCr": 0,
       "subscription": {
         "qib": 4,
-        "nii": 6.73,
-        "retail": 71.23,
-        "overall": 116.41
+        "nii": 10.07,
+        "retail": 103.63,
+        "overall": 154.85
       }
     },
     {
@@ -75,8 +75,8 @@
       "segment": "mainboard",
       "detailUrl": "https://ipowatch.in/foodlink-fb-holdings-ipo-details/",
       "slug": "foodlink-fb-holdings-ipo-details",
-      "gmp": 12,
-      "gmpText": "+₹ 12",
+      "gmp": 4,
+      "gmpText": "+₹ 4",
       "trend": "unknown",
       "priceBandUpper": 191,
       "priceBandText": "₹181 - ₹191",
@@ -84,15 +84,15 @@
       "estGainPct": null,
       "dateText": "26 Nov - 30 Nov",
       "status": "Foodlink F&B Holdings",
-      "lastUpdated": "26 Nov 2026",
+      "lastUpdated": "27 Nov 2026",
       "about": "Foodlink F&B Holdings IPO open date is November 26, 2026, and the IPO will close on November 30, 2026. Foodlink F&B Holdings IPO is a book-built issue. The company aims to raise around ₹360.76 crores via IPO that comprises fresh issue of ₹190 crores and an offer for sale of up to 88,35,382 equity shares with face value of ₹2 each. Foodlink F&B Holdings IPO price band is ₹181 to ₹191 per share. The retail quota is 10%, QIB is 75%, and HNI is 15%. Foodlink F&B Holdings IPO is to list on BSE and NSE on December 3, 2026. The allotment of Foodlink F&B Holdings IPO date is December 1, 2026.",
       "freshCr": 190,
       "ofsCr": 168.76,
       "subscription": {
-        "qib": 108.23,
-        "nii": 9.76,
-        "retail": 86.65,
-        "overall": 216.97
+        "qib": 108.25,
+        "nii": 17.98,
+        "retail": 146.76,
+        "overall": 294.97
       }
     },
     {
@@ -100,8 +100,8 @@
       "segment": "mainboard",
       "detailUrl": "https://ipowatch.in/airpro-technology-ipo-details/",
       "slug": "airpro-technology-ipo-details",
-      "gmp": 2,
-      "gmpText": "+₹ 2",
+      "gmp": 3,
+      "gmpText": "+₹ 3",
       "trend": "unknown",
       "priceBandUpper": 99,
       "priceBandText": "₹99",
@@ -109,7 +109,7 @@
       "estGainPct": null,
       "dateText": "27 Nov - 1 Dec",
       "status": "Airpro Technology",
-      "lastUpdated": "26 Nov 2026",
+      "lastUpdated": "27 Nov 2026",
       "about": "Airpro Technology IPO open date is November 27, 2026 and the IPO will close on December 1, 2026. Airpro Technology IPO is a Fixed Price issue. The company to raise around ₹35.64 crores via IPO that comprises fresh issue of ₹28.91 crores and offer for sale up to 6,80,000 equity shares with face value of ₹10 each. Airpro Technology IPO price band is ₹99 per share. The retail quota is 50%, QIB is 0%, and HNI is 50%. Airpro Technology IPO is to list on NSE on December 4, 2026. The allotment of Airpro Technology IPO date is December 2, 2026.",
       "peers": [
         {
@@ -123,7 +123,12 @@
       ],
       "peerMedianPE": 42.08,
       "freshCr": 28.91,
-      "ofsCr": 6.73
+      "ofsCr": 6.73,
+      "subscription": {
+        "nii": 10.05,
+        "retail": 16.77,
+        "overall": 26.83
+      }
     },
     {
       "name": "A J Packaging",
@@ -139,7 +144,7 @@
       "estGainPct": null,
       "dateText": "1 Dec - 3 Dec",
       "status": "A J Packaging",
-      "lastUpdated": "26 Nov 2026",
+      "lastUpdated": "27 Nov 2026",
       "about": "A J Packaging IPO opening date is December 1, 2026, and the IPO will close on December 3, 2026. A J Packaging IPO is a book-built issue. The company aims to raise around ₹54 crores via the IPO, comprising a fresh issue of ₹49.50 crores and an offer for sale of up to 2,50,000 equity shares with a face value of ₹10 each. A J Packaging IPO price band is ₹175 to ₹180 per share. The retail quota is 35%, QIB is 50%, and HNI is 15%. A J Packaging IPO is to list on the NSE on December 8, 2026. The allotment of A J Packaging IPO date is December 4, 2026.",
       "peers": [
         {
@@ -164,8 +169,8 @@
       "segment": "mainboard",
       "detailUrl": "https://ipowatch.in/matangi-rubber-ipo-details/",
       "slug": "matangi-rubber-ipo-details",
-      "gmp": 27,
-      "gmpText": "+₹ 27",
+      "gmp": 31,
+      "gmpText": "+₹ 31",
       "trend": "unknown",
       "priceBandUpper": 172,
       "priceBandText": "₹163 - ₹172",
@@ -173,7 +178,7 @@
       "estGainPct": null,
       "dateText": "1 Dec - 3 Dec",
       "status": "Matangi Rubber",
-      "lastUpdated": "26 Nov 2026",
+      "lastUpdated": "27 Nov 2026",
       "about": "Matangi Rubber IPO open date is December 1, 2026 and the IPO will close on December 3, 2026. Matangi Rubber IPO is a book-built issue. The company to raise around ₹125.16 crores via IPO that comprises fresh issue of ₹99.10 crores and offer for sale up to 15,15,150 equity shares with face value of ₹10 each. Matangi Rubber IPO price band is ₹163 to ₹172 per share. The retail quota is 35%, QIB is 50%, and HNI is 15%. Matangi Rubber IPO is to list on BSE, NSE on December 8, 2026. The allotment of Matangi Rubber IPO date is December 4, 2026.",
       "peers": [
         {
@@ -198,27 +203,27 @@
       "segment": "mainboard",
       "detailUrl": "https://ipowatch.in/swara-baby-products-ipo-details/",
       "slug": "swara-baby-products-ipo-details",
-      "gmp": 0,
-      "gmpText": "₹0",
+      "gmp": 3,
+      "gmpText": "+₹ 3",
       "trend": "unknown",
-      "priceBandUpper": 0,
-      "priceBandText": "₹0",
+      "priceBandUpper": 111,
+      "priceBandText": "₹105 - ₹111",
       "estListing": null,
       "estGainPct": null,
       "dateText": "2 Dec - 4 Dec",
       "status": "Swara Baby Products",
-      "lastUpdated": "26 Nov 2026",
-      "about": "Swara Baby Products IPO opening date is in December 2, 2026 (Tentative), and the IPO will close in December 4, 2026 (Tentative). Swara Baby Products IPO is a book-building issue. The company will raise around ₹1,000 crores via the IPO, comprising a fresh issue of ₹500 crores and an offer for sale of up to [.] equity shares with a face value of ₹2 each. Swara Baby Products IPO price band is ₹[.] to ₹[.] per share. The retail quota is 35%, QIB is 50%, and HNI is 15%. Swara Baby Products IPO is to list on BSE and NSE in December 9, 2026. The allotment of Swara Baby Products IPO date is December 7, 2026.",
+      "lastUpdated": "27 Nov 2026",
+      "about": "Swara Baby Products IPO opening date is in December 2, 2026, and the IPO will close in December 4, 2026. Swara Baby Products IPO is a book-building issue. The company will raise around ₹ 800 crores via the IPO, comprising a fresh issue of ₹500 crores and an offer for sale of up to 2,70,27,027 equity shares with a face value of ₹2 each. Swara Baby Products IPO price band is ₹105 to ₹111 per share. The retail quota is 35%, QIB is 50%, and HNI is 15%. Swara Baby Products IPO is to list on BSE and NSE in December 9, 2026. The allotment of Swara Baby Products IPO date is December 7, 2026.",
       "freshCr": 500,
-      "ofsCr": 500
+      "ofsCr": 303
     },
     {
       "name": "Monomark Engineering",
       "segment": "mainboard",
       "detailUrl": "https://ipowatch.in/monomark-engineering-ipo-details/",
       "slug": "monomark-engineering-ipo-details",
-      "gmp": 24,
-      "gmpText": "+₹ 24",
+      "gmp": 20,
+      "gmpText": "+₹ 20",
       "trend": "unknown",
       "priceBandUpper": 65,
       "priceBandText": "₹60 - ₹65",
@@ -226,7 +231,7 @@
       "estGainPct": null,
       "dateText": "2 Dec - 4 Dec",
       "status": "Monomark Engineering",
-      "lastUpdated": "26 Nov 2026",
+      "lastUpdated": "27 Nov 2026",
       "about": "Monomark Engineering's IPO opening date is December 2, 2026, and the IPO will close on December 4, 2026. Monomark Engineering's IPO is a book-built issue. The company will raise around ₹176 crores via a fresh issue of ₹176 crores, with a face value of ₹10 each. Monomark Engineering IPO price band is ₹60 to ₹65 per share. The retail quota is 35%, QIB is 50%, and HNI is 15%. Monomark Engineering IPO is to list on BSE and NSE on December 9, 2026. The allotment of Monomark Engineering IPO date is December 7, 2026.",
       "peers": [
         {
@@ -258,14 +263,14 @@
       "gmp": 0,
       "gmpText": "₹0",
       "trend": "unknown",
-      "priceBandUpper": 0,
-      "priceBandText": "₹0",
+      "priceBandUpper": 90,
+      "priceBandText": "₹85 - ₹90",
       "estListing": null,
       "estGainPct": null,
       "dateText": "3 Dec - 7 Dec",
       "status": "Vishwas Refoils & Consumer",
-      "lastUpdated": "26 Nov 2026",
-      "about": "Vishwas Refoils & Consumer IPO open date is December 3, 2026, and the IPO will close on December 7, 2026. Vishwas Refoils & Consumer IPO is a book-building issue. The company will raise around ₹[.] crores via the IPO, which comprises a fresh issue of ₹[.] crores and an offer for sale of up to [.] equity shares with a face value of ₹10 each. Vishwas Refoils & Consumer IPO price band is ₹[.] to ₹[.] per share. The retail quota is 35%, QIB is 50%, and HNI is 15%. Vishwas Refoils & Consumer IPO is to list on BSE on December 10, 2026. The allotment of Vishwas Refoils & Consumer IPO date is December 8, 2026.",
+      "lastUpdated": "27 Nov 2026",
+      "about": "Vishwas Refoils & Consumer IPO open date is December 3, 2026, and the IPO will close on December 7, 2026. Vishwas Refoils & Consumer IPO is a book-building issue. The company will raise around ₹ 25.78 crores via the IPO, which comprises a fresh issue of ₹ 25.78 crores and an offer for sale of up to [.] equity shares with a face value of ₹10 each. Vishwas Refoils & Consumer IPO price band is ₹85 to ₹90 per share. The retail quota is 35%, QIB is 50%, and HNI is 15%. Vishwas Refoils & Consumer IPO is to list on BSE on December 10, 2026. The allotment of Vishwas Refoils & Consumer IPO date is December 8, 2026.",
       "peers": [
         {
           "name": "M. K. Proteins Limited",
@@ -277,7 +282,7 @@
         }
       ],
       "peerMedianPE": 15.5,
-      "freshCr": 0,
+      "freshCr": 25.78,
       "ofsCr": 0
     },
     {
@@ -294,7 +299,7 @@
       "estGainPct": null,
       "dateText": "3 Dec - 7 Dec",
       "status": "Encube Ethicals",
-      "lastUpdated": "26 Nov 2026",
+      "lastUpdated": "27 Nov 2026",
       "about": "Encube Ethicals IPO opening date is December 3, 2026 (Tentative), and the IPO will close in December 7, 2026. Encube Ethicals IPO is a book-built issue. The company aims to raise around ₹3000 crores via IPO that comprises fresh issue of ₹[.] crores and an offer for sale up to [.] equity shares with a face value of ₹1 each. Encube Ethicals IPO price band is ₹[.] to ₹[.] per share. The retail quota is 35%, QIB is 50%, and HNI is 15%. Encube Ethicals IPO is to list on BSE and NSE on December 10, 2026. The allotment of Encube Ethicals IPO date is December 8, 2026.",
       "freshCr": 0,
       "ofsCr": 3000
